@@ -1,0 +1,1601 @@
+﻿FileName,Actual,Predicted,Confidence,SubCategory
+Dry_leaf00001.JPG,Abiotic,Abiotic,0.8172,Dry Leaf
+Dry_leaf00002.JPG,Abiotic,Abiotic,0.9791,Dry Leaf
+Dry_leaf00003.JPG,Abiotic,Abiotic,1.0000,Dry Leaf
+Dry_leaf00004.JPG,Abiotic,Biotic,0.8339,Dry Leaf
+Dry_leaf00005.JPG,Abiotic,Abiotic,0.6664,Dry Leaf
+Dry_leaf00006.JPG,Abiotic,Abiotic,1.0000,Dry Leaf
+Dry_leaf00007.JPG,Abiotic,Abiotic,1.0000,Dry Leaf
+Dry_leaf00008.JPG,Abiotic,Abiotic,1.0000,Dry Leaf
+Dry_leaf00017.JPG,Abiotic,Abiotic,0.6479,Dry Leaf
+Dry_leaf00026.JPG,Abiotic,Abiotic,0.6246,Dry Leaf
+Dry_leaf00027.JPG,Abiotic,Biotic,0.9910,Dry Leaf
+Dry_leaf00028.JPG,Abiotic,Biotic,0.9996,Dry Leaf
+Dry_leaf00031.JPG,Abiotic,Biotic,0.9813,Dry Leaf
+Dry_leaf00032.JPG,Abiotic,Biotic,0.9957,Dry Leaf
+Dry_leaf00034.JPG,Abiotic,Abiotic,0.9695,Dry Leaf
+Dry_leaf00035.JPG,Abiotic,Biotic,0.6566,Dry Leaf
+Dry_leaf00036.JPG,Abiotic,Biotic,0.8821,Dry Leaf
+Dry_leaf00037.JPG,Abiotic,Abiotic,0.9999,Dry Leaf
+Dry_leaf00038.JPG,Abiotic,Biotic,0.6397,Dry Leaf
+Dry_leaf00039.JPG,Abiotic,Biotic,0.9959,Dry Leaf
+Dry_leaf00040.JPG,Abiotic,Biotic,0.9999,Dry Leaf
+Dry_leaf00041.JPG,Abiotic,Biotic,0.9933,Dry Leaf
+Dry_leaf00042.JPG,Abiotic,Biotic,0.9855,Dry Leaf
+Dry_leaf00043.JPG,Abiotic,Biotic,1.0000,Dry Leaf
+Dry_leaf00044.JPG,Abiotic,Biotic,0.7777,Dry Leaf
+Dry_leaf00045.JPG,Abiotic,Biotic,0.8002,Dry Leaf
+Dry_leaf00046.JPG,Abiotic,Biotic,0.7922,Dry Leaf
+Dry_leaf00047.JPG,Abiotic,Biotic,0.8150,Dry Leaf
+Dry_leaf00048.JPG,Abiotic,Abiotic,0.9986,Dry Leaf
+Dry_leaf00049.JPG,Abiotic,Biotic,0.9977,Dry Leaf
+Dry_leaf00050.JPG,Abiotic,Biotic,0.9995,Dry Leaf
+Dry_leaf00051.JPG,Abiotic,Biotic,0.9788,Dry Leaf
+Dry_leaf00052.JPG,Abiotic,Biotic,0.9992,Dry Leaf
+Dry_leaf00053.JPG,Abiotic,Biotic,0.9929,Dry Leaf
+Dry_leaf00054.JPG,Abiotic,Biotic,0.9903,Dry Leaf
+Dry_leaf00055.JPG,Abiotic,Abiotic,0.8471,Dry Leaf
+Dry_leaf00056.JPG,Abiotic,Biotic,0.9947,Dry Leaf
+Dry_leaf00057.JPG,Abiotic,Abiotic,0.9274,Dry Leaf
+Dry_leaf00058.JPG,Abiotic,Abiotic,0.6840,Dry Leaf
+Dry_leaf00059.JPG,Abiotic,Biotic,0.9783,Dry Leaf
+Dry_leaf00060.JPG,Abiotic,Biotic,0.9980,Dry Leaf
+Dry_leaf00068.JPG,Abiotic,Abiotic,0.9998,Dry Leaf
+Dry_leaf00069.JPG,Abiotic,Biotic,0.8599,Dry Leaf
+Dry_leaf00070.JPG,Abiotic,Biotic,0.9684,Dry Leaf
+Dry_leaf00071.JPG,Abiotic,Biotic,0.7825,Dry Leaf
+Dry_leaf00072.JPG,Abiotic,Biotic,0.8527,Dry Leaf
+Dry_leaf00080.JPG,Abiotic,Biotic,0.9998,Dry Leaf
+Dry_leaf00081.JPG,Abiotic,Biotic,0.9899,Dry Leaf
+Dry_leaf00082.JPG,Abiotic,Biotic,0.9999,Dry Leaf
+Dry_leaf00083.JPG,Abiotic,Biotic,0.9897,Dry Leaf
+Dry_leaf00084.JPG,Abiotic,Biotic,0.9348,Dry Leaf
+Dry_leaf00085.JPG,Abiotic,Biotic,0.5483,Dry Leaf
+Dry_leaf00086.JPG,Abiotic,Biotic,0.9997,Dry Leaf
+Dry_leaf00089.JPG,Abiotic,Abiotic,0.7376,Dry Leaf
+Dry_leaf00090.JPG,Abiotic,Abiotic,0.8936,Dry Leaf
+Dry_leaf00091.JPG,Abiotic,Biotic,0.6897,Dry Leaf
+Dry_leaf00095.JPG,Abiotic,Biotic,0.8890,Dry Leaf
+Dry_leaf00096.JPG,Abiotic,Abiotic,0.9957,Dry Leaf
+Dry_leaf00097.JPG,Abiotic,Abiotic,0.5217,Dry Leaf
+Dry_leaf00098.JPG,Abiotic,Biotic,0.9991,Dry Leaf
+Dry_leaf00099.JPG,Abiotic,Biotic,0.6356,Dry Leaf
+Dry_leaf00100.JPG,Abiotic,Biotic,0.9032,Dry Leaf
+Dry_leaf00101.JPG,Abiotic,Biotic,0.9991,Dry Leaf
+Dry_leaf00102.JPG,Abiotic,Abiotic,0.9863,Dry Leaf
+Dry_leaf00103.JPG,Abiotic,Biotic,0.9990,Dry Leaf
+Dry_leaf00104.JPG,Abiotic,Biotic,0.9999,Dry Leaf
+Dry_leaf00105.JPG,Abiotic,Biotic,0.9910,Dry Leaf
+Dry_leaf00106.JPG,Abiotic,Biotic,0.9996,Dry Leaf
+Dry_leaf00107.JPG,Abiotic,Abiotic,0.9952,Dry Leaf
+Dry_leaf00108.JPG,Abiotic,Biotic,0.9709,Dry Leaf
+Dry_leaf00109.JPG,Abiotic,Abiotic,0.9397,Dry Leaf
+Dry_leaf00110.JPG,Abiotic,Abiotic,0.9129,Dry Leaf
+Dry_leaf00111.JPG,Abiotic,Biotic,0.9936,Dry Leaf
+Dry_leaf00112.JPG,Abiotic,Abiotic,0.9771,Dry Leaf
+Dry_leaf00113.JPG,Abiotic,Biotic,0.9509,Dry Leaf
+Dry_leaf00114.JPG,Abiotic,Biotic,0.8827,Dry Leaf
+Dry_leaf00115.JPG,Abiotic,Biotic,0.9609,Dry Leaf
+Dry_leaf00116.JPG,Abiotic,Biotic,0.9867,Dry Leaf
+Dry_leaf00117.JPG,Abiotic,Biotic,0.9869,Dry Leaf
+Dry_leaf00118.JPG,Abiotic,Abiotic,0.8109,Dry Leaf
+Dry_leaf00119.JPG,Abiotic,Biotic,0.8608,Dry Leaf
+Dry_leaf00120.JPG,Abiotic,Abiotic,0.9386,Dry Leaf
+Dry_leaf00169.JPG,Abiotic,Biotic,0.9885,Dry Leaf
+Dry_leaf00170.JPG,Abiotic,Biotic,0.9939,Dry Leaf
+Dry_leaf00171.JPG,Abiotic,Abiotic,0.8922,Dry Leaf
+Dry_leaf00172.JPG,Abiotic,Abiotic,0.9552,Dry Leaf
+Dry_leaf00173.JPG,Abiotic,Biotic,0.8397,Dry Leaf
+Dry_leaf00174.JPG,Abiotic,Biotic,1.0000,Dry Leaf
+Dry_leaf00175.JPG,Abiotic,Biotic,0.9965,Dry Leaf
+Dry_leaf00176.JPG,Abiotic,Biotic,0.9991,Dry Leaf
+Dry_leaf00177.JPG,Abiotic,Biotic,0.9985,Dry Leaf
+Dry_leaf00178.JPG,Abiotic,Biotic,0.9821,Dry Leaf
+Dry_leaf00179.JPG,Abiotic,Biotic,0.8922,Dry Leaf
+Dry_leaf00180.JPG,Abiotic,Biotic,0.9975,Dry Leaf
+Dry_leaf00181.JPG,Abiotic,Biotic,0.9711,Dry Leaf
+Dry_leaf00182.JPG,Abiotic,Biotic,0.7677,Dry Leaf
+Dry_leaf00183.JPG,Abiotic,Abiotic,0.9336,Dry Leaf
+Dry_leaf00184.JPG,Abiotic,Biotic,0.9723,Dry Leaf
+Dry_leaf00185.JPG,Abiotic,Biotic,0.8201,Dry Leaf
+Dry_leaf00186.JPG,Abiotic,Biotic,0.5266,Dry Leaf
+Healthy_leaf00001.JPG,Abiotic,Abiotic,0.8863,Healthy Leaf
+Healthy_leaf00002.JPG,Abiotic,Abiotic,0.9999,Healthy Leaf
+Healthy_leaf00003.JPG,Abiotic,Abiotic,0.9982,Healthy Leaf
+Healthy_leaf00004.JPG,Abiotic,Abiotic,0.9987,Healthy Leaf
+Healthy_leaf00005.JPG,Abiotic,Abiotic,0.9999,Healthy Leaf
+Healthy_leaf00006.JPG,Abiotic,Abiotic,0.9998,Healthy Leaf
+Healthy_leaf00007.JPG,Abiotic,Abiotic,0.9982,Healthy Leaf
+Healthy_leaf00008.JPG,Abiotic,Abiotic,0.9955,Healthy Leaf
+Healthy_leaf00009.JPG,Abiotic,Abiotic,0.9987,Healthy Leaf
+Healthy_leaf00010.JPG,Abiotic,Abiotic,0.9983,Healthy Leaf
+Healthy_leaf00011.JPG,Abiotic,Abiotic,0.9313,Healthy Leaf
+Healthy_leaf00012.JPG,Abiotic,Biotic,0.9950,Healthy Leaf
+Healthy_leaf00013.JPG,Abiotic,Abiotic,0.9222,Healthy Leaf
+Healthy_leaf00014.JPG,Abiotic,Abiotic,0.8282,Healthy Leaf
+Healthy_leaf00015.JPG,Abiotic,Biotic,0.7516,Healthy Leaf
+Healthy_leaf00016.JPG,Abiotic,Abiotic,0.8434,Healthy Leaf
+Healthy_leaf00017.JPG,Abiotic,Abiotic,1.0000,Healthy Leaf
+Healthy_leaf00018.JPG,Abiotic,Abiotic,0.9987,Healthy Leaf
+Healthy_leaf00019.JPG,Abiotic,Abiotic,0.8833,Healthy Leaf
+Healthy_leaf00020.JPG,Abiotic,Abiotic,0.9973,Healthy Leaf
+Healthy_leaf00021.JPG,Abiotic,Abiotic,0.9890,Healthy Leaf
+Healthy_leaf00022.JPG,Abiotic,Abiotic,0.9973,Healthy Leaf
+Healthy_leaf00023.JPG,Abiotic,Abiotic,0.9983,Healthy Leaf
+Healthy_leaf00024.JPG,Abiotic,Abiotic,1.0000,Healthy Leaf
+Healthy_leaf00025.JPG,Abiotic,Abiotic,0.9999,Healthy Leaf
+Healthy_leaf00026.JPG,Abiotic,Abiotic,0.9753,Healthy Leaf
+Healthy_leaf00027.JPG,Abiotic,Abiotic,1.0000,Healthy Leaf
+Healthy_leaf00028.JPG,Abiotic,Abiotic,0.9985,Healthy Leaf
+Healthy_leaf00029.JPG,Abiotic,Abiotic,0.9357,Healthy Leaf
+Healthy_leaf00030.JPG,Abiotic,Abiotic,0.9816,Healthy Leaf
+Healthy_leaf00031.JPG,Abiotic,Abiotic,0.6275,Healthy Leaf
+Healthy_leaf00032.JPG,Abiotic,Abiotic,1.0000,Healthy Leaf
+Healthy_leaf00033.JPG,Abiotic,Abiotic,1.0000,Healthy Leaf
+Healthy_leaf00034.JPG,Abiotic,Abiotic,1.0000,Healthy Leaf
+Healthy_leaf00035.JPG,Abiotic,Abiotic,0.9996,Healthy Leaf
+Healthy_leaf00036.JPG,Abiotic,Biotic,0.9080,Healthy Leaf
+Healthy_leaf00037.JPG,Abiotic,Biotic,0.5544,Healthy Leaf
+Healthy_leaf00038.JPG,Abiotic,Abiotic,1.0000,Healthy Leaf
+Healthy_leaf00039.JPG,Abiotic,Abiotic,0.9914,Healthy Leaf
+Healthy_leaf00040.JPG,Abiotic,Abiotic,0.9991,Healthy Leaf
+Healthy_leaf00041.JPG,Abiotic,Abiotic,0.9855,Healthy Leaf
+Healthy_leaf00042.JPG,Abiotic,Abiotic,0.9916,Healthy Leaf
+Healthy_leaf00043.JPG,Abiotic,Abiotic,0.9757,Healthy Leaf
+Healthy_leaf00044.JPG,Abiotic,Abiotic,0.9902,Healthy Leaf
+Healthy_leaf00045.JPG,Abiotic,Abiotic,0.9828,Healthy Leaf
+Healthy_leaf00046.JPG,Abiotic,Abiotic,0.9984,Healthy Leaf
+Healthy_leaf00047.JPG,Abiotic,Abiotic,0.6067,Healthy Leaf
+Healthy_leaf00048.JPG,Abiotic,Abiotic,0.9978,Healthy Leaf
+Healthy_leaf00049.JPG,Abiotic,Biotic,0.9817,Healthy Leaf
+Healthy_leaf00050.JPG,Abiotic,Biotic,0.9091,Healthy Leaf
+Healthy_leaf00051.JPG,Abiotic,Abiotic,0.9864,Healthy Leaf
+Healthy_leaf00052.JPG,Abiotic,Abiotic,0.9980,Healthy Leaf
+Healthy_leaf00053.JPG,Abiotic,Abiotic,0.9549,Healthy Leaf
+Healthy_leaf00054.JPG,Abiotic,Abiotic,0.9995,Healthy Leaf
+Healthy_leaf00055.JPG,Abiotic,Abiotic,0.9963,Healthy Leaf
+Healthy_leaf00056.JPG,Abiotic,Abiotic,0.8665,Healthy Leaf
+Healthy_leaf00057.JPG,Abiotic,Abiotic,0.9993,Healthy Leaf
+Healthy_leaf00058.JPG,Abiotic,Abiotic,0.9575,Healthy Leaf
+Healthy_leaf00059.JPG,Abiotic,Abiotic,0.9990,Healthy Leaf
+Healthy_leaf00060.JPG,Abiotic,Abiotic,0.9569,Healthy Leaf
+Healthy_leaf00061.JPG,Abiotic,Abiotic,0.9934,Healthy Leaf
+Healthy_leaf00062.JPG,Abiotic,Abiotic,0.7751,Healthy Leaf
+Healthy_leaf00063.JPG,Abiotic,Abiotic,0.9969,Healthy Leaf
+Healthy_leaf00064.JPG,Abiotic,Abiotic,1.0000,Healthy Leaf
+Healthy_leaf00065.JPG,Abiotic,Abiotic,0.9983,Healthy Leaf
+Healthy_leaf00066.JPG,Abiotic,Abiotic,0.7903,Healthy Leaf
+Healthy_leaf00067.JPG,Abiotic,Abiotic,0.8616,Healthy Leaf
+Healthy_leaf00068.JPG,Abiotic,Abiotic,0.6903,Healthy Leaf
+Healthy_leaf00069.JPG,Abiotic,Abiotic,0.9987,Healthy Leaf
+Healthy_leaf00070.JPG,Abiotic,Abiotic,1.0000,Healthy Leaf
+Healthy_leaf00071.JPG,Abiotic,Abiotic,0.9998,Healthy Leaf
+Healthy_leaf00072.JPG,Abiotic,Abiotic,0.9992,Healthy Leaf
+Healthy_leaf00073.JPG,Abiotic,Abiotic,0.9993,Healthy Leaf
+Healthy_leaf00074.JPG,Abiotic,Abiotic,0.9999,Healthy Leaf
+Healthy_leaf00075.JPG,Abiotic,Abiotic,0.9924,Healthy Leaf
+Healthy_leaf00076.JPG,Abiotic,Abiotic,0.9919,Healthy Leaf
+Healthy_leaf00077.JPG,Abiotic,Abiotic,0.9996,Healthy Leaf
+Healthy_leaf00078.JPG,Abiotic,Abiotic,0.9865,Healthy Leaf
+Healthy_leaf00079.JPG,Abiotic,Abiotic,0.9992,Healthy Leaf
+Healthy_leaf00080.JPG,Abiotic,Abiotic,0.9981,Healthy Leaf
+Healthy_leaf00081.JPG,Abiotic,Biotic,0.9722,Healthy Leaf
+Healthy_leaf00082.JPG,Abiotic,Abiotic,0.8187,Healthy Leaf
+Healthy_leaf00083.JPG,Abiotic,Abiotic,0.9692,Healthy Leaf
+Healthy_leaf00084.JPG,Abiotic,Abiotic,0.9966,Healthy Leaf
+Healthy_leaf00085.JPG,Abiotic,Abiotic,0.9980,Healthy Leaf
+Healthy_leaf00086.JPG,Abiotic,Abiotic,0.9995,Healthy Leaf
+Healthy_leaf00087.JPG,Abiotic,Abiotic,0.9998,Healthy Leaf
+Healthy_leaf00088.JPG,Abiotic,Abiotic,0.9993,Healthy Leaf
+Healthy_leaf00089.JPG,Abiotic,Abiotic,0.9974,Healthy Leaf
+Healthy_leaf00090.JPG,Abiotic,Abiotic,0.9092,Healthy Leaf
+Healthy_leaf00091.JPG,Abiotic,Biotic,0.9651,Healthy Leaf
+Healthy_leaf00092.JPG,Abiotic,Biotic,0.7075,Healthy Leaf
+Healthy_leaf00093.JPG,Abiotic,Abiotic,0.9622,Healthy Leaf
+Healthy_leaf00094.JPG,Abiotic,Abiotic,0.9990,Healthy Leaf
+Healthy_leaf00095.JPG,Abiotic,Abiotic,0.9939,Healthy Leaf
+Healthy_leaf00096.JPG,Abiotic,Abiotic,0.9989,Healthy Leaf
+Healthy_leaf00097.JPG,Abiotic,Abiotic,0.9998,Healthy Leaf
+Healthy_leaf00098.JPG,Abiotic,Abiotic,0.9986,Healthy Leaf
+Healthy_leaf00099.JPG,Abiotic,Abiotic,0.9980,Healthy Leaf
+Healthy_leaf00100.JPG,Abiotic,Abiotic,1.0000,Healthy Leaf
+Dry_leaf00001.JPG,Abiotic,Abiotic,0.8172,Dry Leaf
+Dry_leaf00002.JPG,Abiotic,Abiotic,0.9791,Dry Leaf
+Dry_leaf00003.JPG,Abiotic,Abiotic,1.0000,Dry Leaf
+Dry_leaf00004.JPG,Abiotic,Biotic,0.8339,Dry Leaf
+Dry_leaf00005.JPG,Abiotic,Abiotic,0.6664,Dry Leaf
+Dry_leaf00006.JPG,Abiotic,Abiotic,1.0000,Dry Leaf
+Dry_leaf00007.JPG,Abiotic,Abiotic,1.0000,Dry Leaf
+Dry_leaf00008.JPG,Abiotic,Abiotic,1.0000,Dry Leaf
+Dry_leaf00017.JPG,Abiotic,Abiotic,0.6479,Dry Leaf
+Dry_leaf00026.JPG,Abiotic,Abiotic,0.6246,Dry Leaf
+Dry_leaf00027.JPG,Abiotic,Biotic,0.9910,Dry Leaf
+Dry_leaf00028.JPG,Abiotic,Biotic,0.9996,Dry Leaf
+Dry_leaf00031.JPG,Abiotic,Biotic,0.9813,Dry Leaf
+Dry_leaf00032.JPG,Abiotic,Biotic,0.9957,Dry Leaf
+Dry_leaf00034.JPG,Abiotic,Abiotic,0.9695,Dry Leaf
+Dry_leaf00035.JPG,Abiotic,Biotic,0.6566,Dry Leaf
+Dry_leaf00036.JPG,Abiotic,Biotic,0.8821,Dry Leaf
+Dry_leaf00037.JPG,Abiotic,Abiotic,0.9999,Dry Leaf
+Dry_leaf00038.JPG,Abiotic,Biotic,0.6397,Dry Leaf
+Dry_leaf00039.JPG,Abiotic,Biotic,0.9959,Dry Leaf
+Dry_leaf00040.JPG,Abiotic,Biotic,0.9999,Dry Leaf
+Dry_leaf00041.JPG,Abiotic,Biotic,0.9933,Dry Leaf
+Dry_leaf00042.JPG,Abiotic,Biotic,0.9855,Dry Leaf
+Dry_leaf00043.JPG,Abiotic,Biotic,1.0000,Dry Leaf
+Dry_leaf00044.JPG,Abiotic,Biotic,0.7777,Dry Leaf
+Dry_leaf00045.JPG,Abiotic,Biotic,0.8002,Dry Leaf
+Dry_leaf00046.JPG,Abiotic,Biotic,0.7922,Dry Leaf
+Dry_leaf00047.JPG,Abiotic,Biotic,0.8150,Dry Leaf
+Dry_leaf00048.JPG,Abiotic,Abiotic,0.9986,Dry Leaf
+Dry_leaf00049.JPG,Abiotic,Biotic,0.9977,Dry Leaf
+Dry_leaf00050.JPG,Abiotic,Biotic,0.9995,Dry Leaf
+Dry_leaf00051.JPG,Abiotic,Biotic,0.9788,Dry Leaf
+Dry_leaf00052.JPG,Abiotic,Biotic,0.9992,Dry Leaf
+Dry_leaf00053.JPG,Abiotic,Biotic,0.9929,Dry Leaf
+Dry_leaf00054.JPG,Abiotic,Biotic,0.9903,Dry Leaf
+Dry_leaf00055.JPG,Abiotic,Abiotic,0.8471,Dry Leaf
+Dry_leaf00056.JPG,Abiotic,Biotic,0.9947,Dry Leaf
+Dry_leaf00057.JPG,Abiotic,Abiotic,0.9274,Dry Leaf
+Dry_leaf00058.JPG,Abiotic,Abiotic,0.6840,Dry Leaf
+Dry_leaf00059.JPG,Abiotic,Biotic,0.9783,Dry Leaf
+Dry_leaf00060.JPG,Abiotic,Biotic,0.9980,Dry Leaf
+Dry_leaf00068.JPG,Abiotic,Abiotic,0.9998,Dry Leaf
+Dry_leaf00069.JPG,Abiotic,Biotic,0.8599,Dry Leaf
+Dry_leaf00070.JPG,Abiotic,Biotic,0.9684,Dry Leaf
+Dry_leaf00071.JPG,Abiotic,Biotic,0.7825,Dry Leaf
+Dry_leaf00072.JPG,Abiotic,Biotic,0.8527,Dry Leaf
+Dry_leaf00080.JPG,Abiotic,Biotic,0.9998,Dry Leaf
+Dry_leaf00081.JPG,Abiotic,Biotic,0.9899,Dry Leaf
+Dry_leaf00082.JPG,Abiotic,Biotic,0.9999,Dry Leaf
+Dry_leaf00083.JPG,Abiotic,Biotic,0.9897,Dry Leaf
+Dry_leaf00084.JPG,Abiotic,Biotic,0.9348,Dry Leaf
+Dry_leaf00085.JPG,Abiotic,Biotic,0.5483,Dry Leaf
+Dry_leaf00086.JPG,Abiotic,Biotic,0.9997,Dry Leaf
+Dry_leaf00089.JPG,Abiotic,Abiotic,0.7376,Dry Leaf
+Dry_leaf00090.JPG,Abiotic,Abiotic,0.8936,Dry Leaf
+Dry_leaf00091.JPG,Abiotic,Biotic,0.6897,Dry Leaf
+Dry_leaf00095.JPG,Abiotic,Biotic,0.8890,Dry Leaf
+Dry_leaf00096.JPG,Abiotic,Abiotic,0.9957,Dry Leaf
+Dry_leaf00097.JPG,Abiotic,Abiotic,0.5217,Dry Leaf
+Dry_leaf00098.JPG,Abiotic,Biotic,0.9991,Dry Leaf
+Dry_leaf00099.JPG,Abiotic,Biotic,0.6356,Dry Leaf
+Dry_leaf00100.JPG,Abiotic,Biotic,0.9032,Dry Leaf
+Dry_leaf00101.JPG,Abiotic,Biotic,0.9991,Dry Leaf
+Dry_leaf00102.JPG,Abiotic,Abiotic,0.9863,Dry Leaf
+Dry_leaf00103.JPG,Abiotic,Biotic,0.9990,Dry Leaf
+Dry_leaf00104.JPG,Abiotic,Biotic,0.9999,Dry Leaf
+Dry_leaf00105.JPG,Abiotic,Biotic,0.9910,Dry Leaf
+Dry_leaf00106.JPG,Abiotic,Biotic,0.9996,Dry Leaf
+Dry_leaf00107.JPG,Abiotic,Abiotic,0.9952,Dry Leaf
+Dry_leaf00108.JPG,Abiotic,Biotic,0.9709,Dry Leaf
+Dry_leaf00109.JPG,Abiotic,Abiotic,0.9397,Dry Leaf
+Dry_leaf00110.JPG,Abiotic,Abiotic,0.9129,Dry Leaf
+Dry_leaf00111.JPG,Abiotic,Biotic,0.9936,Dry Leaf
+Dry_leaf00112.JPG,Abiotic,Abiotic,0.9771,Dry Leaf
+Dry_leaf00113.JPG,Abiotic,Biotic,0.9509,Dry Leaf
+Dry_leaf00114.JPG,Abiotic,Biotic,0.8827,Dry Leaf
+Dry_leaf00115.JPG,Abiotic,Biotic,0.9609,Dry Leaf
+Dry_leaf00116.JPG,Abiotic,Biotic,0.9867,Dry Leaf
+Dry_leaf00117.JPG,Abiotic,Biotic,0.9869,Dry Leaf
+Dry_leaf00118.JPG,Abiotic,Abiotic,0.8109,Dry Leaf
+Dry_leaf00119.JPG,Abiotic,Biotic,0.8608,Dry Leaf
+Dry_leaf00120.JPG,Abiotic,Abiotic,0.9386,Dry Leaf
+Dry_leaf00169.JPG,Abiotic,Biotic,0.9885,Dry Leaf
+Dry_leaf00170.JPG,Abiotic,Biotic,0.9939,Dry Leaf
+Dry_leaf00171.JPG,Abiotic,Abiotic,0.8922,Dry Leaf
+Dry_leaf00172.JPG,Abiotic,Abiotic,0.9552,Dry Leaf
+Dry_leaf00173.JPG,Abiotic,Biotic,0.8397,Dry Leaf
+Dry_leaf00174.JPG,Abiotic,Biotic,1.0000,Dry Leaf
+Dry_leaf00175.JPG,Abiotic,Biotic,0.9965,Dry Leaf
+Dry_leaf00176.JPG,Abiotic,Biotic,0.9991,Dry Leaf
+Dry_leaf00177.JPG,Abiotic,Biotic,0.9985,Dry Leaf
+Dry_leaf00178.JPG,Abiotic,Biotic,0.9821,Dry Leaf
+Dry_leaf00179.JPG,Abiotic,Biotic,0.8922,Dry Leaf
+Dry_leaf00180.JPG,Abiotic,Biotic,0.9975,Dry Leaf
+Dry_leaf00181.JPG,Abiotic,Biotic,0.9711,Dry Leaf
+Dry_leaf00182.JPG,Abiotic,Biotic,0.7677,Dry Leaf
+Dry_leaf00183.JPG,Abiotic,Abiotic,0.9336,Dry Leaf
+Dry_leaf00184.JPG,Abiotic,Biotic,0.9723,Dry Leaf
+Dry_leaf00185.JPG,Abiotic,Biotic,0.8201,Dry Leaf
+Dry_leaf00186.JPG,Abiotic,Biotic,0.5266,Dry Leaf
+Healthy_leaf00001.JPG,Abiotic,Abiotic,0.8863,Healthy Leaf
+Healthy_leaf00002.JPG,Abiotic,Abiotic,0.9999,Healthy Leaf
+Healthy_leaf00003.JPG,Abiotic,Abiotic,0.9982,Healthy Leaf
+Healthy_leaf00004.JPG,Abiotic,Abiotic,0.9987,Healthy Leaf
+Healthy_leaf00005.JPG,Abiotic,Abiotic,0.9999,Healthy Leaf
+Healthy_leaf00006.JPG,Abiotic,Abiotic,0.9998,Healthy Leaf
+Healthy_leaf00007.JPG,Abiotic,Abiotic,0.9982,Healthy Leaf
+Healthy_leaf00008.JPG,Abiotic,Abiotic,0.9955,Healthy Leaf
+Healthy_leaf00009.JPG,Abiotic,Abiotic,0.9987,Healthy Leaf
+Healthy_leaf00010.JPG,Abiotic,Abiotic,0.9983,Healthy Leaf
+Healthy_leaf00011.JPG,Abiotic,Abiotic,0.9313,Healthy Leaf
+Healthy_leaf00012.JPG,Abiotic,Biotic,0.9950,Healthy Leaf
+Healthy_leaf00013.JPG,Abiotic,Abiotic,0.9222,Healthy Leaf
+Healthy_leaf00014.JPG,Abiotic,Abiotic,0.8282,Healthy Leaf
+Healthy_leaf00015.JPG,Abiotic,Biotic,0.7516,Healthy Leaf
+Healthy_leaf00016.JPG,Abiotic,Abiotic,0.8434,Healthy Leaf
+Healthy_leaf00017.JPG,Abiotic,Abiotic,1.0000,Healthy Leaf
+Healthy_leaf00018.JPG,Abiotic,Abiotic,0.9987,Healthy Leaf
+Healthy_leaf00019.JPG,Abiotic,Abiotic,0.8833,Healthy Leaf
+Healthy_leaf00020.JPG,Abiotic,Abiotic,0.9973,Healthy Leaf
+Healthy_leaf00021.JPG,Abiotic,Abiotic,0.9890,Healthy Leaf
+Healthy_leaf00022.JPG,Abiotic,Abiotic,0.9973,Healthy Leaf
+Healthy_leaf00023.JPG,Abiotic,Abiotic,0.9983,Healthy Leaf
+Healthy_leaf00024.JPG,Abiotic,Abiotic,1.0000,Healthy Leaf
+Healthy_leaf00025.JPG,Abiotic,Abiotic,0.9999,Healthy Leaf
+Healthy_leaf00026.JPG,Abiotic,Abiotic,0.9753,Healthy Leaf
+Healthy_leaf00027.JPG,Abiotic,Abiotic,1.0000,Healthy Leaf
+Healthy_leaf00028.JPG,Abiotic,Abiotic,0.9985,Healthy Leaf
+Healthy_leaf00029.JPG,Abiotic,Abiotic,0.9357,Healthy Leaf
+Healthy_leaf00030.JPG,Abiotic,Abiotic,0.9816,Healthy Leaf
+Healthy_leaf00031.JPG,Abiotic,Abiotic,0.6275,Healthy Leaf
+Healthy_leaf00032.JPG,Abiotic,Abiotic,1.0000,Healthy Leaf
+Healthy_leaf00033.JPG,Abiotic,Abiotic,1.0000,Healthy Leaf
+Healthy_leaf00034.JPG,Abiotic,Abiotic,1.0000,Healthy Leaf
+Healthy_leaf00035.JPG,Abiotic,Abiotic,0.9996,Healthy Leaf
+Healthy_leaf00036.JPG,Abiotic,Biotic,0.9080,Healthy Leaf
+Healthy_leaf00037.JPG,Abiotic,Biotic,0.5544,Healthy Leaf
+Healthy_leaf00038.JPG,Abiotic,Abiotic,1.0000,Healthy Leaf
+Healthy_leaf00039.JPG,Abiotic,Abiotic,0.9914,Healthy Leaf
+Healthy_leaf00040.JPG,Abiotic,Abiotic,0.9991,Healthy Leaf
+Healthy_leaf00041.JPG,Abiotic,Abiotic,0.9855,Healthy Leaf
+Healthy_leaf00042.JPG,Abiotic,Abiotic,0.9916,Healthy Leaf
+Healthy_leaf00043.JPG,Abiotic,Abiotic,0.9757,Healthy Leaf
+Healthy_leaf00044.JPG,Abiotic,Abiotic,0.9902,Healthy Leaf
+Healthy_leaf00045.JPG,Abiotic,Abiotic,0.9828,Healthy Leaf
+Healthy_leaf00046.JPG,Abiotic,Abiotic,0.9984,Healthy Leaf
+Healthy_leaf00047.JPG,Abiotic,Abiotic,0.6067,Healthy Leaf
+Healthy_leaf00048.JPG,Abiotic,Abiotic,0.9978,Healthy Leaf
+Healthy_leaf00049.JPG,Abiotic,Biotic,0.9817,Healthy Leaf
+Healthy_leaf00050.JPG,Abiotic,Biotic,0.9091,Healthy Leaf
+Healthy_leaf00051.JPG,Abiotic,Abiotic,0.9864,Healthy Leaf
+Healthy_leaf00052.JPG,Abiotic,Abiotic,0.9980,Healthy Leaf
+Healthy_leaf00053.JPG,Abiotic,Abiotic,0.9549,Healthy Leaf
+Healthy_leaf00054.JPG,Abiotic,Abiotic,0.9995,Healthy Leaf
+Healthy_leaf00055.JPG,Abiotic,Abiotic,0.9963,Healthy Leaf
+Healthy_leaf00056.JPG,Abiotic,Abiotic,0.8665,Healthy Leaf
+Healthy_leaf00057.JPG,Abiotic,Abiotic,0.9993,Healthy Leaf
+Healthy_leaf00058.JPG,Abiotic,Abiotic,0.9575,Healthy Leaf
+Healthy_leaf00059.JPG,Abiotic,Abiotic,0.9990,Healthy Leaf
+Healthy_leaf00060.JPG,Abiotic,Abiotic,0.9569,Healthy Leaf
+Healthy_leaf00061.JPG,Abiotic,Abiotic,0.9934,Healthy Leaf
+Healthy_leaf00062.JPG,Abiotic,Abiotic,0.7751,Healthy Leaf
+Healthy_leaf00063.JPG,Abiotic,Abiotic,0.9969,Healthy Leaf
+Healthy_leaf00064.JPG,Abiotic,Abiotic,1.0000,Healthy Leaf
+Healthy_leaf00065.JPG,Abiotic,Abiotic,0.9983,Healthy Leaf
+Healthy_leaf00066.JPG,Abiotic,Abiotic,0.7903,Healthy Leaf
+Healthy_leaf00067.JPG,Abiotic,Abiotic,0.8616,Healthy Leaf
+Healthy_leaf00068.JPG,Abiotic,Abiotic,0.6903,Healthy Leaf
+Healthy_leaf00069.JPG,Abiotic,Abiotic,0.9987,Healthy Leaf
+Healthy_leaf00070.JPG,Abiotic,Abiotic,1.0000,Healthy Leaf
+Healthy_leaf00071.JPG,Abiotic,Abiotic,0.9998,Healthy Leaf
+Healthy_leaf00072.JPG,Abiotic,Abiotic,0.9992,Healthy Leaf
+Healthy_leaf00073.JPG,Abiotic,Abiotic,0.9993,Healthy Leaf
+Healthy_leaf00074.JPG,Abiotic,Abiotic,0.9999,Healthy Leaf
+Healthy_leaf00075.JPG,Abiotic,Abiotic,0.9924,Healthy Leaf
+Healthy_leaf00076.JPG,Abiotic,Abiotic,0.9919,Healthy Leaf
+Healthy_leaf00077.JPG,Abiotic,Abiotic,0.9996,Healthy Leaf
+Healthy_leaf00078.JPG,Abiotic,Abiotic,0.9865,Healthy Leaf
+Healthy_leaf00079.JPG,Abiotic,Abiotic,0.9992,Healthy Leaf
+Healthy_leaf00080.JPG,Abiotic,Abiotic,0.9981,Healthy Leaf
+Healthy_leaf00081.JPG,Abiotic,Biotic,0.9722,Healthy Leaf
+Healthy_leaf00082.JPG,Abiotic,Abiotic,0.8187,Healthy Leaf
+Healthy_leaf00083.JPG,Abiotic,Abiotic,0.9692,Healthy Leaf
+Healthy_leaf00084.JPG,Abiotic,Abiotic,0.9966,Healthy Leaf
+Healthy_leaf00085.JPG,Abiotic,Abiotic,0.9980,Healthy Leaf
+Healthy_leaf00086.JPG,Abiotic,Abiotic,0.9995,Healthy Leaf
+Healthy_leaf00087.JPG,Abiotic,Abiotic,0.9998,Healthy Leaf
+Healthy_leaf00088.JPG,Abiotic,Abiotic,0.9993,Healthy Leaf
+Healthy_leaf00089.JPG,Abiotic,Abiotic,0.9974,Healthy Leaf
+Healthy_leaf00090.JPG,Abiotic,Abiotic,0.9092,Healthy Leaf
+Healthy_leaf00091.JPG,Abiotic,Biotic,0.9651,Healthy Leaf
+Healthy_leaf00092.JPG,Abiotic,Biotic,0.7075,Healthy Leaf
+Healthy_leaf00093.JPG,Abiotic,Abiotic,0.9622,Healthy Leaf
+Healthy_leaf00094.JPG,Abiotic,Abiotic,0.9990,Healthy Leaf
+Healthy_leaf00095.JPG,Abiotic,Abiotic,0.9939,Healthy Leaf
+Healthy_leaf00096.JPG,Abiotic,Abiotic,0.9989,Healthy Leaf
+Healthy_leaf00097.JPG,Abiotic,Abiotic,0.9998,Healthy Leaf
+Healthy_leaf00098.JPG,Abiotic,Abiotic,0.9986,Healthy Leaf
+Healthy_leaf00099.JPG,Abiotic,Abiotic,0.9980,Healthy Leaf
+Healthy_leaf00100.JPG,Abiotic,Abiotic,1.0000,Healthy Leaf
+Anthracnose00001.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00002.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00003.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00004.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00005.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00006.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00007.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00008.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00009.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00010.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00011.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00012.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00013.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00014.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00015.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00016.JPG,Biotic,Biotic,0.8260,Anthracnose
+Anthracnose00017.JPG,Biotic,Abiotic,0.7887,Anthracnose
+Anthracnose00018.JPG,Biotic,Abiotic,0.5119,Anthracnose
+Anthracnose00019.JPG,Biotic,Biotic,0.9999,Anthracnose
+Anthracnose00020.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00021.JPG,Biotic,Biotic,0.9999,Anthracnose
+Anthracnose00022.JPG,Biotic,Biotic,0.9996,Anthracnose
+Anthracnose00023.JPG,Biotic,Biotic,0.9997,Anthracnose
+Anthracnose00024.JPG,Biotic,Biotic,0.9998,Anthracnose
+Anthracnose00025.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00026.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00027.JPG,Biotic,Biotic,0.9999,Anthracnose
+Anthracnose00028.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00029.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00030.JPG,Biotic,Biotic,0.9999,Anthracnose
+Anthracnose00031.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00032.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00033.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00034.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00035.JPG,Biotic,Biotic,0.9996,Anthracnose
+Anthracnose00036.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00037.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00038.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00039.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00040.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00041.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00042.JPG,Biotic,Biotic,0.9999,Anthracnose
+Anthracnose00043.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00044.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00045.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00046.JPG,Biotic,Biotic,0.9058,Anthracnose
+Anthracnose00047.JPG,Biotic,Biotic,0.9987,Anthracnose
+Anthracnose00048.JPG,Biotic,Biotic,0.9997,Anthracnose
+Anthracnose00049.JPG,Biotic,Biotic,0.9998,Anthracnose
+Anthracnose00050.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00051.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00052.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00053.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00054.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00055.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00056.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00057.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00058.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00059.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00060.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00061.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00062.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00063.JPG,Biotic,Biotic,0.9969,Anthracnose
+Anthracnose00064.JPG,Biotic,Biotic,0.9984,Anthracnose
+Anthracnose00065.JPG,Biotic,Biotic,0.9878,Anthracnose
+Anthracnose00066.JPG,Biotic,Biotic,0.9830,Anthracnose
+Anthracnose00067.JPG,Biotic,Biotic,0.9994,Anthracnose
+Anthracnose00068.JPG,Biotic,Biotic,0.9777,Anthracnose
+Anthracnose00069.JPG,Biotic,Biotic,0.9928,Anthracnose
+Anthracnose00070.JPG,Biotic,Biotic,0.9989,Anthracnose
+Anthracnose00071.JPG,Biotic,Biotic,0.9994,Anthracnose
+Anthracnose00072.JPG,Biotic,Biotic,0.9988,Anthracnose
+Anthracnose00073.JPG,Biotic,Biotic,0.9979,Anthracnose
+Anthracnose00074.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00075.JPG,Biotic,Biotic,0.9999,Anthracnose
+Anthracnose00076.JPG,Biotic,Biotic,0.9932,Anthracnose
+Anthracnose00077.JPG,Biotic,Biotic,0.9958,Anthracnose
+Anthracnose00078.JPG,Biotic,Biotic,0.9999,Anthracnose
+Anthracnose00079.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00080.JPG,Biotic,Biotic,0.9999,Anthracnose
+Anthracnose00081.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00082.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00083.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00084.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00085.JPG,Biotic,Biotic,0.9150,Anthracnose
+Anthracnose00086.JPG,Biotic,Biotic,0.9999,Anthracnose
+Anthracnose00087.JPG,Biotic,Biotic,0.8792,Anthracnose
+Anthracnose00088.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00089.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00090.JPG,Biotic,Biotic,0.5880,Anthracnose
+Anthracnose00091.JPG,Biotic,Biotic,0.9991,Anthracnose
+Anthracnose00092.JPG,Biotic,Biotic,0.9998,Anthracnose
+Anthracnose00093.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00094.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00095.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00096.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00097.JPG,Biotic,Abiotic,0.9276,Anthracnose
+Anthracnose00098.JPG,Biotic,Biotic,0.9562,Anthracnose
+Anthracnose00099.JPG,Biotic,Biotic,0.9979,Anthracnose
+Anthracnose00100.JPG,Biotic,Biotic,1.0000,Anthracnose
+bacterial_blight00001.JPG,Biotic,Biotic,0.9999,Bacterial Blight
+bacterial_blight00002.JPG,Biotic,Biotic,1.0000,Bacterial Blight
+bacterial_blight00003.JPG,Biotic,Biotic,1.0000,Bacterial Blight
+bacterial_blight00004.JPG,Biotic,Biotic,0.9987,Bacterial Blight
+bacterial_blight00005.JPG,Biotic,Biotic,1.0000,Bacterial Blight
+bacterial_blight00006.JPG,Biotic,Biotic,0.9998,Bacterial Blight
+bacterial_blight00007.JPG,Biotic,Biotic,0.9983,Bacterial Blight
+bacterial_blight00008.JPG,Biotic,Biotic,1.0000,Bacterial Blight
+bacterial_blight00009.JPG,Biotic,Biotic,0.9992,Bacterial Blight
+bacterial_blight00010.JPG,Biotic,Biotic,1.0000,Bacterial Blight
+bacterial_blight00011.JPG,Biotic,Biotic,1.0000,Bacterial Blight
+bacterial_blight00012.JPG,Biotic,Biotic,1.0000,Bacterial Blight
+bacterial_blight00013.JPG,Biotic,Biotic,0.9996,Bacterial Blight
+bacterial_blight00014.JPG,Biotic,Biotic,1.0000,Bacterial Blight
+bacterial_blight00015.JPG,Biotic,Biotic,0.9999,Bacterial Blight
+bacterial_blight00016.JPG,Biotic,Biotic,0.9994,Bacterial Blight
+bacterial_blight00017.JPG,Biotic,Biotic,0.9997,Bacterial Blight
+bacterial_blight00018.JPG,Biotic,Biotic,1.0000,Bacterial Blight
+bacterial_blight00019.JPG,Biotic,Biotic,1.0000,Bacterial Blight
+bacterial_blight00020.JPG,Biotic,Biotic,1.0000,Bacterial Blight
+bacterial_blight00021.JPG,Biotic,Biotic,1.0000,Bacterial Blight
+bacterial_blight00022.JPG,Biotic,Biotic,0.9998,Bacterial Blight
+bacterial_blight00023.JPG,Biotic,Biotic,1.0000,Bacterial Blight
+bacterial_blight00024.JPG,Biotic,Biotic,1.0000,Bacterial Blight
+bacterial_blight00025.JPG,Biotic,Biotic,1.0000,Bacterial Blight
+bacterial_blight00026.JPG,Biotic,Biotic,0.9996,Bacterial Blight
+bacterial_blight00027.JPG,Biotic,Biotic,0.9999,Bacterial Blight
+bacterial_blight00028.JPG,Biotic,Biotic,1.0000,Bacterial Blight
+bacterial_blight00029.JPG,Biotic,Biotic,0.9917,Bacterial Blight
+bacterial_blight00030.JPG,Biotic,Biotic,0.9999,Bacterial Blight
+bacterial_blight00031.JPG,Biotic,Biotic,0.9980,Bacterial Blight
+bacterial_blight00032.JPG,Biotic,Biotic,0.9999,Bacterial Blight
+bacterial_blight00033.JPG,Biotic,Biotic,0.8872,Bacterial Blight
+bacterial_blight00034.JPG,Biotic,Biotic,0.9982,Bacterial Blight
+bacterial_blight00035.JPG,Biotic,Biotic,0.9883,Bacterial Blight
+bacterial_blight00037.JPG,Biotic,Biotic,0.9242,Bacterial Blight
+bacterial_blight00038.JPG,Biotic,Biotic,0.9850,Bacterial Blight
+bacterial_blight00039.JPG,Biotic,Biotic,0.9996,Bacterial Blight
+bacterial_blight00040.JPG,Biotic,Biotic,0.9998,Bacterial Blight
+bacterial_blight00041.JPG,Biotic,Biotic,0.9972,Bacterial Blight
+bacterial_blight00042.JPG,Biotic,Biotic,1.0000,Bacterial Blight
+bacterial_blight00043.JPG,Biotic,Biotic,1.0000,Bacterial Blight
+bacterial_blight00044.JPG,Biotic,Biotic,0.9930,Bacterial Blight
+bacterial_blight00045.JPG,Biotic,Biotic,0.9996,Bacterial Blight
+bacterial_blight00046.JPG,Biotic,Biotic,0.9967,Bacterial Blight
+bacterial_blight00047.JPG,Biotic,Biotic,0.9986,Bacterial Blight
+bacterial_blight00048.JPG,Biotic,Biotic,1.0000,Bacterial Blight
+bacterial_blight00049.JPG,Biotic,Biotic,1.0000,Bacterial Blight
+bacterial_blight00050.JPG,Biotic,Biotic,1.0000,Bacterial Blight
+bacterial_blight00051.JPG,Biotic,Biotic,1.0000,Bacterial Blight
+bacterial_blight00052.JPG,Biotic,Biotic,0.9997,Bacterial Blight
+bacterial_blight00053.JPG,Biotic,Biotic,1.0000,Bacterial Blight
+bacterial_blight00054.JPG,Biotic,Biotic,0.9454,Bacterial Blight
+bacterial_blight00055.JPG,Biotic,Biotic,0.9823,Bacterial Blight
+bacterial_blight00056.JPG,Biotic,Biotic,0.9975,Bacterial Blight
+bacterial_blight00057.JPG,Biotic,Biotic,1.0000,Bacterial Blight
+bacterial_blight00058.JPG,Biotic,Biotic,1.0000,Bacterial Blight
+bacterial_blight00059.JPG,Biotic,Biotic,1.0000,Bacterial Blight
+bacterial_blight00060.JPG,Biotic,Biotic,1.0000,Bacterial Blight
+bacterial_blight00062.JPG,Biotic,Biotic,0.9909,Bacterial Blight
+bacterial_blight00063.JPG,Biotic,Biotic,0.8983,Bacterial Blight
+bacterial_blight00064.JPG,Biotic,Biotic,1.0000,Bacterial Blight
+bacterial_blight00065.JPG,Biotic,Biotic,0.9998,Bacterial Blight
+bacterial_blight00066.JPG,Biotic,Biotic,1.0000,Bacterial Blight
+bacterial_blight00067.JPG,Biotic,Biotic,0.9993,Bacterial Blight
+bacterial_blight00068.JPG,Biotic,Biotic,0.9999,Bacterial Blight
+bacterial_blight00069.JPG,Biotic,Biotic,0.9998,Bacterial Blight
+bacterial_blight00070.JPG,Biotic,Biotic,0.9287,Bacterial Blight
+bacterial_blight00071.JPG,Biotic,Biotic,1.0000,Bacterial Blight
+bacterial_blight00072.JPG,Biotic,Biotic,1.0000,Bacterial Blight
+bacterial_blight00073.JPG,Biotic,Biotic,1.0000,Bacterial Blight
+bacterial_blight00074.JPG,Biotic,Biotic,1.0000,Bacterial Blight
+bacterial_blight00075.JPG,Biotic,Biotic,0.9997,Bacterial Blight
+bacterial_blight00076.JPG,Biotic,Biotic,1.0000,Bacterial Blight
+bacterial_blight00077.JPG,Biotic,Biotic,0.9999,Bacterial Blight
+bacterial_blight00078.JPG,Biotic,Biotic,1.0000,Bacterial Blight
+bacterial_blight00079.JPG,Biotic,Biotic,0.9979,Bacterial Blight
+bacterial_blight00080.JPG,Biotic,Biotic,0.9910,Bacterial Blight
+bacterial_blight00081.JPG,Biotic,Biotic,0.9999,Bacterial Blight
+bacterial_blight00082.JPG,Biotic,Biotic,0.9998,Bacterial Blight
+bacterial_blight00083.JPG,Biotic,Biotic,0.9995,Bacterial Blight
+bacterial_blight00084.JPG,Biotic,Biotic,0.9992,Bacterial Blight
+bacterial_blight00085.JPG,Biotic,Biotic,1.0000,Bacterial Blight
+bacterial_blight00086.JPG,Biotic,Biotic,0.9039,Bacterial Blight
+bacterial_blight00087.JPG,Biotic,Biotic,0.8283,Bacterial Blight
+bacterial_blight00088.JPG,Biotic,Biotic,1.0000,Bacterial Blight
+bacterial_blight00089.JPG,Biotic,Biotic,0.9999,Bacterial Blight
+bacterial_blight00090.JPG,Biotic,Biotic,0.9605,Bacterial Blight
+bacterial_blight00091.JPG,Biotic,Biotic,0.9904,Bacterial Blight
+bacterial_blight00092.JPG,Biotic,Biotic,0.8054,Bacterial Blight
+bacterial_blight00093.JPG,Biotic,Biotic,0.9331,Bacterial Blight
+bacterial_blight00094.JPG,Biotic,Biotic,0.9921,Bacterial Blight
+bacterial_blight00095.JPG,Biotic,Biotic,0.8799,Bacterial Blight
+bacterial_blight00096.JPG,Biotic,Biotic,0.8635,Bacterial Blight
+bacterial_blight00097.JPG,Biotic,Biotic,0.6966,Bacterial Blight
+bacterial_blight00098.JPG,Biotic,Biotic,0.9984,Bacterial Blight
+bacterial_blight00099.JPG,Biotic,Biotic,1.0000,Bacterial Blight
+bacterial_blight00100.JPG,Biotic,Biotic,1.0000,Bacterial Blight
+bacterial_blight00101.JPG,Biotic,Biotic,1.0000,Bacterial Blight
+bacterial_blight00102.JPG,Biotic,Biotic,1.0000,Bacterial Blight
+Citrus_Canker00001.JPG,Biotic,Biotic,0.9729,Citrus Canker
+Citrus_Canker00002.JPG,Biotic,Abiotic,0.8091,Citrus Canker
+Citrus_Canker00003.JPG,Biotic,Abiotic,0.5146,Citrus Canker
+Citrus_Canker00004.JPG,Biotic,Abiotic,0.9428,Citrus Canker
+Citrus_Canker00005.JPG,Biotic,Abiotic,0.6753,Citrus Canker
+Citrus_Canker00006.JPG,Biotic,Abiotic,0.7840,Citrus Canker
+Citrus_Canker00011.JPG,Biotic,Biotic,1.0000,Citrus Canker
+Citrus_Canker00012.JPG,Biotic,Biotic,1.0000,Citrus Canker
+Citrus_Canker00013.JPG,Biotic,Biotic,1.0000,Citrus Canker
+Citrus_Canker00014.JPG,Biotic,Biotic,0.9997,Citrus Canker
+Citrus_Canker00015.JPG,Biotic,Biotic,1.0000,Citrus Canker
+Citrus_Canker00016.JPG,Biotic,Biotic,1.0000,Citrus Canker
+Citrus_Canker00017.JPG,Biotic,Biotic,1.0000,Citrus Canker
+Citrus_Canker00018.JPG,Biotic,Biotic,1.0000,Citrus Canker
+Citrus_Canker00019.JPG,Biotic,Biotic,0.9988,Citrus Canker
+Citrus_Canker00020.JPG,Biotic,Biotic,0.9990,Citrus Canker
+Citrus_Canker00021.JPG,Biotic,Biotic,0.9998,Citrus Canker
+Citrus_Canker00022.JPG,Biotic,Biotic,1.0000,Citrus Canker
+Citrus_Canker00023.JPG,Biotic,Biotic,1.0000,Citrus Canker
+Citrus_Canker00024.JPG,Biotic,Biotic,0.9998,Citrus Canker
+Citrus_Canker00025.JPG,Biotic,Biotic,0.9920,Citrus Canker
+Citrus_Canker00026.JPG,Biotic,Biotic,1.0000,Citrus Canker
+Citrus_Canker00037.JPG,Biotic,Biotic,1.0000,Citrus Canker
+Citrus_Canker00038.JPG,Biotic,Biotic,1.0000,Citrus Canker
+Citrus_Canker00039.JPG,Biotic,Biotic,1.0000,Citrus Canker
+Citrus_Canker00040.JPG,Biotic,Biotic,0.9999,Citrus Canker
+Citrus_Canker00041.JPG,Biotic,Biotic,0.9998,Citrus Canker
+Citrus_Canker00042.JPG,Biotic,Biotic,0.9935,Citrus Canker
+Citrus_Canker00043.JPG,Biotic,Abiotic,0.8850,Citrus Canker
+Citrus_Canker00044.JPG,Biotic,Abiotic,0.9975,Citrus Canker
+Citrus_Canker00045.JPG,Biotic,Abiotic,0.8032,Citrus Canker
+Citrus_Canker00046.JPG,Biotic,Biotic,0.9581,Citrus Canker
+Citrus_Canker00047.JPG,Biotic,Biotic,0.8798,Citrus Canker
+Citrus_Canker00048.JPG,Biotic,Biotic,0.6917,Citrus Canker
+Citrus_Canker00049.JPG,Biotic,Biotic,0.8772,Citrus Canker
+Citrus_Canker00050.JPG,Biotic,Biotic,1.0000,Citrus Canker
+Citrus_Canker00051.JPG,Biotic,Biotic,1.0000,Citrus Canker
+Citrus_Canker00052.JPG,Biotic,Biotic,1.0000,Citrus Canker
+Citrus_Canker00053.JPG,Biotic,Biotic,0.9992,Citrus Canker
+Citrus_Canker00054.JPG,Biotic,Biotic,1.0000,Citrus Canker
+Citrus_Canker00055.JPG,Biotic,Biotic,0.9997,Citrus Canker
+Citrus_Canker00056.JPG,Biotic,Biotic,0.9995,Citrus Canker
+Citrus_Canker00057.JPG,Biotic,Biotic,1.0000,Citrus Canker
+Citrus_Canker00058.JPG,Biotic,Biotic,1.0000,Citrus Canker
+Citrus_Canker00059.JPG,Biotic,Biotic,1.0000,Citrus Canker
+Citrus_Canker00069.JPG,Biotic,Biotic,0.9999,Citrus Canker
+Citrus_Canker00073.JPG,Biotic,Biotic,0.9999,Citrus Canker
+Citrus_Canker00074.JPG,Biotic,Biotic,0.9999,Citrus Canker
+Citrus_Canker00075.JPG,Biotic,Biotic,0.9998,Citrus Canker
+Citrus_Canker00076.JPG,Biotic,Abiotic,0.7558,Citrus Canker
+Citrus_Canker00077.JPG,Biotic,Biotic,0.9632,Citrus Canker
+Citrus_Canker00078.JPG,Biotic,Biotic,0.9929,Citrus Canker
+Citrus_Canker00079.JPG,Biotic,Biotic,0.9952,Citrus Canker
+Citrus_Canker00080.JPG,Biotic,Biotic,0.9214,Citrus Canker
+Citrus_Canker00081.JPG,Biotic,Biotic,0.9999,Citrus Canker
+Citrus_Canker00082.JPG,Biotic,Biotic,1.0000,Citrus Canker
+Citrus_Canker00083.JPG,Biotic,Biotic,0.9996,Citrus Canker
+Citrus_Canker00084.JPG,Biotic,Biotic,0.9998,Citrus Canker
+Citrus_Canker00085.JPG,Biotic,Biotic,0.9998,Citrus Canker
+Citrus_Canker00086.JPG,Biotic,Biotic,1.0000,Citrus Canker
+Citrus_Canker00087.JPG,Biotic,Biotic,0.9999,Citrus Canker
+Citrus_Canker00088.JPG,Biotic,Biotic,1.0000,Citrus Canker
+Citrus_Canker00089.JPG,Biotic,Biotic,1.0000,Citrus Canker
+Citrus_Canker00090.JPG,Biotic,Biotic,1.0000,Citrus Canker
+Citrus_Canker00091.JPG,Biotic,Biotic,1.0000,Citrus Canker
+Citrus_Canker00092.JPG,Biotic,Biotic,1.0000,Citrus Canker
+Citrus_Canker00093.JPG,Biotic,Biotic,1.0000,Citrus Canker
+Citrus_Canker00094.JPG,Biotic,Biotic,1.0000,Citrus Canker
+Citrus_Canker00095.JPG,Biotic,Biotic,1.0000,Citrus Canker
+Citrus_Canker00096.JPG,Biotic,Biotic,1.0000,Citrus Canker
+Citrus_Canker00115.JPG,Biotic,Biotic,1.0000,Citrus Canker
+Citrus_Canker00116.JPG,Biotic,Biotic,1.0000,Citrus Canker
+Citrus_Canker00118.JPG,Biotic,Biotic,1.0000,Citrus Canker
+Citrus_Canker00121.JPG,Biotic,Biotic,1.0000,Citrus Canker
+Citrus_Canker00122.JPG,Biotic,Biotic,0.9997,Citrus Canker
+Citrus_Canker00123.JPG,Biotic,Biotic,0.9148,Citrus Canker
+Citrus_Canker00124.JPG,Biotic,Biotic,0.9991,Citrus Canker
+Citrus_Canker00125.JPG,Biotic,Biotic,0.9999,Citrus Canker
+Citrus_Canker00126.JPG,Biotic,Biotic,0.9985,Citrus Canker
+Citrus_Canker00127.JPG,Biotic,Biotic,0.9993,Citrus Canker
+Citrus_Canker00128.JPG,Biotic,Biotic,1.0000,Citrus Canker
+Citrus_Canker00129.JPG,Biotic,Biotic,0.9969,Citrus Canker
+Citrus_Canker00130.JPG,Biotic,Biotic,0.9999,Citrus Canker
+Citrus_Canker00131.JPG,Biotic,Biotic,0.9953,Citrus Canker
+Citrus_Canker00132.JPG,Biotic,Biotic,0.9997,Citrus Canker
+Citrus_Canker00154.JPG,Biotic,Biotic,1.0000,Citrus Canker
+Citrus_Canker00157.JPG,Biotic,Biotic,0.9998,Citrus Canker
+Citrus_Canker00158.JPG,Biotic,Biotic,0.9999,Citrus Canker
+Citrus_Canker00159.JPG,Biotic,Biotic,0.9841,Citrus Canker
+Citrus_Canker00160.JPG,Biotic,Biotic,0.9963,Citrus Canker
+Citrus_Canker00161.JPG,Biotic,Biotic,0.9636,Citrus Canker
+Citrus_Canker00162.JPG,Biotic,Biotic,0.9108,Citrus Canker
+Citrus_Canker00163.JPG,Biotic,Biotic,0.9737,Citrus Canker
+Citrus_Canker00164.JPG,Biotic,Biotic,0.9449,Citrus Canker
+Citrus_Canker00170.JPG,Biotic,Biotic,0.9999,Citrus Canker
+Citrus_Canker00171.JPG,Biotic,Biotic,0.9998,Citrus Canker
+Citrus_Canker00172.JPG,Biotic,Biotic,1.0000,Citrus Canker
+Citrus_Canker00173.JPG,Biotic,Biotic,1.0000,Citrus Canker
+Citrus_Canker00174.JPG,Biotic,Biotic,1.0000,Citrus Canker
+Citrus_Canker00175.JPG,Biotic,Biotic,1.0000,Citrus Canker
+curl_virus00001.JPG,Biotic,Biotic,0.6476,Curl Virus
+curl_virus00002.JPG,Biotic,Biotic,0.9954,Curl Virus
+curl_virus00003.JPG,Biotic,Biotic,0.9640,Curl Virus
+curl_virus00004.JPG,Biotic,Biotic,0.9085,Curl Virus
+curl_virus00005.JPG,Biotic,Biotic,0.5384,Curl Virus
+curl_virus00006.JPG,Biotic,Biotic,0.8689,Curl Virus
+curl_virus00007.JPG,Biotic,Biotic,0.9416,Curl Virus
+curl_virus00008.JPG,Biotic,Biotic,0.9965,Curl Virus
+curl_virus00009.JPG,Biotic,Biotic,0.9842,Curl Virus
+curl_virus00010.JPG,Biotic,Biotic,0.9756,Curl Virus
+curl_virus00011.JPG,Biotic,Biotic,0.9922,Curl Virus
+curl_virus00012.JPG,Biotic,Biotic,0.9980,Curl Virus
+curl_virus00013.JPG,Biotic,Biotic,0.9943,Curl Virus
+curl_virus00014.JPG,Biotic,Biotic,0.9774,Curl Virus
+curl_virus00015.JPG,Biotic,Biotic,0.9572,Curl Virus
+curl_virus00016.JPG,Biotic,Biotic,0.9587,Curl Virus
+curl_virus00017.JPG,Biotic,Biotic,0.9937,Curl Virus
+curl_virus00018.JPG,Biotic,Biotic,0.9989,Curl Virus
+curl_virus00019.JPG,Biotic,Biotic,0.9959,Curl Virus
+curl_virus00020.JPG,Biotic,Biotic,0.9813,Curl Virus
+curl_virus00021.JPG,Biotic,Biotic,0.9982,Curl Virus
+curl_virus00022.JPG,Biotic,Biotic,0.9988,Curl Virus
+curl_virus00023.JPG,Biotic,Biotic,0.9936,Curl Virus
+curl_virus00024.JPG,Biotic,Biotic,0.9684,Curl Virus
+curl_virus00025.JPG,Biotic,Biotic,0.9095,Curl Virus
+curl_virus00026.JPG,Biotic,Biotic,0.9628,Curl Virus
+curl_virus00027.JPG,Biotic,Biotic,0.9552,Curl Virus
+curl_virus00028.JPG,Biotic,Biotic,0.9376,Curl Virus
+curl_virus00029.JPG,Biotic,Biotic,0.9746,Curl Virus
+curl_virus00030.JPG,Biotic,Biotic,0.9894,Curl Virus
+curl_virus00031.JPG,Biotic,Biotic,0.9149,Curl Virus
+curl_virus00032.JPG,Biotic,Biotic,0.9889,Curl Virus
+curl_virus00033.JPG,Biotic,Biotic,1.0000,Curl Virus
+curl_virus00034.JPG,Biotic,Biotic,1.0000,Curl Virus
+curl_virus00035.JPG,Biotic,Biotic,0.9999,Curl Virus
+curl_virus00036.JPG,Biotic,Biotic,0.9999,Curl Virus
+curl_virus00037.JPG,Biotic,Biotic,1.0000,Curl Virus
+curl_virus00038.JPG,Biotic,Biotic,1.0000,Curl Virus
+curl_virus00039.JPG,Biotic,Biotic,1.0000,Curl Virus
+curl_virus00040.JPG,Biotic,Biotic,1.0000,Curl Virus
+curl_virus00041.JPG,Biotic,Biotic,1.0000,Curl Virus
+curl_virus00042.JPG,Biotic,Biotic,1.0000,Curl Virus
+curl_virus00043.JPG,Biotic,Biotic,1.0000,Curl Virus
+curl_virus00044.JPG,Biotic,Biotic,0.9974,Curl Virus
+curl_virus00045.JPG,Biotic,Biotic,0.9692,Curl Virus
+curl_virus00046.JPG,Biotic,Biotic,0.9737,Curl Virus
+curl_virus00047.JPG,Biotic,Abiotic,0.5233,Curl Virus
+curl_virus00048.JPG,Biotic,Biotic,0.9983,Curl Virus
+curl_virus00049.JPG,Biotic,Biotic,0.9994,Curl Virus
+curl_virus00050.JPG,Biotic,Biotic,0.9933,Curl Virus
+curl_virus00051.JPG,Biotic,Biotic,0.9966,Curl Virus
+curl_virus00052.JPG,Biotic,Biotic,0.9974,Curl Virus
+curl_virus00053.JPG,Biotic,Biotic,0.9981,Curl Virus
+curl_virus00054.JPG,Biotic,Biotic,0.9997,Curl Virus
+curl_virus00055.JPG,Biotic,Biotic,0.8932,Curl Virus
+curl_virus00056.JPG,Biotic,Biotic,0.9988,Curl Virus
+curl_virus00057.JPG,Biotic,Biotic,0.9994,Curl Virus
+curl_virus00058.JPG,Biotic,Biotic,0.9995,Curl Virus
+curl_virus00059.JPG,Biotic,Biotic,0.8700,Curl Virus
+curl_virus00060.JPG,Biotic,Biotic,0.9990,Curl Virus
+curl_virus00061.JPG,Biotic,Biotic,0.9960,Curl Virus
+curl_virus00062.JPG,Biotic,Biotic,0.8805,Curl Virus
+curl_virus00063.JPG,Biotic,Biotic,0.9536,Curl Virus
+curl_virus00064.JPG,Biotic,Biotic,0.9985,Curl Virus
+curl_virus00065.JPG,Biotic,Biotic,0.9889,Curl Virus
+curl_virus00066.JPG,Biotic,Biotic,0.8963,Curl Virus
+curl_virus00067.JPG,Biotic,Biotic,0.9902,Curl Virus
+curl_virus00068.JPG,Biotic,Abiotic,0.7845,Curl Virus
+curl_virus00069.JPG,Biotic,Abiotic,0.6156,Curl Virus
+curl_virus00070.JPG,Biotic,Abiotic,0.6103,Curl Virus
+curl_virus00071.JPG,Biotic,Abiotic,0.6346,Curl Virus
+curl_virus00072.JPG,Biotic,Biotic,0.7740,Curl Virus
+curl_virus00073.JPG,Biotic,Biotic,0.9600,Curl Virus
+curl_virus00074.JPG,Biotic,Abiotic,0.8220,Curl Virus
+curl_virus00075.JPG,Biotic,Abiotic,0.5720,Curl Virus
+curl_virus00076.JPG,Biotic,Biotic,0.9646,Curl Virus
+curl_virus00077.JPG,Biotic,Biotic,0.8937,Curl Virus
+curl_virus00078.JPG,Biotic,Biotic,0.5746,Curl Virus
+curl_virus00079.JPG,Biotic,Abiotic,0.5155,Curl Virus
+curl_virus00080.JPG,Biotic,Abiotic,0.6023,Curl Virus
+curl_virus00081.JPG,Biotic,Biotic,0.9012,Curl Virus
+curl_virus00082.JPG,Biotic,Abiotic,0.5570,Curl Virus
+curl_virus00083.JPG,Biotic,Biotic,0.6803,Curl Virus
+curl_virus00084.JPG,Biotic,Abiotic,0.5390,Curl Virus
+curl_virus00085.JPG,Biotic,Biotic,0.6178,Curl Virus
+curl_virus00086.JPG,Biotic,Abiotic,0.7202,Curl Virus
+curl_virus00087.JPG,Biotic,Biotic,0.9962,Curl Virus
+curl_virus00088.JPG,Biotic,Biotic,0.9983,Curl Virus
+curl_virus00089.JPG,Biotic,Biotic,0.9986,Curl Virus
+curl_virus00090.JPG,Biotic,Biotic,0.9993,Curl Virus
+curl_virus00091.JPG,Biotic,Biotic,0.9995,Curl Virus
+curl_virus00092.JPG,Biotic,Biotic,0.9989,Curl Virus
+curl_virus00093.JPG,Biotic,Biotic,0.9980,Curl Virus
+curl_virus00094.JPG,Biotic,Biotic,0.9999,Curl Virus
+curl_virus00095.JPG,Biotic,Biotic,0.7522,Curl Virus
+curl_virus00096.JPG,Biotic,Biotic,0.9986,Curl Virus
+curl_virus00097.JPG,Biotic,Biotic,0.9988,Curl Virus
+curl_virus00098.JPG,Biotic,Biotic,0.8951,Curl Virus
+curl_virus00099.JPG,Biotic,Biotic,0.9600,Curl Virus
+curl_virus00100.JPG,Biotic,Biotic,0.9940,Curl Virus
+sooty_mould00002.JPG,Biotic,Abiotic,0.9845,Sooty Mould
+sooty_mould00003.JPG,Biotic,Abiotic,0.9996,Sooty Mould
+sooty_mould00004.JPG,Biotic,Abiotic,0.5854,Sooty Mould
+sooty_mould00005.JPG,Biotic,Abiotic,0.9823,Sooty Mould
+sooty_mould00006.JPG,Biotic,Abiotic,0.9964,Sooty Mould
+sooty_mould00007.JPG,Biotic,Abiotic,0.9909,Sooty Mould
+sooty_mould00009.JPG,Biotic,Abiotic,0.9192,Sooty Mould
+sooty_mould00011.JPG,Biotic,Abiotic,0.9622,Sooty Mould
+sooty_mould00012.JPG,Biotic,Biotic,0.5333,Sooty Mould
+sooty_mould00014.JPG,Biotic,Abiotic,0.9529,Sooty Mould
+sooty_mould00015.JPG,Biotic,Biotic,0.9870,Sooty Mould
+sooty_mould00016.JPG,Biotic,Biotic,0.9955,Sooty Mould
+sooty_mould00017.JPG,Biotic,Biotic,0.8896,Sooty Mould
+sooty_mould00018.JPG,Biotic,Biotic,0.9976,Sooty Mould
+sooty_mould00019.JPG,Biotic,Biotic,0.9302,Sooty Mould
+sooty_mould00021.JPG,Biotic,Biotic,0.8625,Sooty Mould
+sooty_mould00022.JPG,Biotic,Abiotic,0.9970,Sooty Mould
+sooty_mould00023.JPG,Biotic,Abiotic,0.9798,Sooty Mould
+sooty_mould00024.JPG,Biotic,Abiotic,0.9802,Sooty Mould
+sooty_mould00025.JPG,Biotic,Abiotic,0.9960,Sooty Mould
+sooty_mould00031.JPG,Biotic,Abiotic,0.6555,Sooty Mould
+sooty_mould00032.JPG,Biotic,Abiotic,0.9998,Sooty Mould
+sooty_mould00037.JPG,Biotic,Biotic,1.0000,Sooty Mould
+sooty_mould00040.JPG,Biotic,Biotic,0.9994,Sooty Mould
+sooty_mould00041.JPG,Biotic,Abiotic,0.7375,Sooty Mould
+sooty_mould00043.JPG,Biotic,Biotic,0.9993,Sooty Mould
+sooty_mould00045.JPG,Biotic,Abiotic,0.7939,Sooty Mould
+sooty_mould00046.JPG,Biotic,Abiotic,0.9249,Sooty Mould
+sooty_mould00047.JPG,Biotic,Biotic,0.5849,Sooty Mould
+sooty_mould00048.JPG,Biotic,Abiotic,0.7240,Sooty Mould
+sooty_mould00051.JPG,Biotic,Abiotic,0.8951,Sooty Mould
+sooty_mould00052.JPG,Biotic,Abiotic,0.9994,Sooty Mould
+sooty_mould00053.JPG,Biotic,Abiotic,0.9503,Sooty Mould
+sooty_mould00054.JPG,Biotic,Abiotic,0.9990,Sooty Mould
+sooty_mould00055.JPG,Biotic,Abiotic,0.9988,Sooty Mould
+sooty_mould00056.JPG,Biotic,Biotic,0.6894,Sooty Mould
+sooty_mould00059.JPG,Biotic,Abiotic,0.8710,Sooty Mould
+sooty_mould00060.JPG,Biotic,Abiotic,0.9816,Sooty Mould
+sooty_mould00061.JPG,Biotic,Biotic,0.8396,Sooty Mould
+sooty_mould00064.JPG,Biotic,Abiotic,0.9999,Sooty Mould
+sooty_mould00065.JPG,Biotic,Abiotic,0.6300,Sooty Mould
+sooty_mould00066.JPG,Biotic,Abiotic,0.9997,Sooty Mould
+sooty_mould00067.JPG,Biotic,Abiotic,0.9998,Sooty Mould
+sooty_mould00068.JPG,Biotic,Abiotic,0.9991,Sooty Mould
+sooty_mould00069.JPG,Biotic,Abiotic,0.9910,Sooty Mould
+sooty_mould00071.JPG,Biotic,Abiotic,0.9974,Sooty Mould
+sooty_mould00072.JPG,Biotic,Abiotic,0.9998,Sooty Mould
+sooty_mould00073.JPG,Biotic,Abiotic,0.9996,Sooty Mould
+sooty_mould00074.JPG,Biotic,Abiotic,0.9998,Sooty Mould
+sooty_mould00075.JPG,Biotic,Abiotic,0.9990,Sooty Mould
+sooty_mould00076.JPG,Biotic,Abiotic,0.9997,Sooty Mould
+sooty_mould00077.JPG,Biotic,Abiotic,0.9991,Sooty Mould
+sooty_mould00078.JPG,Biotic,Biotic,0.9955,Sooty Mould
+sooty_mould00079.JPG,Biotic,Biotic,0.9990,Sooty Mould
+sooty_mould00082.JPG,Biotic,Biotic,0.9991,Sooty Mould
+sooty_mould00083.JPG,Biotic,Biotic,0.9975,Sooty Mould
+sooty_mould00084.JPG,Biotic,Biotic,1.0000,Sooty Mould
+sooty_mould00085.JPG,Biotic,Abiotic,0.9992,Sooty Mould
+sooty_mould00086.JPG,Biotic,Abiotic,0.9988,Sooty Mould
+sooty_mould00087.JPG,Biotic,Abiotic,0.9499,Sooty Mould
+sooty_mould00088.JPG,Biotic,Abiotic,0.8900,Sooty Mould
+sooty_mould00091.JPG,Biotic,Biotic,0.7118,Sooty Mould
+sooty_mould00092.JPG,Biotic,Biotic,0.9493,Sooty Mould
+sooty_mould00093.JPG,Biotic,Abiotic,0.9998,Sooty Mould
+sooty_mould00094.JPG,Biotic,Abiotic,1.0000,Sooty Mould
+sooty_mould00095.JPG,Biotic,Abiotic,0.9801,Sooty Mould
+sooty_mould00109.JPG,Biotic,Abiotic,0.9975,Sooty Mould
+sooty_mould00110.JPG,Biotic,Abiotic,0.9943,Sooty Mould
+sooty_mould00111.JPG,Biotic,Abiotic,0.9996,Sooty Mould
+sooty_mould00112.JPG,Biotic,Abiotic,0.9418,Sooty Mould
+sooty_mould00113.JPG,Biotic,Biotic,0.9844,Sooty Mould
+sooty_mould00116.JPG,Biotic,Abiotic,0.9974,Sooty Mould
+sooty_mould00117.JPG,Biotic,Biotic,0.9991,Sooty Mould
+sooty_mould00118.JPG,Biotic,Biotic,0.9756,Sooty Mould
+sooty_mould00119.JPG,Biotic,Biotic,0.9981,Sooty Mould
+sooty_mould00120.JPG,Biotic,Biotic,0.9488,Sooty Mould
+sooty_mould00121.JPG,Biotic,Biotic,0.9923,Sooty Mould
+sooty_mould00122.JPG,Biotic,Biotic,0.8458,Sooty Mould
+sooty_mould00123.JPG,Biotic,Biotic,0.7756,Sooty Mould
+sooty_mould00124.JPG,Biotic,Abiotic,1.0000,Sooty Mould
+sooty_mould00125.JPG,Biotic,Abiotic,0.9994,Sooty Mould
+sooty_mould00126.JPG,Biotic,Abiotic,0.9938,Sooty Mould
+sooty_mould00128.JPG,Biotic,Biotic,0.9981,Sooty Mould
+sooty_mould00129.JPG,Biotic,Abiotic,0.9999,Sooty Mould
+sooty_mould00130.JPG,Biotic,Abiotic,1.0000,Sooty Mould
+sooty_mould00132.JPG,Biotic,Biotic,0.9078,Sooty Mould
+sooty_mould00133.JPG,Biotic,Abiotic,0.9992,Sooty Mould
+sooty_mould00134.JPG,Biotic,Biotic,0.9812,Sooty Mould
+sooty_mould00135.JPG,Biotic,Abiotic,0.9834,Sooty Mould
+sooty_mould00137.JPG,Biotic,Abiotic,0.9911,Sooty Mould
+sooty_mould00138.JPG,Biotic,Abiotic,1.0000,Sooty Mould
+sooty_mould00140.JPG,Biotic,Abiotic,0.9993,Sooty Mould
+sooty_mould00141.JPG,Biotic,Abiotic,0.9996,Sooty Mould
+sooty_mould00142.JPG,Biotic,Abiotic,1.0000,Sooty Mould
+sooty_mould00143.JPG,Biotic,Abiotic,1.0000,Sooty Mould
+sooty_mould00145.JPG,Biotic,Abiotic,0.6952,Sooty Mould
+sooty_mould00146.JPG,Biotic,Biotic,0.9951,Sooty Mould
+sooty_mould00147.JPG,Biotic,Biotic,0.9999,Sooty Mould
+sooty_mould00150.JPG,Biotic,Biotic,0.9607,Sooty Mould
+sooty_mould00151.JPG,Biotic,Biotic,0.9996,Sooty Mould
+spider_mites00001.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00002.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00003.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00004.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00005.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00006.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00007.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00008.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00009.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00010.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00011.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00012.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00013.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00022.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00023.JPG,Biotic,Biotic,0.9999,Spider Mites
+spider_mites00024.JPG,Biotic,Biotic,0.9874,Spider Mites
+spider_mites00025.JPG,Biotic,Biotic,0.9942,Spider Mites
+spider_mites00029.JPG,Biotic,Biotic,0.9994,Spider Mites
+spider_mites00030.JPG,Biotic,Biotic,0.9771,Spider Mites
+spider_mites00031.JPG,Biotic,Biotic,0.9990,Spider Mites
+spider_mites00032.JPG,Biotic,Biotic,0.9998,Spider Mites
+spider_mites00033.JPG,Biotic,Biotic,0.9999,Spider Mites
+spider_mites00034.JPG,Biotic,Biotic,0.9979,Spider Mites
+spider_mites00035.JPG,Biotic,Biotic,0.9972,Spider Mites
+spider_mites00036.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00037.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00038.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00039.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00040.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00041.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00042.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00043.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00044.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00045.JPG,Biotic,Biotic,0.9998,Spider Mites
+spider_mites00046.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00047.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00048.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00049.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00050.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00051.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00052.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00053.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00054.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00055.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00056.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00057.JPG,Biotic,Biotic,0.9997,Spider Mites
+spider_mites00058.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00059.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00060.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00061.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00062.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00063.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00064.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00065.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00066.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00067.JPG,Biotic,Biotic,0.9977,Spider Mites
+spider_mites00068.JPG,Biotic,Biotic,0.9998,Spider Mites
+spider_mites00069.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00070.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00071.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00072.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00073.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00074.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00075.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00076.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00077.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00078.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00079.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00080.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00081.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00082.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00083.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00084.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00085.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00086.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00087.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00088.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00089.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00090.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00091.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00095.JPG,Biotic,Biotic,0.9892,Spider Mites
+spider_mites00096.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00097.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00098.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00099.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00100.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00101.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00102.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00103.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00104.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00105.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00106.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00107.JPG,Biotic,Biotic,0.9975,Spider Mites
+spider_mites00108.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00109.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00110.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00111.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00112.JPG,Biotic,Biotic,0.9999,Spider Mites
+spider_mites00113.JPG,Biotic,Biotic,0.9999,Spider Mites
+spider_mites00114.JPG,Biotic,Biotic,0.9987,Spider Mites
+Anthracnose00001.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00002.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00003.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00004.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00005.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00006.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00007.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00008.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00009.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00010.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00011.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00012.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00013.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00014.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00015.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00016.JPG,Biotic,Biotic,0.8260,Anthracnose
+Anthracnose00017.JPG,Biotic,Abiotic,0.7887,Anthracnose
+Anthracnose00018.JPG,Biotic,Abiotic,0.5119,Anthracnose
+Anthracnose00019.JPG,Biotic,Biotic,0.9999,Anthracnose
+Anthracnose00020.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00021.JPG,Biotic,Biotic,0.9999,Anthracnose
+Anthracnose00022.JPG,Biotic,Biotic,0.9996,Anthracnose
+Anthracnose00023.JPG,Biotic,Biotic,0.9997,Anthracnose
+Anthracnose00024.JPG,Biotic,Biotic,0.9998,Anthracnose
+Anthracnose00025.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00026.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00027.JPG,Biotic,Biotic,0.9999,Anthracnose
+Anthracnose00028.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00029.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00030.JPG,Biotic,Biotic,0.9999,Anthracnose
+Anthracnose00031.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00032.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00033.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00034.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00035.JPG,Biotic,Biotic,0.9996,Anthracnose
+Anthracnose00036.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00037.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00038.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00039.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00040.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00041.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00042.JPG,Biotic,Biotic,0.9999,Anthracnose
+Anthracnose00043.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00044.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00045.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00046.JPG,Biotic,Biotic,0.9058,Anthracnose
+Anthracnose00047.JPG,Biotic,Biotic,0.9987,Anthracnose
+Anthracnose00048.JPG,Biotic,Biotic,0.9997,Anthracnose
+Anthracnose00049.JPG,Biotic,Biotic,0.9998,Anthracnose
+Anthracnose00050.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00051.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00052.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00053.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00054.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00055.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00056.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00057.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00058.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00059.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00060.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00061.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00062.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00063.JPG,Biotic,Biotic,0.9969,Anthracnose
+Anthracnose00064.JPG,Biotic,Biotic,0.9984,Anthracnose
+Anthracnose00065.JPG,Biotic,Biotic,0.9878,Anthracnose
+Anthracnose00066.JPG,Biotic,Biotic,0.9830,Anthracnose
+Anthracnose00067.JPG,Biotic,Biotic,0.9994,Anthracnose
+Anthracnose00068.JPG,Biotic,Biotic,0.9777,Anthracnose
+Anthracnose00069.JPG,Biotic,Biotic,0.9928,Anthracnose
+Anthracnose00070.JPG,Biotic,Biotic,0.9989,Anthracnose
+Anthracnose00071.JPG,Biotic,Biotic,0.9994,Anthracnose
+Anthracnose00072.JPG,Biotic,Biotic,0.9988,Anthracnose
+Anthracnose00073.JPG,Biotic,Biotic,0.9979,Anthracnose
+Anthracnose00074.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00075.JPG,Biotic,Biotic,0.9999,Anthracnose
+Anthracnose00076.JPG,Biotic,Biotic,0.9932,Anthracnose
+Anthracnose00077.JPG,Biotic,Biotic,0.9958,Anthracnose
+Anthracnose00078.JPG,Biotic,Biotic,0.9999,Anthracnose
+Anthracnose00079.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00080.JPG,Biotic,Biotic,0.9999,Anthracnose
+Anthracnose00081.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00082.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00083.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00084.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00085.JPG,Biotic,Biotic,0.9150,Anthracnose
+Anthracnose00086.JPG,Biotic,Biotic,0.9999,Anthracnose
+Anthracnose00087.JPG,Biotic,Biotic,0.8792,Anthracnose
+Anthracnose00088.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00089.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00090.JPG,Biotic,Biotic,0.5880,Anthracnose
+Anthracnose00091.JPG,Biotic,Biotic,0.9991,Anthracnose
+Anthracnose00092.JPG,Biotic,Biotic,0.9998,Anthracnose
+Anthracnose00093.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00094.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00095.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00096.JPG,Biotic,Biotic,1.0000,Anthracnose
+Anthracnose00097.JPG,Biotic,Abiotic,0.9276,Anthracnose
+Anthracnose00098.JPG,Biotic,Biotic,0.9562,Anthracnose
+Anthracnose00099.JPG,Biotic,Biotic,0.9979,Anthracnose
+Anthracnose00100.JPG,Biotic,Biotic,1.0000,Anthracnose
+bacterial_blight00001.JPG,Biotic,Biotic,0.9999,Bacterial Blight
+bacterial_blight00002.JPG,Biotic,Biotic,1.0000,Bacterial Blight
+bacterial_blight00003.JPG,Biotic,Biotic,1.0000,Bacterial Blight
+bacterial_blight00004.JPG,Biotic,Biotic,0.9987,Bacterial Blight
+bacterial_blight00005.JPG,Biotic,Biotic,1.0000,Bacterial Blight
+bacterial_blight00006.JPG,Biotic,Biotic,0.9998,Bacterial Blight
+bacterial_blight00007.JPG,Biotic,Biotic,0.9983,Bacterial Blight
+bacterial_blight00008.JPG,Biotic,Biotic,1.0000,Bacterial Blight
+bacterial_blight00009.JPG,Biotic,Biotic,0.9992,Bacterial Blight
+bacterial_blight00010.JPG,Biotic,Biotic,1.0000,Bacterial Blight
+bacterial_blight00011.JPG,Biotic,Biotic,1.0000,Bacterial Blight
+bacterial_blight00012.JPG,Biotic,Biotic,1.0000,Bacterial Blight
+bacterial_blight00013.JPG,Biotic,Biotic,0.9996,Bacterial Blight
+bacterial_blight00014.JPG,Biotic,Biotic,1.0000,Bacterial Blight
+bacterial_blight00015.JPG,Biotic,Biotic,0.9999,Bacterial Blight
+bacterial_blight00016.JPG,Biotic,Biotic,0.9994,Bacterial Blight
+bacterial_blight00017.JPG,Biotic,Biotic,0.9997,Bacterial Blight
+bacterial_blight00018.JPG,Biotic,Biotic,1.0000,Bacterial Blight
+bacterial_blight00019.JPG,Biotic,Biotic,1.0000,Bacterial Blight
+bacterial_blight00020.JPG,Biotic,Biotic,1.0000,Bacterial Blight
+bacterial_blight00021.JPG,Biotic,Biotic,1.0000,Bacterial Blight
+bacterial_blight00022.JPG,Biotic,Biotic,0.9998,Bacterial Blight
+bacterial_blight00023.JPG,Biotic,Biotic,1.0000,Bacterial Blight
+bacterial_blight00024.JPG,Biotic,Biotic,1.0000,Bacterial Blight
+bacterial_blight00025.JPG,Biotic,Biotic,1.0000,Bacterial Blight
+bacterial_blight00026.JPG,Biotic,Biotic,0.9996,Bacterial Blight
+bacterial_blight00027.JPG,Biotic,Biotic,0.9999,Bacterial Blight
+bacterial_blight00028.JPG,Biotic,Biotic,1.0000,Bacterial Blight
+bacterial_blight00029.JPG,Biotic,Biotic,0.9917,Bacterial Blight
+bacterial_blight00030.JPG,Biotic,Biotic,0.9999,Bacterial Blight
+bacterial_blight00031.JPG,Biotic,Biotic,0.9980,Bacterial Blight
+bacterial_blight00032.JPG,Biotic,Biotic,0.9999,Bacterial Blight
+bacterial_blight00033.JPG,Biotic,Biotic,0.8872,Bacterial Blight
+bacterial_blight00034.JPG,Biotic,Biotic,0.9982,Bacterial Blight
+bacterial_blight00035.JPG,Biotic,Biotic,0.9883,Bacterial Blight
+bacterial_blight00037.JPG,Biotic,Biotic,0.9242,Bacterial Blight
+bacterial_blight00038.JPG,Biotic,Biotic,0.9850,Bacterial Blight
+bacterial_blight00039.JPG,Biotic,Biotic,0.9996,Bacterial Blight
+bacterial_blight00040.JPG,Biotic,Biotic,0.9998,Bacterial Blight
+bacterial_blight00041.JPG,Biotic,Biotic,0.9972,Bacterial Blight
+bacterial_blight00042.JPG,Biotic,Biotic,1.0000,Bacterial Blight
+bacterial_blight00043.JPG,Biotic,Biotic,1.0000,Bacterial Blight
+bacterial_blight00044.JPG,Biotic,Biotic,0.9930,Bacterial Blight
+bacterial_blight00045.JPG,Biotic,Biotic,0.9996,Bacterial Blight
+bacterial_blight00046.JPG,Biotic,Biotic,0.9967,Bacterial Blight
+bacterial_blight00047.JPG,Biotic,Biotic,0.9986,Bacterial Blight
+bacterial_blight00048.JPG,Biotic,Biotic,1.0000,Bacterial Blight
+bacterial_blight00049.JPG,Biotic,Biotic,1.0000,Bacterial Blight
+bacterial_blight00050.JPG,Biotic,Biotic,1.0000,Bacterial Blight
+bacterial_blight00051.JPG,Biotic,Biotic,1.0000,Bacterial Blight
+bacterial_blight00052.JPG,Biotic,Biotic,0.9997,Bacterial Blight
+bacterial_blight00053.JPG,Biotic,Biotic,1.0000,Bacterial Blight
+bacterial_blight00054.JPG,Biotic,Biotic,0.9454,Bacterial Blight
+bacterial_blight00055.JPG,Biotic,Biotic,0.9823,Bacterial Blight
+bacterial_blight00056.JPG,Biotic,Biotic,0.9975,Bacterial Blight
+bacterial_blight00057.JPG,Biotic,Biotic,1.0000,Bacterial Blight
+bacterial_blight00058.JPG,Biotic,Biotic,1.0000,Bacterial Blight
+bacterial_blight00059.JPG,Biotic,Biotic,1.0000,Bacterial Blight
+bacterial_blight00060.JPG,Biotic,Biotic,1.0000,Bacterial Blight
+bacterial_blight00062.JPG,Biotic,Biotic,0.9909,Bacterial Blight
+bacterial_blight00063.JPG,Biotic,Biotic,0.8983,Bacterial Blight
+bacterial_blight00064.JPG,Biotic,Biotic,1.0000,Bacterial Blight
+bacterial_blight00065.JPG,Biotic,Biotic,0.9998,Bacterial Blight
+bacterial_blight00066.JPG,Biotic,Biotic,1.0000,Bacterial Blight
+bacterial_blight00067.JPG,Biotic,Biotic,0.9993,Bacterial Blight
+bacterial_blight00068.JPG,Biotic,Biotic,0.9999,Bacterial Blight
+bacterial_blight00069.JPG,Biotic,Biotic,0.9998,Bacterial Blight
+bacterial_blight00070.JPG,Biotic,Biotic,0.9287,Bacterial Blight
+bacterial_blight00071.JPG,Biotic,Biotic,1.0000,Bacterial Blight
+bacterial_blight00072.JPG,Biotic,Biotic,1.0000,Bacterial Blight
+bacterial_blight00073.JPG,Biotic,Biotic,1.0000,Bacterial Blight
+bacterial_blight00074.JPG,Biotic,Biotic,1.0000,Bacterial Blight
+bacterial_blight00075.JPG,Biotic,Biotic,0.9997,Bacterial Blight
+bacterial_blight00076.JPG,Biotic,Biotic,1.0000,Bacterial Blight
+bacterial_blight00077.JPG,Biotic,Biotic,0.9999,Bacterial Blight
+bacterial_blight00078.JPG,Biotic,Biotic,1.0000,Bacterial Blight
+bacterial_blight00079.JPG,Biotic,Biotic,0.9979,Bacterial Blight
+bacterial_blight00080.JPG,Biotic,Biotic,0.9910,Bacterial Blight
+bacterial_blight00081.JPG,Biotic,Biotic,0.9999,Bacterial Blight
+bacterial_blight00082.JPG,Biotic,Biotic,0.9998,Bacterial Blight
+bacterial_blight00083.JPG,Biotic,Biotic,0.9995,Bacterial Blight
+bacterial_blight00084.JPG,Biotic,Biotic,0.9992,Bacterial Blight
+bacterial_blight00085.JPG,Biotic,Biotic,1.0000,Bacterial Blight
+bacterial_blight00086.JPG,Biotic,Biotic,0.9039,Bacterial Blight
+bacterial_blight00087.JPG,Biotic,Biotic,0.8283,Bacterial Blight
+bacterial_blight00088.JPG,Biotic,Biotic,1.0000,Bacterial Blight
+bacterial_blight00089.JPG,Biotic,Biotic,0.9999,Bacterial Blight
+bacterial_blight00090.JPG,Biotic,Biotic,0.9605,Bacterial Blight
+bacterial_blight00091.JPG,Biotic,Biotic,0.9904,Bacterial Blight
+bacterial_blight00092.JPG,Biotic,Biotic,0.8054,Bacterial Blight
+bacterial_blight00093.JPG,Biotic,Biotic,0.9331,Bacterial Blight
+bacterial_blight00094.JPG,Biotic,Biotic,0.9921,Bacterial Blight
+bacterial_blight00095.JPG,Biotic,Biotic,0.8799,Bacterial Blight
+bacterial_blight00096.JPG,Biotic,Biotic,0.8635,Bacterial Blight
+bacterial_blight00097.JPG,Biotic,Biotic,0.6966,Bacterial Blight
+bacterial_blight00098.JPG,Biotic,Biotic,0.9984,Bacterial Blight
+bacterial_blight00099.JPG,Biotic,Biotic,1.0000,Bacterial Blight
+bacterial_blight00100.JPG,Biotic,Biotic,1.0000,Bacterial Blight
+bacterial_blight00101.JPG,Biotic,Biotic,1.0000,Bacterial Blight
+bacterial_blight00102.JPG,Biotic,Biotic,1.0000,Bacterial Blight
+Citrus_Canker00001.JPG,Biotic,Biotic,0.9729,Citrus Canker
+Citrus_Canker00002.JPG,Biotic,Abiotic,0.8091,Citrus Canker
+Citrus_Canker00003.JPG,Biotic,Abiotic,0.5146,Citrus Canker
+Citrus_Canker00004.JPG,Biotic,Abiotic,0.9428,Citrus Canker
+Citrus_Canker00005.JPG,Biotic,Abiotic,0.6753,Citrus Canker
+Citrus_Canker00006.JPG,Biotic,Abiotic,0.7840,Citrus Canker
+Citrus_Canker00011.JPG,Biotic,Biotic,1.0000,Citrus Canker
+Citrus_Canker00012.JPG,Biotic,Biotic,1.0000,Citrus Canker
+Citrus_Canker00013.JPG,Biotic,Biotic,1.0000,Citrus Canker
+Citrus_Canker00014.JPG,Biotic,Biotic,0.9997,Citrus Canker
+Citrus_Canker00015.JPG,Biotic,Biotic,1.0000,Citrus Canker
+Citrus_Canker00016.JPG,Biotic,Biotic,1.0000,Citrus Canker
+Citrus_Canker00017.JPG,Biotic,Biotic,1.0000,Citrus Canker
+Citrus_Canker00018.JPG,Biotic,Biotic,1.0000,Citrus Canker
+Citrus_Canker00019.JPG,Biotic,Biotic,0.9988,Citrus Canker
+Citrus_Canker00020.JPG,Biotic,Biotic,0.9990,Citrus Canker
+Citrus_Canker00021.JPG,Biotic,Biotic,0.9998,Citrus Canker
+Citrus_Canker00022.JPG,Biotic,Biotic,1.0000,Citrus Canker
+Citrus_Canker00023.JPG,Biotic,Biotic,1.0000,Citrus Canker
+Citrus_Canker00024.JPG,Biotic,Biotic,0.9998,Citrus Canker
+Citrus_Canker00025.JPG,Biotic,Biotic,0.9920,Citrus Canker
+Citrus_Canker00026.JPG,Biotic,Biotic,1.0000,Citrus Canker
+Citrus_Canker00037.JPG,Biotic,Biotic,1.0000,Citrus Canker
+Citrus_Canker00038.JPG,Biotic,Biotic,1.0000,Citrus Canker
+Citrus_Canker00039.JPG,Biotic,Biotic,1.0000,Citrus Canker
+Citrus_Canker00040.JPG,Biotic,Biotic,0.9999,Citrus Canker
+Citrus_Canker00041.JPG,Biotic,Biotic,0.9998,Citrus Canker
+Citrus_Canker00042.JPG,Biotic,Biotic,0.9935,Citrus Canker
+Citrus_Canker00043.JPG,Biotic,Abiotic,0.8850,Citrus Canker
+Citrus_Canker00044.JPG,Biotic,Abiotic,0.9975,Citrus Canker
+Citrus_Canker00045.JPG,Biotic,Abiotic,0.8032,Citrus Canker
+Citrus_Canker00046.JPG,Biotic,Biotic,0.9581,Citrus Canker
+Citrus_Canker00047.JPG,Biotic,Biotic,0.8798,Citrus Canker
+Citrus_Canker00048.JPG,Biotic,Biotic,0.6917,Citrus Canker
+Citrus_Canker00049.JPG,Biotic,Biotic,0.8772,Citrus Canker
+Citrus_Canker00050.JPG,Biotic,Biotic,1.0000,Citrus Canker
+Citrus_Canker00051.JPG,Biotic,Biotic,1.0000,Citrus Canker
+Citrus_Canker00052.JPG,Biotic,Biotic,1.0000,Citrus Canker
+Citrus_Canker00053.JPG,Biotic,Biotic,0.9992,Citrus Canker
+Citrus_Canker00054.JPG,Biotic,Biotic,1.0000,Citrus Canker
+Citrus_Canker00055.JPG,Biotic,Biotic,0.9997,Citrus Canker
+Citrus_Canker00056.JPG,Biotic,Biotic,0.9995,Citrus Canker
+Citrus_Canker00057.JPG,Biotic,Biotic,1.0000,Citrus Canker
+Citrus_Canker00058.JPG,Biotic,Biotic,1.0000,Citrus Canker
+Citrus_Canker00059.JPG,Biotic,Biotic,1.0000,Citrus Canker
+Citrus_Canker00069.JPG,Biotic,Biotic,0.9999,Citrus Canker
+Citrus_Canker00073.JPG,Biotic,Biotic,0.9999,Citrus Canker
+Citrus_Canker00074.JPG,Biotic,Biotic,0.9999,Citrus Canker
+Citrus_Canker00075.JPG,Biotic,Biotic,0.9998,Citrus Canker
+Citrus_Canker00076.JPG,Biotic,Abiotic,0.7558,Citrus Canker
+Citrus_Canker00077.JPG,Biotic,Biotic,0.9632,Citrus Canker
+Citrus_Canker00078.JPG,Biotic,Biotic,0.9929,Citrus Canker
+Citrus_Canker00079.JPG,Biotic,Biotic,0.9952,Citrus Canker
+Citrus_Canker00080.JPG,Biotic,Biotic,0.9214,Citrus Canker
+Citrus_Canker00081.JPG,Biotic,Biotic,0.9999,Citrus Canker
+Citrus_Canker00082.JPG,Biotic,Biotic,1.0000,Citrus Canker
+Citrus_Canker00083.JPG,Biotic,Biotic,0.9996,Citrus Canker
+Citrus_Canker00084.JPG,Biotic,Biotic,0.9998,Citrus Canker
+Citrus_Canker00085.JPG,Biotic,Biotic,0.9998,Citrus Canker
+Citrus_Canker00086.JPG,Biotic,Biotic,1.0000,Citrus Canker
+Citrus_Canker00087.JPG,Biotic,Biotic,0.9999,Citrus Canker
+Citrus_Canker00088.JPG,Biotic,Biotic,1.0000,Citrus Canker
+Citrus_Canker00089.JPG,Biotic,Biotic,1.0000,Citrus Canker
+Citrus_Canker00090.JPG,Biotic,Biotic,1.0000,Citrus Canker
+Citrus_Canker00091.JPG,Biotic,Biotic,1.0000,Citrus Canker
+Citrus_Canker00092.JPG,Biotic,Biotic,1.0000,Citrus Canker
+Citrus_Canker00093.JPG,Biotic,Biotic,1.0000,Citrus Canker
+Citrus_Canker00094.JPG,Biotic,Biotic,1.0000,Citrus Canker
+Citrus_Canker00095.JPG,Biotic,Biotic,1.0000,Citrus Canker
+Citrus_Canker00096.JPG,Biotic,Biotic,1.0000,Citrus Canker
+Citrus_Canker00115.JPG,Biotic,Biotic,1.0000,Citrus Canker
+Citrus_Canker00116.JPG,Biotic,Biotic,1.0000,Citrus Canker
+Citrus_Canker00118.JPG,Biotic,Biotic,1.0000,Citrus Canker
+Citrus_Canker00121.JPG,Biotic,Biotic,1.0000,Citrus Canker
+Citrus_Canker00122.JPG,Biotic,Biotic,0.9997,Citrus Canker
+Citrus_Canker00123.JPG,Biotic,Biotic,0.9148,Citrus Canker
+Citrus_Canker00124.JPG,Biotic,Biotic,0.9991,Citrus Canker
+Citrus_Canker00125.JPG,Biotic,Biotic,0.9999,Citrus Canker
+Citrus_Canker00126.JPG,Biotic,Biotic,0.9985,Citrus Canker
+Citrus_Canker00127.JPG,Biotic,Biotic,0.9993,Citrus Canker
+Citrus_Canker00128.JPG,Biotic,Biotic,1.0000,Citrus Canker
+Citrus_Canker00129.JPG,Biotic,Biotic,0.9969,Citrus Canker
+Citrus_Canker00130.JPG,Biotic,Biotic,0.9999,Citrus Canker
+Citrus_Canker00131.JPG,Biotic,Biotic,0.9953,Citrus Canker
+Citrus_Canker00132.JPG,Biotic,Biotic,0.9997,Citrus Canker
+Citrus_Canker00154.JPG,Biotic,Biotic,1.0000,Citrus Canker
+Citrus_Canker00157.JPG,Biotic,Biotic,0.9998,Citrus Canker
+Citrus_Canker00158.JPG,Biotic,Biotic,0.9999,Citrus Canker
+Citrus_Canker00159.JPG,Biotic,Biotic,0.9841,Citrus Canker
+Citrus_Canker00160.JPG,Biotic,Biotic,0.9963,Citrus Canker
+Citrus_Canker00161.JPG,Biotic,Biotic,0.9636,Citrus Canker
+Citrus_Canker00162.JPG,Biotic,Biotic,0.9108,Citrus Canker
+Citrus_Canker00163.JPG,Biotic,Biotic,0.9737,Citrus Canker
+Citrus_Canker00164.JPG,Biotic,Biotic,0.9449,Citrus Canker
+Citrus_Canker00170.JPG,Biotic,Biotic,0.9999,Citrus Canker
+Citrus_Canker00171.JPG,Biotic,Biotic,0.9998,Citrus Canker
+Citrus_Canker00172.JPG,Biotic,Biotic,1.0000,Citrus Canker
+Citrus_Canker00173.JPG,Biotic,Biotic,1.0000,Citrus Canker
+Citrus_Canker00174.JPG,Biotic,Biotic,1.0000,Citrus Canker
+Citrus_Canker00175.JPG,Biotic,Biotic,1.0000,Citrus Canker
+curl_virus00001.JPG,Biotic,Biotic,0.6476,Curl Virus
+curl_virus00002.JPG,Biotic,Biotic,0.9954,Curl Virus
+curl_virus00003.JPG,Biotic,Biotic,0.9640,Curl Virus
+curl_virus00004.JPG,Biotic,Biotic,0.9085,Curl Virus
+curl_virus00005.JPG,Biotic,Biotic,0.5384,Curl Virus
+curl_virus00006.JPG,Biotic,Biotic,0.8689,Curl Virus
+curl_virus00007.JPG,Biotic,Biotic,0.9416,Curl Virus
+curl_virus00008.JPG,Biotic,Biotic,0.9965,Curl Virus
+curl_virus00009.JPG,Biotic,Biotic,0.9842,Curl Virus
+curl_virus00010.JPG,Biotic,Biotic,0.9756,Curl Virus
+curl_virus00011.JPG,Biotic,Biotic,0.9922,Curl Virus
+curl_virus00012.JPG,Biotic,Biotic,0.9980,Curl Virus
+curl_virus00013.JPG,Biotic,Biotic,0.9943,Curl Virus
+curl_virus00014.JPG,Biotic,Biotic,0.9774,Curl Virus
+curl_virus00015.JPG,Biotic,Biotic,0.9572,Curl Virus
+curl_virus00016.JPG,Biotic,Biotic,0.9587,Curl Virus
+curl_virus00017.JPG,Biotic,Biotic,0.9937,Curl Virus
+curl_virus00018.JPG,Biotic,Biotic,0.9989,Curl Virus
+curl_virus00019.JPG,Biotic,Biotic,0.9959,Curl Virus
+curl_virus00020.JPG,Biotic,Biotic,0.9813,Curl Virus
+curl_virus00021.JPG,Biotic,Biotic,0.9982,Curl Virus
+curl_virus00022.JPG,Biotic,Biotic,0.9988,Curl Virus
+curl_virus00023.JPG,Biotic,Biotic,0.9936,Curl Virus
+curl_virus00024.JPG,Biotic,Biotic,0.9684,Curl Virus
+curl_virus00025.JPG,Biotic,Biotic,0.9095,Curl Virus
+curl_virus00026.JPG,Biotic,Biotic,0.9628,Curl Virus
+curl_virus00027.JPG,Biotic,Biotic,0.9552,Curl Virus
+curl_virus00028.JPG,Biotic,Biotic,0.9376,Curl Virus
+curl_virus00029.JPG,Biotic,Biotic,0.9746,Curl Virus
+curl_virus00030.JPG,Biotic,Biotic,0.9894,Curl Virus
+curl_virus00031.JPG,Biotic,Biotic,0.9149,Curl Virus
+curl_virus00032.JPG,Biotic,Biotic,0.9889,Curl Virus
+curl_virus00033.JPG,Biotic,Biotic,1.0000,Curl Virus
+curl_virus00034.JPG,Biotic,Biotic,1.0000,Curl Virus
+curl_virus00035.JPG,Biotic,Biotic,0.9999,Curl Virus
+curl_virus00036.JPG,Biotic,Biotic,0.9999,Curl Virus
+curl_virus00037.JPG,Biotic,Biotic,1.0000,Curl Virus
+curl_virus00038.JPG,Biotic,Biotic,1.0000,Curl Virus
+curl_virus00039.JPG,Biotic,Biotic,1.0000,Curl Virus
+curl_virus00040.JPG,Biotic,Biotic,1.0000,Curl Virus
+curl_virus00041.JPG,Biotic,Biotic,1.0000,Curl Virus
+curl_virus00042.JPG,Biotic,Biotic,1.0000,Curl Virus
+curl_virus00043.JPG,Biotic,Biotic,1.0000,Curl Virus
+curl_virus00044.JPG,Biotic,Biotic,0.9974,Curl Virus
+curl_virus00045.JPG,Biotic,Biotic,0.9692,Curl Virus
+curl_virus00046.JPG,Biotic,Biotic,0.9737,Curl Virus
+curl_virus00047.JPG,Biotic,Abiotic,0.5233,Curl Virus
+curl_virus00048.JPG,Biotic,Biotic,0.9983,Curl Virus
+curl_virus00049.JPG,Biotic,Biotic,0.9994,Curl Virus
+curl_virus00050.JPG,Biotic,Biotic,0.9933,Curl Virus
+curl_virus00051.JPG,Biotic,Biotic,0.9966,Curl Virus
+curl_virus00052.JPG,Biotic,Biotic,0.9974,Curl Virus
+curl_virus00053.JPG,Biotic,Biotic,0.9981,Curl Virus
+curl_virus00054.JPG,Biotic,Biotic,0.9997,Curl Virus
+curl_virus00055.JPG,Biotic,Biotic,0.8932,Curl Virus
+curl_virus00056.JPG,Biotic,Biotic,0.9988,Curl Virus
+curl_virus00057.JPG,Biotic,Biotic,0.9994,Curl Virus
+curl_virus00058.JPG,Biotic,Biotic,0.9995,Curl Virus
+curl_virus00059.JPG,Biotic,Biotic,0.8700,Curl Virus
+curl_virus00060.JPG,Biotic,Biotic,0.9990,Curl Virus
+curl_virus00061.JPG,Biotic,Biotic,0.9960,Curl Virus
+curl_virus00062.JPG,Biotic,Biotic,0.8805,Curl Virus
+curl_virus00063.JPG,Biotic,Biotic,0.9536,Curl Virus
+curl_virus00064.JPG,Biotic,Biotic,0.9985,Curl Virus
+curl_virus00065.JPG,Biotic,Biotic,0.9889,Curl Virus
+curl_virus00066.JPG,Biotic,Biotic,0.8963,Curl Virus
+curl_virus00067.JPG,Biotic,Biotic,0.9902,Curl Virus
+curl_virus00068.JPG,Biotic,Abiotic,0.7845,Curl Virus
+curl_virus00069.JPG,Biotic,Abiotic,0.6156,Curl Virus
+curl_virus00070.JPG,Biotic,Abiotic,0.6103,Curl Virus
+curl_virus00071.JPG,Biotic,Abiotic,0.6346,Curl Virus
+curl_virus00072.JPG,Biotic,Biotic,0.7740,Curl Virus
+curl_virus00073.JPG,Biotic,Biotic,0.9600,Curl Virus
+curl_virus00074.JPG,Biotic,Abiotic,0.8220,Curl Virus
+curl_virus00075.JPG,Biotic,Abiotic,0.5720,Curl Virus
+curl_virus00076.JPG,Biotic,Biotic,0.9646,Curl Virus
+curl_virus00077.JPG,Biotic,Biotic,0.8937,Curl Virus
+curl_virus00078.JPG,Biotic,Biotic,0.5746,Curl Virus
+curl_virus00079.JPG,Biotic,Abiotic,0.5155,Curl Virus
+curl_virus00080.JPG,Biotic,Abiotic,0.6023,Curl Virus
+curl_virus00081.JPG,Biotic,Biotic,0.9012,Curl Virus
+curl_virus00082.JPG,Biotic,Abiotic,0.5570,Curl Virus
+curl_virus00083.JPG,Biotic,Biotic,0.6803,Curl Virus
+curl_virus00084.JPG,Biotic,Abiotic,0.5390,Curl Virus
+curl_virus00085.JPG,Biotic,Biotic,0.6178,Curl Virus
+curl_virus00086.JPG,Biotic,Abiotic,0.7202,Curl Virus
+curl_virus00087.JPG,Biotic,Biotic,0.9962,Curl Virus
+curl_virus00088.JPG,Biotic,Biotic,0.9983,Curl Virus
+curl_virus00089.JPG,Biotic,Biotic,0.9986,Curl Virus
+curl_virus00090.JPG,Biotic,Biotic,0.9993,Curl Virus
+curl_virus00091.JPG,Biotic,Biotic,0.9995,Curl Virus
+curl_virus00092.JPG,Biotic,Biotic,0.9989,Curl Virus
+curl_virus00093.JPG,Biotic,Biotic,0.9980,Curl Virus
+curl_virus00094.JPG,Biotic,Biotic,0.9999,Curl Virus
+curl_virus00095.JPG,Biotic,Biotic,0.7522,Curl Virus
+curl_virus00096.JPG,Biotic,Biotic,0.9986,Curl Virus
+curl_virus00097.JPG,Biotic,Biotic,0.9988,Curl Virus
+curl_virus00098.JPG,Biotic,Biotic,0.8951,Curl Virus
+curl_virus00099.JPG,Biotic,Biotic,0.9600,Curl Virus
+curl_virus00100.JPG,Biotic,Biotic,0.9940,Curl Virus
+sooty_mould00002.JPG,Biotic,Abiotic,0.9845,Sooty Mould
+sooty_mould00003.JPG,Biotic,Abiotic,0.9996,Sooty Mould
+sooty_mould00004.JPG,Biotic,Abiotic,0.5854,Sooty Mould
+sooty_mould00005.JPG,Biotic,Abiotic,0.9823,Sooty Mould
+sooty_mould00006.JPG,Biotic,Abiotic,0.9964,Sooty Mould
+sooty_mould00007.JPG,Biotic,Abiotic,0.9909,Sooty Mould
+sooty_mould00009.JPG,Biotic,Abiotic,0.9192,Sooty Mould
+sooty_mould00011.JPG,Biotic,Abiotic,0.9622,Sooty Mould
+sooty_mould00012.JPG,Biotic,Biotic,0.5333,Sooty Mould
+sooty_mould00014.JPG,Biotic,Abiotic,0.9529,Sooty Mould
+sooty_mould00015.JPG,Biotic,Biotic,0.9870,Sooty Mould
+sooty_mould00016.JPG,Biotic,Biotic,0.9955,Sooty Mould
+sooty_mould00017.JPG,Biotic,Biotic,0.8896,Sooty Mould
+sooty_mould00018.JPG,Biotic,Biotic,0.9976,Sooty Mould
+sooty_mould00019.JPG,Biotic,Biotic,0.9302,Sooty Mould
+sooty_mould00021.JPG,Biotic,Biotic,0.8625,Sooty Mould
+sooty_mould00022.JPG,Biotic,Abiotic,0.9970,Sooty Mould
+sooty_mould00023.JPG,Biotic,Abiotic,0.9798,Sooty Mould
+sooty_mould00024.JPG,Biotic,Abiotic,0.9802,Sooty Mould
+sooty_mould00025.JPG,Biotic,Abiotic,0.9960,Sooty Mould
+sooty_mould00031.JPG,Biotic,Abiotic,0.6555,Sooty Mould
+sooty_mould00032.JPG,Biotic,Abiotic,0.9998,Sooty Mould
+sooty_mould00037.JPG,Biotic,Biotic,1.0000,Sooty Mould
+sooty_mould00040.JPG,Biotic,Biotic,0.9994,Sooty Mould
+sooty_mould00041.JPG,Biotic,Abiotic,0.7375,Sooty Mould
+sooty_mould00043.JPG,Biotic,Biotic,0.9993,Sooty Mould
+sooty_mould00045.JPG,Biotic,Abiotic,0.7939,Sooty Mould
+sooty_mould00046.JPG,Biotic,Abiotic,0.9249,Sooty Mould
+sooty_mould00047.JPG,Biotic,Biotic,0.5849,Sooty Mould
+sooty_mould00048.JPG,Biotic,Abiotic,0.7240,Sooty Mould
+sooty_mould00051.JPG,Biotic,Abiotic,0.8951,Sooty Mould
+sooty_mould00052.JPG,Biotic,Abiotic,0.9994,Sooty Mould
+sooty_mould00053.JPG,Biotic,Abiotic,0.9503,Sooty Mould
+sooty_mould00054.JPG,Biotic,Abiotic,0.9990,Sooty Mould
+sooty_mould00055.JPG,Biotic,Abiotic,0.9988,Sooty Mould
+sooty_mould00056.JPG,Biotic,Biotic,0.6894,Sooty Mould
+sooty_mould00059.JPG,Biotic,Abiotic,0.8710,Sooty Mould
+sooty_mould00060.JPG,Biotic,Abiotic,0.9816,Sooty Mould
+sooty_mould00061.JPG,Biotic,Biotic,0.8396,Sooty Mould
+sooty_mould00064.JPG,Biotic,Abiotic,0.9999,Sooty Mould
+sooty_mould00065.JPG,Biotic,Abiotic,0.6300,Sooty Mould
+sooty_mould00066.JPG,Biotic,Abiotic,0.9997,Sooty Mould
+sooty_mould00067.JPG,Biotic,Abiotic,0.9998,Sooty Mould
+sooty_mould00068.JPG,Biotic,Abiotic,0.9991,Sooty Mould
+sooty_mould00069.JPG,Biotic,Abiotic,0.9910,Sooty Mould
+sooty_mould00071.JPG,Biotic,Abiotic,0.9974,Sooty Mould
+sooty_mould00072.JPG,Biotic,Abiotic,0.9998,Sooty Mould
+sooty_mould00073.JPG,Biotic,Abiotic,0.9996,Sooty Mould
+sooty_mould00074.JPG,Biotic,Abiotic,0.9998,Sooty Mould
+sooty_mould00075.JPG,Biotic,Abiotic,0.9990,Sooty Mould
+sooty_mould00076.JPG,Biotic,Abiotic,0.9997,Sooty Mould
+sooty_mould00077.JPG,Biotic,Abiotic,0.9991,Sooty Mould
+sooty_mould00078.JPG,Biotic,Biotic,0.9955,Sooty Mould
+sooty_mould00079.JPG,Biotic,Biotic,0.9990,Sooty Mould
+sooty_mould00082.JPG,Biotic,Biotic,0.9991,Sooty Mould
+sooty_mould00083.JPG,Biotic,Biotic,0.9975,Sooty Mould
+sooty_mould00084.JPG,Biotic,Biotic,1.0000,Sooty Mould
+sooty_mould00085.JPG,Biotic,Abiotic,0.9992,Sooty Mould
+sooty_mould00086.JPG,Biotic,Abiotic,0.9988,Sooty Mould
+sooty_mould00087.JPG,Biotic,Abiotic,0.9499,Sooty Mould
+sooty_mould00088.JPG,Biotic,Abiotic,0.8900,Sooty Mould
+sooty_mould00091.JPG,Biotic,Biotic,0.7118,Sooty Mould
+sooty_mould00092.JPG,Biotic,Biotic,0.9493,Sooty Mould
+sooty_mould00093.JPG,Biotic,Abiotic,0.9998,Sooty Mould
+sooty_mould00094.JPG,Biotic,Abiotic,1.0000,Sooty Mould
+sooty_mould00095.JPG,Biotic,Abiotic,0.9801,Sooty Mould
+sooty_mould00109.JPG,Biotic,Abiotic,0.9975,Sooty Mould
+sooty_mould00110.JPG,Biotic,Abiotic,0.9943,Sooty Mould
+sooty_mould00111.JPG,Biotic,Abiotic,0.9996,Sooty Mould
+sooty_mould00112.JPG,Biotic,Abiotic,0.9418,Sooty Mould
+sooty_mould00113.JPG,Biotic,Biotic,0.9844,Sooty Mould
+sooty_mould00116.JPG,Biotic,Abiotic,0.9974,Sooty Mould
+sooty_mould00117.JPG,Biotic,Biotic,0.9991,Sooty Mould
+sooty_mould00118.JPG,Biotic,Biotic,0.9756,Sooty Mould
+sooty_mould00119.JPG,Biotic,Biotic,0.9981,Sooty Mould
+sooty_mould00120.JPG,Biotic,Biotic,0.9488,Sooty Mould
+sooty_mould00121.JPG,Biotic,Biotic,0.9923,Sooty Mould
+sooty_mould00122.JPG,Biotic,Biotic,0.8458,Sooty Mould
+sooty_mould00123.JPG,Biotic,Biotic,0.7756,Sooty Mould
+sooty_mould00124.JPG,Biotic,Abiotic,1.0000,Sooty Mould
+sooty_mould00125.JPG,Biotic,Abiotic,0.9994,Sooty Mould
+sooty_mould00126.JPG,Biotic,Abiotic,0.9938,Sooty Mould
+sooty_mould00128.JPG,Biotic,Biotic,0.9981,Sooty Mould
+sooty_mould00129.JPG,Biotic,Abiotic,0.9999,Sooty Mould
+sooty_mould00130.JPG,Biotic,Abiotic,1.0000,Sooty Mould
+sooty_mould00132.JPG,Biotic,Biotic,0.9078,Sooty Mould
+sooty_mould00133.JPG,Biotic,Abiotic,0.9992,Sooty Mould
+sooty_mould00134.JPG,Biotic,Biotic,0.9812,Sooty Mould
+sooty_mould00135.JPG,Biotic,Abiotic,0.9834,Sooty Mould
+sooty_mould00137.JPG,Biotic,Abiotic,0.9911,Sooty Mould
+sooty_mould00138.JPG,Biotic,Abiotic,1.0000,Sooty Mould
+sooty_mould00140.JPG,Biotic,Abiotic,0.9993,Sooty Mould
+sooty_mould00141.JPG,Biotic,Abiotic,0.9996,Sooty Mould
+sooty_mould00142.JPG,Biotic,Abiotic,1.0000,Sooty Mould
+sooty_mould00143.JPG,Biotic,Abiotic,1.0000,Sooty Mould
+sooty_mould00145.JPG,Biotic,Abiotic,0.6952,Sooty Mould
+sooty_mould00146.JPG,Biotic,Biotic,0.9951,Sooty Mould
+sooty_mould00147.JPG,Biotic,Biotic,0.9999,Sooty Mould
+sooty_mould00150.JPG,Biotic,Biotic,0.9607,Sooty Mould
+sooty_mould00151.JPG,Biotic,Biotic,0.9996,Sooty Mould
+spider_mites00001.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00002.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00003.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00004.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00005.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00006.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00007.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00008.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00009.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00010.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00011.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00012.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00013.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00022.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00023.JPG,Biotic,Biotic,0.9999,Spider Mites
+spider_mites00024.JPG,Biotic,Biotic,0.9874,Spider Mites
+spider_mites00025.JPG,Biotic,Biotic,0.9942,Spider Mites
+spider_mites00029.JPG,Biotic,Biotic,0.9994,Spider Mites
+spider_mites00030.JPG,Biotic,Biotic,0.9771,Spider Mites
+spider_mites00031.JPG,Biotic,Biotic,0.9990,Spider Mites
+spider_mites00032.JPG,Biotic,Biotic,0.9998,Spider Mites
+spider_mites00033.JPG,Biotic,Biotic,0.9999,Spider Mites
+spider_mites00034.JPG,Biotic,Biotic,0.9979,Spider Mites
+spider_mites00035.JPG,Biotic,Biotic,0.9972,Spider Mites
+spider_mites00036.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00037.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00038.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00039.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00040.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00041.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00042.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00043.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00044.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00045.JPG,Biotic,Biotic,0.9998,Spider Mites
+spider_mites00046.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00047.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00048.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00049.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00050.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00051.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00052.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00053.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00054.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00055.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00056.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00057.JPG,Biotic,Biotic,0.9997,Spider Mites
+spider_mites00058.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00059.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00060.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00061.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00062.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00063.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00064.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00065.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00066.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00067.JPG,Biotic,Biotic,0.9977,Spider Mites
+spider_mites00068.JPG,Biotic,Biotic,0.9998,Spider Mites
+spider_mites00069.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00070.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00071.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00072.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00073.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00074.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00075.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00076.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00077.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00078.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00079.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00080.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00081.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00082.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00083.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00084.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00085.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00086.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00087.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00088.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00089.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00090.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00091.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00095.JPG,Biotic,Biotic,0.9892,Spider Mites
+spider_mites00096.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00097.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00098.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00099.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00100.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00101.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00102.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00103.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00104.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00105.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00106.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00107.JPG,Biotic,Biotic,0.9975,Spider Mites
+spider_mites00108.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00109.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00110.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00111.JPG,Biotic,Biotic,1.0000,Spider Mites
+spider_mites00112.JPG,Biotic,Biotic,0.9999,Spider Mites
+spider_mites00113.JPG,Biotic,Biotic,0.9999,Spider Mites
+spider_mites00114.JPG,Biotic,Biotic,0.9987,Spider Mites

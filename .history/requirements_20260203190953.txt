@@ -1,0 +1,20 @@
+# 核心深度学习框架 (CPU版，兼容性最强)
+torch
+torchvision
+torchaudio
+
+# 数据处理与科学计算
+numpy
+pandas
+pillow
+
+# 可视化与评估指标 (新增 seaborn)
+matplotlib
+seaborn
+scikit-learn
+
+# 辅助工具
+scipy
+tqdm
+
+natsort

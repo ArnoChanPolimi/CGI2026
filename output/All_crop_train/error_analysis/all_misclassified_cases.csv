@@ -1,0 +1,335 @@
+﻿FileName,Relative_Path,Crop,SubType,Ground_Truth,Model_Prediction,Confidence
+Healthy_Leaf_1617.jpg,RAW_DATA\01_Chilli\abiotic\Healthy_Leaf\Healthy_Leaf_1617.jpg,Chilli,Healthy_Leaf,Abiotic,Biotic,1.0000
+Healthy_Leaf_994.png,RAW_DATA\01_Chilli\abiotic\Healthy_Leaf\Healthy_Leaf_994.png,Chilli,Healthy_Leaf,Abiotic,Biotic,1.0000
+Bacterial_Spot_1106.jpg,RAW_DATA\01_Chilli\biotic\Bacterial_Spot\Bacterial_Spot_1106.jpg,Chilli,Bacterial_Spot,Biotic,Abiotic,0.9907
+Bacterial_Spot_1484.jpg,RAW_DATA\01_Chilli\biotic\Bacterial_Spot\Bacterial_Spot_1484.jpg,Chilli,Bacterial_Spot,Biotic,Abiotic,0.9016
+Bacterial_Spot_252.png,RAW_DATA\01_Chilli\biotic\Bacterial_Spot\Bacterial_Spot_252.png,Chilli,Bacterial_Spot,Biotic,Abiotic,0.9840
+Bacterial_Spot_695.jpg,RAW_DATA\01_Chilli\biotic\Bacterial_Spot\Bacterial_Spot_695.jpg,Chilli,Bacterial_Spot,Biotic,Abiotic,0.5019
+Cercospora Leaf Spot_1775.jpg,RAW_DATA\01_Chilli\biotic\Cercospora_Leaf_Spot\Cercospora Leaf Spot_1775.jpg,Chilli,Cercospora_Leaf_Spot,Biotic,Abiotic,0.8017
+Cercospora Leaf Spot_1794.jpg,RAW_DATA\01_Chilli\biotic\Cercospora_Leaf_Spot\Cercospora Leaf Spot_1794.jpg,Chilli,Cercospora_Leaf_Spot,Biotic,Abiotic,0.5023
+Cercospora Leaf Spot_1803.jpg,RAW_DATA\01_Chilli\biotic\Cercospora_Leaf_Spot\Cercospora Leaf Spot_1803.jpg,Chilli,Cercospora_Leaf_Spot,Biotic,Abiotic,0.9681
+Cercospora Leaf Spot_1848.jpg,RAW_DATA\01_Chilli\biotic\Cercospora_Leaf_Spot\Cercospora Leaf Spot_1848.jpg,Chilli,Cercospora_Leaf_Spot,Biotic,Abiotic,0.9985
+Cercospora Leaf Spot_1869.jpg,RAW_DATA\01_Chilli\biotic\Cercospora_Leaf_Spot\Cercospora Leaf Spot_1869.jpg,Chilli,Cercospora_Leaf_Spot,Biotic,Abiotic,0.8799
+Curl Virus_356.jpg,RAW_DATA\01_Chilli\biotic\Curl_Virus\Curl Virus_356.jpg,Chilli,Curl_Virus,Biotic,Abiotic,0.8870
+Curl Virus_440.jpg,RAW_DATA\01_Chilli\biotic\Curl_Virus\Curl Virus_440.jpg,Chilli,Curl_Virus,Biotic,Abiotic,0.9877
+Curl Virus_457.jpg,RAW_DATA\01_Chilli\biotic\Curl_Virus\Curl Virus_457.jpg,Chilli,Curl_Virus,Biotic,Abiotic,0.8573
+Healthy_211.jpg,RAW_DATA\02_Tomato\abiotic\Healthy\Healthy_211.jpg,Tomato,Healthy,Abiotic,Biotic,0.5418
+Healthy_22.jpg,RAW_DATA\02_Tomato\abiotic\Healthy\Healthy_22.jpg,Tomato,Healthy,Abiotic,Biotic,0.7894
+Healthy_232.jpg,RAW_DATA\02_Tomato\abiotic\Healthy\Healthy_232.jpg,Tomato,Healthy,Abiotic,Biotic,0.6779
+Healthy_233.jpg,RAW_DATA\02_Tomato\abiotic\Healthy\Healthy_233.jpg,Tomato,Healthy,Abiotic,Biotic,0.5835
+Healthy_368.jpg,RAW_DATA\02_Tomato\abiotic\Healthy\Healthy_368.jpg,Tomato,Healthy,Abiotic,Biotic,0.5212
+Healthy_369.jpg,RAW_DATA\02_Tomato\abiotic\Healthy\Healthy_369.jpg,Tomato,Healthy,Abiotic,Biotic,0.9964
+Magnesium Deficiency_113.jpg,RAW_DATA\02_Tomato\abiotic\Magnesium Deficiency\Magnesium Deficiency_113.jpg,Tomato,Magnesium Deficiency,Abiotic,Biotic,0.9378
+Magnesium Deficiency_183.jpg,RAW_DATA\02_Tomato\abiotic\Magnesium Deficiency\Magnesium Deficiency_183.jpg,Tomato,Magnesium Deficiency,Abiotic,Biotic,0.5034
+Magnesium Deficiency_409.jpg,RAW_DATA\02_Tomato\abiotic\Magnesium Deficiency\Magnesium Deficiency_409.jpg,Tomato,Magnesium Deficiency,Abiotic,Biotic,0.9873
+Magnesium Deficiency_452.jpg,RAW_DATA\02_Tomato\abiotic\Magnesium Deficiency\Magnesium Deficiency_452.jpg,Tomato,Magnesium Deficiency,Abiotic,Biotic,0.8151
+Magnesium Deficiency_577.jpg,RAW_DATA\02_Tomato\abiotic\Magnesium Deficiency\Magnesium Deficiency_577.jpg,Tomato,Magnesium Deficiency,Abiotic,Biotic,0.8212
+Magnesium Deficiency_636.jpg,RAW_DATA\02_Tomato\abiotic\Magnesium Deficiency\Magnesium Deficiency_636.jpg,Tomato,Magnesium Deficiency,Abiotic,Biotic,0.9905
+Magnesium Deficiency_649.jpg,RAW_DATA\02_Tomato\abiotic\Magnesium Deficiency\Magnesium Deficiency_649.jpg,Tomato,Magnesium Deficiency,Abiotic,Biotic,0.9163
+Magnesium Deficiency_678.jpg,RAW_DATA\02_Tomato\abiotic\Magnesium Deficiency\Magnesium Deficiency_678.jpg,Tomato,Magnesium Deficiency,Abiotic,Biotic,0.6255
+Magnesium Deficiency_680.jpg,RAW_DATA\02_Tomato\abiotic\Magnesium Deficiency\Magnesium Deficiency_680.jpg,Tomato,Magnesium Deficiency,Abiotic,Biotic,0.7825
+Magnesium Deficiency_717.jpg,RAW_DATA\02_Tomato\abiotic\Magnesium Deficiency\Magnesium Deficiency_717.jpg,Tomato,Magnesium Deficiency,Abiotic,Biotic,0.6013
+Bacteiral Spot_112.jpg,RAW_DATA\02_Tomato\biotic\Bacteiral Spot\Bacteiral Spot_112.jpg,Tomato,Bacteiral Spot,Biotic,Abiotic,0.5891
+Bacteiral Spot_22.jpg,RAW_DATA\02_Tomato\biotic\Bacteiral Spot\Bacteiral Spot_22.jpg,Tomato,Bacteiral Spot,Biotic,Abiotic,0.9878
+Bacteiral Spot_37.jpg,RAW_DATA\02_Tomato\biotic\Bacteiral Spot\Bacteiral Spot_37.jpg,Tomato,Bacteiral Spot,Biotic,Abiotic,0.7930
+Bacteiral Spot_53.jpg,RAW_DATA\02_Tomato\biotic\Bacteiral Spot\Bacteiral Spot_53.jpg,Tomato,Bacteiral Spot,Biotic,Abiotic,0.7637
+Bacteiral Spot_58.jpg,RAW_DATA\02_Tomato\biotic\Bacteiral Spot\Bacteiral Spot_58.jpg,Tomato,Bacteiral Spot,Biotic,Abiotic,0.9336
+Bacteiral Spot_79.jpg,RAW_DATA\02_Tomato\biotic\Bacteiral Spot\Bacteiral Spot_79.jpg,Tomato,Bacteiral Spot,Biotic,Abiotic,0.9946
+Bacteiral Spot_84.jpg,RAW_DATA\02_Tomato\biotic\Bacteiral Spot\Bacteiral Spot_84.jpg,Tomato,Bacteiral Spot,Biotic,Abiotic,0.6457
+Bacteiral Spot_91.jpg,RAW_DATA\02_Tomato\biotic\Bacteiral Spot\Bacteiral Spot_91.jpg,Tomato,Bacteiral Spot,Biotic,Abiotic,0.5633
+Early Blight_107.jpg,RAW_DATA\02_Tomato\biotic\Early Blight\Early Blight_107.jpg,Tomato,Early Blight,Biotic,Abiotic,0.8420
+Early Blight_165.jpg,RAW_DATA\02_Tomato\biotic\Early Blight\Early Blight_165.jpg,Tomato,Early Blight,Biotic,Abiotic,0.5835
+Early Blight_176.jpg,RAW_DATA\02_Tomato\biotic\Early Blight\Early Blight_176.jpg,Tomato,Early Blight,Biotic,Abiotic,0.9563
+Early Blight_185.jpg,RAW_DATA\02_Tomato\biotic\Early Blight\Early Blight_185.jpg,Tomato,Early Blight,Biotic,Abiotic,0.7371
+Early Blight_190.jpg,RAW_DATA\02_Tomato\biotic\Early Blight\Early Blight_190.jpg,Tomato,Early Blight,Biotic,Abiotic,0.8716
+Early Blight_191.jpg,RAW_DATA\02_Tomato\biotic\Early Blight\Early Blight_191.jpg,Tomato,Early Blight,Biotic,Abiotic,0.8216
+Early Blight_194.jpg,RAW_DATA\02_Tomato\biotic\Early Blight\Early Blight_194.jpg,Tomato,Early Blight,Biotic,Abiotic,0.9401
+Early Blight_222.jpg,RAW_DATA\02_Tomato\biotic\Early Blight\Early Blight_222.jpg,Tomato,Early Blight,Biotic,Abiotic,0.9419
+Early Blight_247.jpg,RAW_DATA\02_Tomato\biotic\Early Blight\Early Blight_247.jpg,Tomato,Early Blight,Biotic,Abiotic,0.7886
+Early Blight_284.jpg,RAW_DATA\02_Tomato\biotic\Early Blight\Early Blight_284.jpg,Tomato,Early Blight,Biotic,Abiotic,0.9882
+Early Blight_291.jpg,RAW_DATA\02_Tomato\biotic\Early Blight\Early Blight_291.jpg,Tomato,Early Blight,Biotic,Abiotic,0.9157
+Early Blight_66.jpg,RAW_DATA\02_Tomato\biotic\Early Blight\Early Blight_66.jpg,Tomato,Early Blight,Biotic,Abiotic,0.8928
+Early Blight_68.jpg,RAW_DATA\02_Tomato\biotic\Early Blight\Early Blight_68.jpg,Tomato,Early Blight,Biotic,Abiotic,0.9439
+Early Blight_70.jpg,RAW_DATA\02_Tomato\biotic\Early Blight\Early Blight_70.jpg,Tomato,Early Blight,Biotic,Abiotic,0.9781
+Early Blight_80.jpg,RAW_DATA\02_Tomato\biotic\Early Blight\Early Blight_80.jpg,Tomato,Early Blight,Biotic,Abiotic,0.7188
+Early Blight_86.jpg,RAW_DATA\02_Tomato\biotic\Early Blight\Early Blight_86.jpg,Tomato,Early Blight,Biotic,Abiotic,0.9066
+Early Blight_95.jpg,RAW_DATA\02_Tomato\biotic\Early Blight\Early Blight_95.jpg,Tomato,Early Blight,Biotic,Abiotic,0.8434
+Late Blight_2.jpg,RAW_DATA\02_Tomato\biotic\Late Blight\Late Blight_2.jpg,Tomato,Late Blight,Biotic,Abiotic,0.9302
+Late Blight_84.jpg,RAW_DATA\02_Tomato\biotic\Late Blight\Late Blight_84.jpg,Tomato,Late Blight,Biotic,Abiotic,0.7482
+Leaf Miner Flies_129.jpg,RAW_DATA\02_Tomato\biotic\Leaf Miner Flies\Leaf Miner Flies_129.jpg,Tomato,Leaf Miner Flies,Biotic,Abiotic,0.9387
+Leaf Miner Flies_130.jpg,RAW_DATA\02_Tomato\biotic\Leaf Miner Flies\Leaf Miner Flies_130.jpg,Tomato,Leaf Miner Flies,Biotic,Abiotic,0.5358
+Leaf Miner Flies_135.jpg,RAW_DATA\02_Tomato\biotic\Leaf Miner Flies\Leaf Miner Flies_135.jpg,Tomato,Leaf Miner Flies,Biotic,Abiotic,0.9827
+Leaf Miner Flies_138.jpg,RAW_DATA\02_Tomato\biotic\Leaf Miner Flies\Leaf Miner Flies_138.jpg,Tomato,Leaf Miner Flies,Biotic,Abiotic,0.8407
+Leaf Miner Flies_162.jpg,RAW_DATA\02_Tomato\biotic\Leaf Miner Flies\Leaf Miner Flies_162.jpg,Tomato,Leaf Miner Flies,Biotic,Abiotic,0.6860
+Leaf Miner Flies_164.jpg,RAW_DATA\02_Tomato\biotic\Leaf Miner Flies\Leaf Miner Flies_164.jpg,Tomato,Leaf Miner Flies,Biotic,Abiotic,0.5578
+Leaf Miner Flies_165.jpg,RAW_DATA\02_Tomato\biotic\Leaf Miner Flies\Leaf Miner Flies_165.jpg,Tomato,Leaf Miner Flies,Biotic,Abiotic,0.9809
+Leaf Miner Flies_21.jpg,RAW_DATA\02_Tomato\biotic\Leaf Miner Flies\Leaf Miner Flies_21.jpg,Tomato,Leaf Miner Flies,Biotic,Abiotic,0.7015
+Leaf Miner Flies_224.jpg,RAW_DATA\02_Tomato\biotic\Leaf Miner Flies\Leaf Miner Flies_224.jpg,Tomato,Leaf Miner Flies,Biotic,Abiotic,0.9771
+Leaf Miner Flies_284.jpg,RAW_DATA\02_Tomato\biotic\Leaf Miner Flies\Leaf Miner Flies_284.jpg,Tomato,Leaf Miner Flies,Biotic,Abiotic,0.9888
+Leaf Miner Flies_287.jpg,RAW_DATA\02_Tomato\biotic\Leaf Miner Flies\Leaf Miner Flies_287.jpg,Tomato,Leaf Miner Flies,Biotic,Abiotic,0.9875
+Leaf Miner Flies_359.jpg,RAW_DATA\02_Tomato\biotic\Leaf Miner Flies\Leaf Miner Flies_359.jpg,Tomato,Leaf Miner Flies,Biotic,Abiotic,0.5304
+Leaf Miner Flies_390.jpg,RAW_DATA\02_Tomato\biotic\Leaf Miner Flies\Leaf Miner Flies_390.jpg,Tomato,Leaf Miner Flies,Biotic,Abiotic,0.6088
+Leaf Miner Flies_483.jpg,RAW_DATA\02_Tomato\biotic\Leaf Miner Flies\Leaf Miner Flies_483.jpg,Tomato,Leaf Miner Flies,Biotic,Abiotic,0.5069
+Leaf Miner Flies_555.jpg,RAW_DATA\02_Tomato\biotic\Leaf Miner Flies\Leaf Miner Flies_555.jpg,Tomato,Leaf Miner Flies,Biotic,Abiotic,0.9645
+Leaf Miner Flies_592.jpg,RAW_DATA\02_Tomato\biotic\Leaf Miner Flies\Leaf Miner Flies_592.jpg,Tomato,Leaf Miner Flies,Biotic,Abiotic,0.8319
+Leaf Miner Flies_832.jpg,RAW_DATA\02_Tomato\biotic\Leaf Miner Flies\Leaf Miner Flies_832.jpg,Tomato,Leaf Miner Flies,Biotic,Abiotic,0.5832
+Leaf Miner Flies_852.jpg,RAW_DATA\02_Tomato\biotic\Leaf Miner Flies\Leaf Miner Flies_852.jpg,Tomato,Leaf Miner Flies,Biotic,Abiotic,0.5218
+1 (668).jpg,RAW_DATA\02_Tomato\biotic\Tomato septoria leaf spot\1 (668).jpg,Tomato,Tomato septoria leaf spot,Biotic,Abiotic,0.9988
+281tomato_valid_septoria leaf spot.JPG,RAW_DATA\02_Tomato\biotic\Tomato septoria leaf spot\281tomato_valid_septoria leaf spot.JPG,Tomato,Tomato septoria leaf spot,Biotic,Abiotic,0.9968
+Tomato Septoria leaf spot (100).jpg,RAW_DATA\02_Tomato\biotic\Tomato septoria leaf spot\Tomato Septoria leaf spot (100).jpg,Tomato,Tomato septoria leaf spot,Biotic,Abiotic,0.7482
+Tomato Septoria leaf spot (11).jpg,RAW_DATA\02_Tomato\biotic\Tomato septoria leaf spot\Tomato Septoria leaf spot (11).jpg,Tomato,Tomato septoria leaf spot,Biotic,Abiotic,0.9742
+Tomato Septoria leaf spot (114).jpg,RAW_DATA\02_Tomato\biotic\Tomato septoria leaf spot\Tomato Septoria leaf spot (114).jpg,Tomato,Tomato septoria leaf spot,Biotic,Abiotic,0.9827
+Tomato Septoria leaf spot (127).jpg,RAW_DATA\02_Tomato\biotic\Tomato septoria leaf spot\Tomato Septoria leaf spot (127).jpg,Tomato,Tomato septoria leaf spot,Biotic,Abiotic,0.5276
+Tomato Septoria leaf spot (18).jpg,RAW_DATA\02_Tomato\biotic\Tomato septoria leaf spot\Tomato Septoria leaf spot (18).jpg,Tomato,Tomato septoria leaf spot,Biotic,Abiotic,0.9662
+Tomato Septoria leaf spot (34).jpg,RAW_DATA\02_Tomato\biotic\Tomato septoria leaf spot\Tomato Septoria leaf spot (34).jpg,Tomato,Tomato septoria leaf spot,Biotic,Abiotic,0.9819
+1 (34).jpg,RAW_DATA\02_Tomato\biotic\Tomato verticulium wilt\1 (34).jpg,Tomato,Tomato verticulium wilt,Biotic,Abiotic,0.9836
+Curl_12.jpg,RAW_DATA\02_Tomato\biotic\Yellow Leaf Curl Virus\Curl_12.jpg,Tomato,Yellow Leaf Curl Virus,Biotic,Abiotic,0.6799
+Curl_140.jpg,RAW_DATA\02_Tomato\biotic\Yellow Leaf Curl Virus\Curl_140.jpg,Tomato,Yellow Leaf Curl Virus,Biotic,Abiotic,0.8140
+Curl_144.jpg,RAW_DATA\02_Tomato\biotic\Yellow Leaf Curl Virus\Curl_144.jpg,Tomato,Yellow Leaf Curl Virus,Biotic,Abiotic,0.6143
+Curl_157.jpg,RAW_DATA\02_Tomato\biotic\Yellow Leaf Curl Virus\Curl_157.jpg,Tomato,Yellow Leaf Curl Virus,Biotic,Abiotic,0.5305
+Curl_18.jpg,RAW_DATA\02_Tomato\biotic\Yellow Leaf Curl Virus\Curl_18.jpg,Tomato,Yellow Leaf Curl Virus,Biotic,Abiotic,0.9988
+Curl_202.jpg,RAW_DATA\02_Tomato\biotic\Yellow Leaf Curl Virus\Curl_202.jpg,Tomato,Yellow Leaf Curl Virus,Biotic,Abiotic,0.6859
+Curl_218.jpg,RAW_DATA\02_Tomato\biotic\Yellow Leaf Curl Virus\Curl_218.jpg,Tomato,Yellow Leaf Curl Virus,Biotic,Abiotic,0.6626
+Curl_4.jpg,RAW_DATA\02_Tomato\biotic\Yellow Leaf Curl Virus\Curl_4.jpg,Tomato,Yellow Leaf Curl Virus,Biotic,Abiotic,0.5084
+Curl_58.jpg,RAW_DATA\02_Tomato\biotic\Yellow Leaf Curl Virus\Curl_58.jpg,Tomato,Yellow Leaf Curl Virus,Biotic,Abiotic,0.5144
+Curl_7.jpg,RAW_DATA\02_Tomato\biotic\Yellow Leaf Curl Virus\Curl_7.jpg,Tomato,Yellow Leaf Curl Virus,Biotic,Abiotic,0.8988
+Augmented_0_2687.jpeg,RAW_DATA\03_Carambola\abiotic\Healthy\Augmented_0_2687.jpeg,Carambola,Healthy,Abiotic,Biotic,0.7358
+Augmented_0_3710.jpeg,RAW_DATA\03_Carambola\abiotic\Healthy\Augmented_0_3710.jpeg,Carambola,Healthy,Abiotic,Biotic,0.9111
+Augmented_0_6330.jpeg,RAW_DATA\03_Carambola\abiotic\Healthy\Augmented_0_6330.jpeg,Carambola,Healthy,Abiotic,Biotic,0.8076
+Augmented_0_6471.jpeg,RAW_DATA\03_Carambola\abiotic\Healthy\Augmented_0_6471.jpeg,Carambola,Healthy,Abiotic,Biotic,0.9283
+Augmented_0_7242.jpeg,RAW_DATA\03_Carambola\abiotic\Healthy\Augmented_0_7242.jpeg,Carambola,Healthy,Abiotic,Biotic,0.5659
+Augmented_0_7580.jpeg,RAW_DATA\03_Carambola\abiotic\Healthy\Augmented_0_7580.jpeg,Carambola,Healthy,Abiotic,Biotic,0.9805
+Augmented_0_7709.jpeg,RAW_DATA\03_Carambola\abiotic\Healthy\Augmented_0_7709.jpeg,Carambola,Healthy,Abiotic,Biotic,0.9167
+Augmented_0_9308.jpeg,RAW_DATA\03_Carambola\abiotic\Healthy\Augmented_0_9308.jpeg,Carambola,Healthy,Abiotic,Biotic,0.7128
+Augmented_0_1468.jpeg,RAW_DATA\03_Carambola\abiotic\Iron_Dediciency\Augmented_0_1468.jpeg,Carambola,Iron_Dediciency,Abiotic,Biotic,0.9942
+Augmented_0_2384.jpeg,RAW_DATA\03_Carambola\abiotic\Iron_Dediciency\Augmented_0_2384.jpeg,Carambola,Iron_Dediciency,Abiotic,Biotic,0.6955
+Augmented_0_6064.jpeg,RAW_DATA\03_Carambola\abiotic\Iron_Dediciency\Augmented_0_6064.jpeg,Carambola,Iron_Dediciency,Abiotic,Biotic,0.6112
+Augmented_0_7495.jpeg,RAW_DATA\03_Carambola\abiotic\Iron_Dediciency\Augmented_0_7495.jpeg,Carambola,Iron_Dediciency,Abiotic,Biotic,0.9423
+Augmented_0_7878.jpeg,RAW_DATA\03_Carambola\abiotic\Iron_Dediciency\Augmented_0_7878.jpeg,Carambola,Iron_Dediciency,Abiotic,Biotic,0.9220
+Augmented_0_1220.jpeg,RAW_DATA\03_Carambola\biotic\Algal_Leaf_Spot\Augmented_0_1220.jpeg,Carambola,Algal_Leaf_Spot,Biotic,Abiotic,0.6136
+Augmented_0_2010.jpeg,RAW_DATA\03_Carambola\biotic\Algal_Leaf_Spot\Augmented_0_2010.jpeg,Carambola,Algal_Leaf_Spot,Biotic,Abiotic,0.9908
+Augmented_0_2249.jpeg,RAW_DATA\03_Carambola\biotic\Algal_Leaf_Spot\Augmented_0_2249.jpeg,Carambola,Algal_Leaf_Spot,Biotic,Abiotic,0.8667
+Augmented_0_2507.jpeg,RAW_DATA\03_Carambola\biotic\Algal_Leaf_Spot\Augmented_0_2507.jpeg,Carambola,Algal_Leaf_Spot,Biotic,Abiotic,0.6858
+Augmented_0_2764.jpeg,RAW_DATA\03_Carambola\biotic\Algal_Leaf_Spot\Augmented_0_2764.jpeg,Carambola,Algal_Leaf_Spot,Biotic,Abiotic,0.7584
+Augmented_0_3040.jpeg,RAW_DATA\03_Carambola\biotic\Algal_Leaf_Spot\Augmented_0_3040.jpeg,Carambola,Algal_Leaf_Spot,Biotic,Abiotic,0.7285
+Augmented_0_4952.jpeg,RAW_DATA\03_Carambola\biotic\Algal_Leaf_Spot\Augmented_0_4952.jpeg,Carambola,Algal_Leaf_Spot,Biotic,Abiotic,0.6200
+Augmented_0_5338.jpeg,RAW_DATA\03_Carambola\biotic\Algal_Leaf_Spot\Augmented_0_5338.jpeg,Carambola,Algal_Leaf_Spot,Biotic,Abiotic,0.9399
+Augmented_0_556.jpeg,RAW_DATA\03_Carambola\biotic\Algal_Leaf_Spot\Augmented_0_556.jpeg,Carambola,Algal_Leaf_Spot,Biotic,Abiotic,0.6154
+Augmented_0_5575.jpeg,RAW_DATA\03_Carambola\biotic\Algal_Leaf_Spot\Augmented_0_5575.jpeg,Carambola,Algal_Leaf_Spot,Biotic,Abiotic,0.7639
+Augmented_0_5591.jpeg,RAW_DATA\03_Carambola\biotic\Algal_Leaf_Spot\Augmented_0_5591.jpeg,Carambola,Algal_Leaf_Spot,Biotic,Abiotic,0.9930
+Augmented_0_5974.jpeg,RAW_DATA\03_Carambola\biotic\Algal_Leaf_Spot\Augmented_0_5974.jpeg,Carambola,Algal_Leaf_Spot,Biotic,Abiotic,0.9160
+Augmented_0_6055.jpeg,RAW_DATA\03_Carambola\biotic\Algal_Leaf_Spot\Augmented_0_6055.jpeg,Carambola,Algal_Leaf_Spot,Biotic,Abiotic,0.5668
+Augmented_0_6107.jpeg,RAW_DATA\03_Carambola\biotic\Algal_Leaf_Spot\Augmented_0_6107.jpeg,Carambola,Algal_Leaf_Spot,Biotic,Abiotic,0.5676
+Augmented_0_6458.jpeg,RAW_DATA\03_Carambola\biotic\Algal_Leaf_Spot\Augmented_0_6458.jpeg,Carambola,Algal_Leaf_Spot,Biotic,Abiotic,0.9974
+Augmented_0_6489.jpeg,RAW_DATA\03_Carambola\biotic\Algal_Leaf_Spot\Augmented_0_6489.jpeg,Carambola,Algal_Leaf_Spot,Biotic,Abiotic,0.7910
+Augmented_0_6490.jpeg,RAW_DATA\03_Carambola\biotic\Algal_Leaf_Spot\Augmented_0_6490.jpeg,Carambola,Algal_Leaf_Spot,Biotic,Abiotic,0.9485
+Augmented_0_6759.jpeg,RAW_DATA\03_Carambola\biotic\Algal_Leaf_Spot\Augmented_0_6759.jpeg,Carambola,Algal_Leaf_Spot,Biotic,Abiotic,0.8962
+Augmented_0_6844.jpeg,RAW_DATA\03_Carambola\biotic\Algal_Leaf_Spot\Augmented_0_6844.jpeg,Carambola,Algal_Leaf_Spot,Biotic,Abiotic,0.6775
+Augmented_0_685.jpeg,RAW_DATA\03_Carambola\biotic\Algal_Leaf_Spot\Augmented_0_685.jpeg,Carambola,Algal_Leaf_Spot,Biotic,Abiotic,0.9771
+Augmented_0_6859.jpeg,RAW_DATA\03_Carambola\biotic\Algal_Leaf_Spot\Augmented_0_6859.jpeg,Carambola,Algal_Leaf_Spot,Biotic,Abiotic,0.6962
+Augmented_0_7132.jpeg,RAW_DATA\03_Carambola\biotic\Algal_Leaf_Spot\Augmented_0_7132.jpeg,Carambola,Algal_Leaf_Spot,Biotic,Abiotic,0.6549
+Augmented_0_7188.jpeg,RAW_DATA\03_Carambola\biotic\Algal_Leaf_Spot\Augmented_0_7188.jpeg,Carambola,Algal_Leaf_Spot,Biotic,Abiotic,0.9561
+Augmented_0_7212.jpeg,RAW_DATA\03_Carambola\biotic\Algal_Leaf_Spot\Augmented_0_7212.jpeg,Carambola,Algal_Leaf_Spot,Biotic,Abiotic,0.5231
+Augmented_0_7243.jpeg,RAW_DATA\03_Carambola\biotic\Algal_Leaf_Spot\Augmented_0_7243.jpeg,Carambola,Algal_Leaf_Spot,Biotic,Abiotic,0.7883
+Augmented_0_7587.jpeg,RAW_DATA\03_Carambola\biotic\Algal_Leaf_Spot\Augmented_0_7587.jpeg,Carambola,Algal_Leaf_Spot,Biotic,Abiotic,0.9828
+Augmented_0_8046.jpeg,RAW_DATA\03_Carambola\biotic\Algal_Leaf_Spot\Augmented_0_8046.jpeg,Carambola,Algal_Leaf_Spot,Biotic,Abiotic,0.5383
+Augmented_0_8124.jpeg,RAW_DATA\03_Carambola\biotic\Algal_Leaf_Spot\Augmented_0_8124.jpeg,Carambola,Algal_Leaf_Spot,Biotic,Abiotic,0.5870
+Augmented_0_8265.jpeg,RAW_DATA\03_Carambola\biotic\Algal_Leaf_Spot\Augmented_0_8265.jpeg,Carambola,Algal_Leaf_Spot,Biotic,Abiotic,0.5569
+Augmented_0_8294.jpeg,RAW_DATA\03_Carambola\biotic\Algal_Leaf_Spot\Augmented_0_8294.jpeg,Carambola,Algal_Leaf_Spot,Biotic,Abiotic,0.8801
+Augmented_0_8458.jpeg,RAW_DATA\03_Carambola\biotic\Algal_Leaf_Spot\Augmented_0_8458.jpeg,Carambola,Algal_Leaf_Spot,Biotic,Abiotic,0.6203
+Augmented_0_8567.jpeg,RAW_DATA\03_Carambola\biotic\Algal_Leaf_Spot\Augmented_0_8567.jpeg,Carambola,Algal_Leaf_Spot,Biotic,Abiotic,0.6389
+Augmented_0_930.jpeg,RAW_DATA\03_Carambola\biotic\Algal_Leaf_Spot\Augmented_0_930.jpeg,Carambola,Algal_Leaf_Spot,Biotic,Abiotic,0.5354
+Augmented_0_9436.jpeg,RAW_DATA\03_Carambola\biotic\Algal_Leaf_Spot\Augmented_0_9436.jpeg,Carambola,Algal_Leaf_Spot,Biotic,Abiotic,0.7469
+Augmented_0_9533.jpeg,RAW_DATA\03_Carambola\biotic\Algal_Leaf_Spot\Augmented_0_9533.jpeg,Carambola,Algal_Leaf_Spot,Biotic,Abiotic,0.6118
+Augmented_0_1888.jpeg,RAW_DATA\03_Carambola\biotic\Insect_past\Augmented_0_1888.jpeg,Carambola,Insect_past,Biotic,Abiotic,0.7803
+Augmented_0_2122.jpeg,RAW_DATA\03_Carambola\biotic\Insect_past\Augmented_0_2122.jpeg,Carambola,Insect_past,Biotic,Abiotic,0.6735
+Augmented_0_3997.jpeg,RAW_DATA\03_Carambola\biotic\Insect_past\Augmented_0_3997.jpeg,Carambola,Insect_past,Biotic,Abiotic,0.6379
+Augmented_0_585.jpeg,RAW_DATA\03_Carambola\biotic\Insect_past\Augmented_0_585.jpeg,Carambola,Insect_past,Biotic,Abiotic,0.8339
+Augmented_0_6153.jpeg,RAW_DATA\03_Carambola\biotic\Insect_past\Augmented_0_6153.jpeg,Carambola,Insect_past,Biotic,Abiotic,0.7272
+Augmented_0_7890.jpeg,RAW_DATA\03_Carambola\biotic\Insect_past\Augmented_0_7890.jpeg,Carambola,Insect_past,Biotic,Abiotic,0.9151
+Augmented_0_9624.jpeg,RAW_DATA\03_Carambola\biotic\Insect_past\Augmented_0_9624.jpeg,Carambola,Insect_past,Biotic,Abiotic,0.7822
+Augmented_0_5577.jpeg,RAW_DATA\03_Carambola\biotic\Leaf_Carl_Virus\Augmented_0_5577.jpeg,Carambola,Leaf_Carl_Virus,Biotic,Abiotic,0.8239
+Augmented_0_8141.jpeg,RAW_DATA\03_Carambola\biotic\Leaf_Carl_Virus\Augmented_0_8141.jpeg,Carambola,Leaf_Carl_Virus,Biotic,Abiotic,0.9948
+Augmented_0_8812.jpeg,RAW_DATA\03_Carambola\biotic\Leaf_Carl_Virus\Augmented_0_8812.jpeg,Carambola,Leaf_Carl_Virus,Biotic,Abiotic,0.8771
+Augmented_0_8852.jpeg,RAW_DATA\03_Carambola\biotic\Leaf_Carl_Virus\Augmented_0_8852.jpeg,Carambola,Leaf_Carl_Virus,Biotic,Abiotic,0.9005
+Augmented_0_9035.jpeg,RAW_DATA\03_Carambola\biotic\Leaf_Carl_Virus\Augmented_0_9035.jpeg,Carambola,Leaf_Carl_Virus,Biotic,Abiotic,0.8556
+MSV_1037.JPEG,RAW_DATA\07_Mazie\biotic\MSV\MSV_1037.JPEG,Mazie,MSV,Biotic,Abiotic,0.8330
+train_104.jpg,RAW_DATA\08_Wheat\biotic\WheatLeafRust\train_104.jpg,Wheat,WheatLeafRust,Biotic,Abiotic,0.9985
+train_199.jpg,RAW_DATA\08_Wheat\biotic\WheatLeafRust\train_199.jpg,Wheat,WheatLeafRust,Biotic,Abiotic,0.9029
+train_225.jpg,RAW_DATA\08_Wheat\biotic\WheatLeafRust\train_225.jpg,Wheat,WheatLeafRust,Biotic,Abiotic,0.9839
+Augmented_0_1049.jpeg,RAW_DATA\09_AloeVera\abiotic\Healthy\Augmented_0_1049.jpeg,AloeVera,Healthy,Abiotic,Biotic,0.7420
+Augmented_0_1882.jpeg,RAW_DATA\09_AloeVera\abiotic\Healthy\Augmented_0_1882.jpeg,AloeVera,Healthy,Abiotic,Biotic,0.9196
+Augmented_0_20.jpeg,RAW_DATA\09_AloeVera\abiotic\Healthy\Augmented_0_20.jpeg,AloeVera,Healthy,Abiotic,Biotic,0.7579
+Augmented_0_2414.jpeg,RAW_DATA\09_AloeVera\abiotic\Healthy\Augmented_0_2414.jpeg,AloeVera,Healthy,Abiotic,Biotic,0.5713
+Augmented_0_2765.jpeg,RAW_DATA\09_AloeVera\abiotic\Healthy\Augmented_0_2765.jpeg,AloeVera,Healthy,Abiotic,Biotic,0.5483
+Augmented_0_3365.jpeg,RAW_DATA\09_AloeVera\abiotic\Healthy\Augmented_0_3365.jpeg,AloeVera,Healthy,Abiotic,Biotic,0.7021
+Augmented_0_3408.jpeg,RAW_DATA\09_AloeVera\abiotic\Healthy\Augmented_0_3408.jpeg,AloeVera,Healthy,Abiotic,Biotic,0.9337
+Augmented_0_3434.jpeg,RAW_DATA\09_AloeVera\abiotic\Healthy\Augmented_0_3434.jpeg,AloeVera,Healthy,Abiotic,Biotic,0.6239
+Augmented_0_4413.jpeg,RAW_DATA\09_AloeVera\abiotic\Healthy\Augmented_0_4413.jpeg,AloeVera,Healthy,Abiotic,Biotic,0.6879
+Augmented_0_5094.jpeg,RAW_DATA\09_AloeVera\abiotic\Healthy\Augmented_0_5094.jpeg,AloeVera,Healthy,Abiotic,Biotic,0.7161
+Augmented_0_5181.jpeg,RAW_DATA\09_AloeVera\abiotic\Healthy\Augmented_0_5181.jpeg,AloeVera,Healthy,Abiotic,Biotic,0.7232
+Augmented_0_6249.jpeg,RAW_DATA\09_AloeVera\abiotic\Healthy\Augmented_0_6249.jpeg,AloeVera,Healthy,Abiotic,Biotic,0.5925
+Augmented_0_6474.jpeg,RAW_DATA\09_AloeVera\abiotic\Healthy\Augmented_0_6474.jpeg,AloeVera,Healthy,Abiotic,Biotic,0.5015
+Augmented_0_7159.jpeg,RAW_DATA\09_AloeVera\abiotic\Healthy\Augmented_0_7159.jpeg,AloeVera,Healthy,Abiotic,Biotic,0.5601
+Augmented_0_7526.jpeg,RAW_DATA\09_AloeVera\abiotic\Healthy\Augmented_0_7526.jpeg,AloeVera,Healthy,Abiotic,Biotic,0.8427
+Augmented_0_8039.jpeg,RAW_DATA\09_AloeVera\abiotic\Healthy\Augmented_0_8039.jpeg,AloeVera,Healthy,Abiotic,Biotic,0.8599
+Augmented_0_1067.jpeg,RAW_DATA\09_AloeVera\abiotic\Sunburn\Augmented_0_1067.jpeg,AloeVera,Sunburn,Abiotic,Biotic,0.9886
+Augmented_0_1732.jpeg,RAW_DATA\09_AloeVera\abiotic\Sunburn\Augmented_0_1732.jpeg,AloeVera,Sunburn,Abiotic,Biotic,0.6149
+Augmented_0_1974.jpeg,RAW_DATA\09_AloeVera\abiotic\Sunburn\Augmented_0_1974.jpeg,AloeVera,Sunburn,Abiotic,Biotic,0.5752
+Augmented_0_2048.jpeg,RAW_DATA\09_AloeVera\abiotic\Sunburn\Augmented_0_2048.jpeg,AloeVera,Sunburn,Abiotic,Biotic,0.7048
+Augmented_0_2336.jpeg,RAW_DATA\09_AloeVera\abiotic\Sunburn\Augmented_0_2336.jpeg,AloeVera,Sunburn,Abiotic,Biotic,0.6277
+Augmented_0_2641.jpeg,RAW_DATA\09_AloeVera\abiotic\Sunburn\Augmented_0_2641.jpeg,AloeVera,Sunburn,Abiotic,Biotic,0.8763
+Augmented_0_2670.jpeg,RAW_DATA\09_AloeVera\abiotic\Sunburn\Augmented_0_2670.jpeg,AloeVera,Sunburn,Abiotic,Biotic,0.6083
+Augmented_0_271.jpeg,RAW_DATA\09_AloeVera\abiotic\Sunburn\Augmented_0_271.jpeg,AloeVera,Sunburn,Abiotic,Biotic,0.5099
+Augmented_0_3077.jpeg,RAW_DATA\09_AloeVera\abiotic\Sunburn\Augmented_0_3077.jpeg,AloeVera,Sunburn,Abiotic,Biotic,0.7192
+Augmented_0_3581.jpeg,RAW_DATA\09_AloeVera\abiotic\Sunburn\Augmented_0_3581.jpeg,AloeVera,Sunburn,Abiotic,Biotic,0.6390
+Augmented_0_3807.jpeg,RAW_DATA\09_AloeVera\abiotic\Sunburn\Augmented_0_3807.jpeg,AloeVera,Sunburn,Abiotic,Biotic,0.9429
+Augmented_0_3975.jpeg,RAW_DATA\09_AloeVera\abiotic\Sunburn\Augmented_0_3975.jpeg,AloeVera,Sunburn,Abiotic,Biotic,0.9016
+Augmented_0_4051.jpeg,RAW_DATA\09_AloeVera\abiotic\Sunburn\Augmented_0_4051.jpeg,AloeVera,Sunburn,Abiotic,Biotic,0.9886
+Augmented_0_4675.jpeg,RAW_DATA\09_AloeVera\abiotic\Sunburn\Augmented_0_4675.jpeg,AloeVera,Sunburn,Abiotic,Biotic,0.7863
+Augmented_0_4910.jpeg,RAW_DATA\09_AloeVera\abiotic\Sunburn\Augmented_0_4910.jpeg,AloeVera,Sunburn,Abiotic,Biotic,0.7941
+Augmented_0_4932.jpeg,RAW_DATA\09_AloeVera\abiotic\Sunburn\Augmented_0_4932.jpeg,AloeVera,Sunburn,Abiotic,Biotic,0.5093
+Augmented_0_5056.jpeg,RAW_DATA\09_AloeVera\abiotic\Sunburn\Augmented_0_5056.jpeg,AloeVera,Sunburn,Abiotic,Biotic,0.7973
+Augmented_0_5087.jpeg,RAW_DATA\09_AloeVera\abiotic\Sunburn\Augmented_0_5087.jpeg,AloeVera,Sunburn,Abiotic,Biotic,0.6218
+Augmented_0_5098.jpeg,RAW_DATA\09_AloeVera\abiotic\Sunburn\Augmented_0_5098.jpeg,AloeVera,Sunburn,Abiotic,Biotic,0.6798
+Augmented_0_5384.jpeg,RAW_DATA\09_AloeVera\abiotic\Sunburn\Augmented_0_5384.jpeg,AloeVera,Sunburn,Abiotic,Biotic,0.6903
+Augmented_0_5617.jpeg,RAW_DATA\09_AloeVera\abiotic\Sunburn\Augmented_0_5617.jpeg,AloeVera,Sunburn,Abiotic,Biotic,0.9674
+Augmented_0_5675.jpeg,RAW_DATA\09_AloeVera\abiotic\Sunburn\Augmented_0_5675.jpeg,AloeVera,Sunburn,Abiotic,Biotic,0.7031
+Augmented_0_60.jpeg,RAW_DATA\09_AloeVera\abiotic\Sunburn\Augmented_0_60.jpeg,AloeVera,Sunburn,Abiotic,Biotic,0.6677
+Augmented_0_6438.jpeg,RAW_DATA\09_AloeVera\abiotic\Sunburn\Augmented_0_6438.jpeg,AloeVera,Sunburn,Abiotic,Biotic,0.9756
+Augmented_0_670.jpeg,RAW_DATA\09_AloeVera\abiotic\Sunburn\Augmented_0_670.jpeg,AloeVera,Sunburn,Abiotic,Biotic,0.6159
+Augmented_0_693.jpeg,RAW_DATA\09_AloeVera\abiotic\Sunburn\Augmented_0_693.jpeg,AloeVera,Sunburn,Abiotic,Biotic,0.6780
+Augmented_0_7063.jpeg,RAW_DATA\09_AloeVera\abiotic\Sunburn\Augmented_0_7063.jpeg,AloeVera,Sunburn,Abiotic,Biotic,0.6077
+Augmented_0_7148.jpeg,RAW_DATA\09_AloeVera\abiotic\Sunburn\Augmented_0_7148.jpeg,AloeVera,Sunburn,Abiotic,Biotic,0.7866
+Augmented_0_7208.jpeg,RAW_DATA\09_AloeVera\abiotic\Sunburn\Augmented_0_7208.jpeg,AloeVera,Sunburn,Abiotic,Biotic,0.8072
+Augmented_0_7307.jpeg,RAW_DATA\09_AloeVera\abiotic\Sunburn\Augmented_0_7307.jpeg,AloeVera,Sunburn,Abiotic,Biotic,0.5097
+Augmented_0_8407.jpeg,RAW_DATA\09_AloeVera\abiotic\Sunburn\Augmented_0_8407.jpeg,AloeVera,Sunburn,Abiotic,Biotic,0.6593
+Augmented_0_9188.jpeg,RAW_DATA\09_AloeVera\abiotic\Sunburn\Augmented_0_9188.jpeg,AloeVera,Sunburn,Abiotic,Biotic,0.8900
+Augmented_0_1109.jpeg,RAW_DATA\09_AloeVera\biotic\Aloe Rust\Augmented_0_1109.jpeg,AloeVera,Aloe Rust,Biotic,Abiotic,0.6582
+Augmented_0_1538.jpeg,RAW_DATA\09_AloeVera\biotic\Aloe Rust\Augmented_0_1538.jpeg,AloeVera,Aloe Rust,Biotic,Abiotic,0.8301
+Augmented_0_1682.jpeg,RAW_DATA\09_AloeVera\biotic\Aloe Rust\Augmented_0_1682.jpeg,AloeVera,Aloe Rust,Biotic,Abiotic,0.8472
+Augmented_0_198.jpeg,RAW_DATA\09_AloeVera\biotic\Aloe Rust\Augmented_0_198.jpeg,AloeVera,Aloe Rust,Biotic,Abiotic,0.8268
+Augmented_0_2136.jpeg,RAW_DATA\09_AloeVera\biotic\Aloe Rust\Augmented_0_2136.jpeg,AloeVera,Aloe Rust,Biotic,Abiotic,0.6699
+Augmented_0_2952.jpeg,RAW_DATA\09_AloeVera\biotic\Aloe Rust\Augmented_0_2952.jpeg,AloeVera,Aloe Rust,Biotic,Abiotic,0.6549
+Augmented_0_3296.jpeg,RAW_DATA\09_AloeVera\biotic\Aloe Rust\Augmented_0_3296.jpeg,AloeVera,Aloe Rust,Biotic,Abiotic,0.5474
+Augmented_0_3377.jpeg,RAW_DATA\09_AloeVera\biotic\Aloe Rust\Augmented_0_3377.jpeg,AloeVera,Aloe Rust,Biotic,Abiotic,0.7934
+Augmented_0_343.jpeg,RAW_DATA\09_AloeVera\biotic\Aloe Rust\Augmented_0_343.jpeg,AloeVera,Aloe Rust,Biotic,Abiotic,0.9916
+Augmented_0_3448.jpeg,RAW_DATA\09_AloeVera\biotic\Aloe Rust\Augmented_0_3448.jpeg,AloeVera,Aloe Rust,Biotic,Abiotic,0.7554
+Augmented_0_3577.jpeg,RAW_DATA\09_AloeVera\biotic\Aloe Rust\Augmented_0_3577.jpeg,AloeVera,Aloe Rust,Biotic,Abiotic,0.9718
+Augmented_0_3717.jpeg,RAW_DATA\09_AloeVera\biotic\Aloe Rust\Augmented_0_3717.jpeg,AloeVera,Aloe Rust,Biotic,Abiotic,0.6778
+Augmented_0_3793.jpeg,RAW_DATA\09_AloeVera\biotic\Aloe Rust\Augmented_0_3793.jpeg,AloeVera,Aloe Rust,Biotic,Abiotic,0.8362
+Augmented_0_3873.jpeg,RAW_DATA\09_AloeVera\biotic\Aloe Rust\Augmented_0_3873.jpeg,AloeVera,Aloe Rust,Biotic,Abiotic,0.6525
+Augmented_0_3938.jpeg,RAW_DATA\09_AloeVera\biotic\Aloe Rust\Augmented_0_3938.jpeg,AloeVera,Aloe Rust,Biotic,Abiotic,0.7189
+Augmented_0_4060.jpeg,RAW_DATA\09_AloeVera\biotic\Aloe Rust\Augmented_0_4060.jpeg,AloeVera,Aloe Rust,Biotic,Abiotic,0.6504
+Augmented_0_4348.jpeg,RAW_DATA\09_AloeVera\biotic\Aloe Rust\Augmented_0_4348.jpeg,AloeVera,Aloe Rust,Biotic,Abiotic,0.8232
+Augmented_0_457.jpeg,RAW_DATA\09_AloeVera\biotic\Aloe Rust\Augmented_0_457.jpeg,AloeVera,Aloe Rust,Biotic,Abiotic,0.9540
+Augmented_0_4581.jpeg,RAW_DATA\09_AloeVera\biotic\Aloe Rust\Augmented_0_4581.jpeg,AloeVera,Aloe Rust,Biotic,Abiotic,0.6549
+Augmented_0_4706.jpeg,RAW_DATA\09_AloeVera\biotic\Aloe Rust\Augmented_0_4706.jpeg,AloeVera,Aloe Rust,Biotic,Abiotic,0.5430
+Augmented_0_4801.jpeg,RAW_DATA\09_AloeVera\biotic\Aloe Rust\Augmented_0_4801.jpeg,AloeVera,Aloe Rust,Biotic,Abiotic,0.6549
+Augmented_0_5061.jpeg,RAW_DATA\09_AloeVera\biotic\Aloe Rust\Augmented_0_5061.jpeg,AloeVera,Aloe Rust,Biotic,Abiotic,0.8505
+Augmented_0_5155.jpeg,RAW_DATA\09_AloeVera\biotic\Aloe Rust\Augmented_0_5155.jpeg,AloeVera,Aloe Rust,Biotic,Abiotic,0.6208
+Augmented_0_5207.jpeg,RAW_DATA\09_AloeVera\biotic\Aloe Rust\Augmented_0_5207.jpeg,AloeVera,Aloe Rust,Biotic,Abiotic,0.8032
+Augmented_0_5287.jpeg,RAW_DATA\09_AloeVera\biotic\Aloe Rust\Augmented_0_5287.jpeg,AloeVera,Aloe Rust,Biotic,Abiotic,0.5648
+Augmented_0_5329.jpeg,RAW_DATA\09_AloeVera\biotic\Aloe Rust\Augmented_0_5329.jpeg,AloeVera,Aloe Rust,Biotic,Abiotic,0.7403
+Augmented_0_5374.jpeg,RAW_DATA\09_AloeVera\biotic\Aloe Rust\Augmented_0_5374.jpeg,AloeVera,Aloe Rust,Biotic,Abiotic,0.7196
+Augmented_0_5737.jpeg,RAW_DATA\09_AloeVera\biotic\Aloe Rust\Augmented_0_5737.jpeg,AloeVera,Aloe Rust,Biotic,Abiotic,0.5143
+Augmented_0_5846.jpeg,RAW_DATA\09_AloeVera\biotic\Aloe Rust\Augmented_0_5846.jpeg,AloeVera,Aloe Rust,Biotic,Abiotic,0.6652
+Augmented_0_5884.jpeg,RAW_DATA\09_AloeVera\biotic\Aloe Rust\Augmented_0_5884.jpeg,AloeVera,Aloe Rust,Biotic,Abiotic,0.8643
+Augmented_0_6210.jpeg,RAW_DATA\09_AloeVera\biotic\Aloe Rust\Augmented_0_6210.jpeg,AloeVera,Aloe Rust,Biotic,Abiotic,0.7329
+Augmented_0_6268.jpeg,RAW_DATA\09_AloeVera\biotic\Aloe Rust\Augmented_0_6268.jpeg,AloeVera,Aloe Rust,Biotic,Abiotic,0.8571
+Augmented_0_64.jpeg,RAW_DATA\09_AloeVera\biotic\Aloe Rust\Augmented_0_64.jpeg,AloeVera,Aloe Rust,Biotic,Abiotic,0.5061
+Augmented_0_6494.jpeg,RAW_DATA\09_AloeVera\biotic\Aloe Rust\Augmented_0_6494.jpeg,AloeVera,Aloe Rust,Biotic,Abiotic,0.8658
+Augmented_0_6784.jpeg,RAW_DATA\09_AloeVera\biotic\Aloe Rust\Augmented_0_6784.jpeg,AloeVera,Aloe Rust,Biotic,Abiotic,0.5966
+Augmented_0_6943.jpeg,RAW_DATA\09_AloeVera\biotic\Aloe Rust\Augmented_0_6943.jpeg,AloeVera,Aloe Rust,Biotic,Abiotic,0.5956
+Augmented_0_7387.jpeg,RAW_DATA\09_AloeVera\biotic\Aloe Rust\Augmented_0_7387.jpeg,AloeVera,Aloe Rust,Biotic,Abiotic,0.6035
+Augmented_0_760.jpeg,RAW_DATA\09_AloeVera\biotic\Aloe Rust\Augmented_0_760.jpeg,AloeVera,Aloe Rust,Biotic,Abiotic,0.8149
+Augmented_0_7877.jpeg,RAW_DATA\09_AloeVera\biotic\Aloe Rust\Augmented_0_7877.jpeg,AloeVera,Aloe Rust,Biotic,Abiotic,0.6167
+Augmented_0_7946.jpeg,RAW_DATA\09_AloeVera\biotic\Aloe Rust\Augmented_0_7946.jpeg,AloeVera,Aloe Rust,Biotic,Abiotic,0.6721
+Augmented_0_804.jpeg,RAW_DATA\09_AloeVera\biotic\Aloe Rust\Augmented_0_804.jpeg,AloeVera,Aloe Rust,Biotic,Abiotic,0.5621
+Augmented_0_8105.jpeg,RAW_DATA\09_AloeVera\biotic\Aloe Rust\Augmented_0_8105.jpeg,AloeVera,Aloe Rust,Biotic,Abiotic,0.7686
+Augmented_0_8112.jpeg,RAW_DATA\09_AloeVera\biotic\Aloe Rust\Augmented_0_8112.jpeg,AloeVera,Aloe Rust,Biotic,Abiotic,0.6550
+Augmented_0_8150.jpeg,RAW_DATA\09_AloeVera\biotic\Aloe Rust\Augmented_0_8150.jpeg,AloeVera,Aloe Rust,Biotic,Abiotic,0.6400
+Augmented_0_8154.jpeg,RAW_DATA\09_AloeVera\biotic\Aloe Rust\Augmented_0_8154.jpeg,AloeVera,Aloe Rust,Biotic,Abiotic,0.5030
+Augmented_0_8373.jpeg,RAW_DATA\09_AloeVera\biotic\Aloe Rust\Augmented_0_8373.jpeg,AloeVera,Aloe Rust,Biotic,Abiotic,0.5620
+Augmented_0_8629.jpeg,RAW_DATA\09_AloeVera\biotic\Aloe Rust\Augmented_0_8629.jpeg,AloeVera,Aloe Rust,Biotic,Abiotic,0.5147
+Augmented_0_8725.jpeg,RAW_DATA\09_AloeVera\biotic\Aloe Rust\Augmented_0_8725.jpeg,AloeVera,Aloe Rust,Biotic,Abiotic,0.8192
+Augmented_0_874.jpeg,RAW_DATA\09_AloeVera\biotic\Aloe Rust\Augmented_0_874.jpeg,AloeVera,Aloe Rust,Biotic,Abiotic,0.7382
+Augmented_0_8868.jpeg,RAW_DATA\09_AloeVera\biotic\Aloe Rust\Augmented_0_8868.jpeg,AloeVera,Aloe Rust,Biotic,Abiotic,0.8083
+Augmented_0_891.jpeg,RAW_DATA\09_AloeVera\biotic\Aloe Rust\Augmented_0_891.jpeg,AloeVera,Aloe Rust,Biotic,Abiotic,0.6549
+Augmented_0_9039.jpeg,RAW_DATA\09_AloeVera\biotic\Aloe Rust\Augmented_0_9039.jpeg,AloeVera,Aloe Rust,Biotic,Abiotic,0.6176
+Augmented_0_9115.jpeg,RAW_DATA\09_AloeVera\biotic\Aloe Rust\Augmented_0_9115.jpeg,AloeVera,Aloe Rust,Biotic,Abiotic,0.8468
+Augmented_0_9259.jpeg,RAW_DATA\09_AloeVera\biotic\Aloe Rust\Augmented_0_9259.jpeg,AloeVera,Aloe Rust,Biotic,Abiotic,0.6549
+Augmented_0_9270.jpeg,RAW_DATA\09_AloeVera\biotic\Aloe Rust\Augmented_0_9270.jpeg,AloeVera,Aloe Rust,Biotic,Abiotic,0.6444
+Augmented_0_9327.jpeg,RAW_DATA\09_AloeVera\biotic\Aloe Rust\Augmented_0_9327.jpeg,AloeVera,Aloe Rust,Biotic,Abiotic,0.7318
+Augmented_0_9500.jpeg,RAW_DATA\09_AloeVera\biotic\Aloe Rust\Augmented_0_9500.jpeg,AloeVera,Aloe Rust,Biotic,Abiotic,0.5204
+Augmented_0_9773.jpeg,RAW_DATA\09_AloeVera\biotic\Aloe Rust\Augmented_0_9773.jpeg,AloeVera,Aloe Rust,Biotic,Abiotic,0.7480
+Augmented_0_1427.jpeg,RAW_DATA\09_AloeVera\biotic\Anthracnose\Augmented_0_1427.jpeg,AloeVera,Anthracnose,Biotic,Abiotic,0.5198
+Augmented_0_1713.jpeg,RAW_DATA\09_AloeVera\biotic\Anthracnose\Augmented_0_1713.jpeg,AloeVera,Anthracnose,Biotic,Abiotic,0.8113
+Augmented_0_1921.jpeg,RAW_DATA\09_AloeVera\biotic\Anthracnose\Augmented_0_1921.jpeg,AloeVera,Anthracnose,Biotic,Abiotic,0.5991
+Augmented_0_2076.jpeg,RAW_DATA\09_AloeVera\biotic\Anthracnose\Augmented_0_2076.jpeg,AloeVera,Anthracnose,Biotic,Abiotic,0.9124
+Augmented_0_2149.jpeg,RAW_DATA\09_AloeVera\biotic\Anthracnose\Augmented_0_2149.jpeg,AloeVera,Anthracnose,Biotic,Abiotic,0.9027
+Augmented_0_2589.jpeg,RAW_DATA\09_AloeVera\biotic\Anthracnose\Augmented_0_2589.jpeg,AloeVera,Anthracnose,Biotic,Abiotic,0.7665
+Augmented_0_2717.jpeg,RAW_DATA\09_AloeVera\biotic\Anthracnose\Augmented_0_2717.jpeg,AloeVera,Anthracnose,Biotic,Abiotic,0.6549
+Augmented_0_3119.jpeg,RAW_DATA\09_AloeVera\biotic\Anthracnose\Augmented_0_3119.jpeg,AloeVera,Anthracnose,Biotic,Abiotic,0.6549
+Augmented_0_3507.jpeg,RAW_DATA\09_AloeVera\biotic\Anthracnose\Augmented_0_3507.jpeg,AloeVera,Anthracnose,Biotic,Abiotic,0.9697
+Augmented_0_438.jpeg,RAW_DATA\09_AloeVera\biotic\Anthracnose\Augmented_0_438.jpeg,AloeVera,Anthracnose,Biotic,Abiotic,0.5776
+Augmented_0_4641.jpeg,RAW_DATA\09_AloeVera\biotic\Anthracnose\Augmented_0_4641.jpeg,AloeVera,Anthracnose,Biotic,Abiotic,0.7877
+Augmented_0_4906.jpeg,RAW_DATA\09_AloeVera\biotic\Anthracnose\Augmented_0_4906.jpeg,AloeVera,Anthracnose,Biotic,Abiotic,0.5587
+Augmented_0_4949.jpeg,RAW_DATA\09_AloeVera\biotic\Anthracnose\Augmented_0_4949.jpeg,AloeVera,Anthracnose,Biotic,Abiotic,0.9297
+Augmented_0_4965.jpeg,RAW_DATA\09_AloeVera\biotic\Anthracnose\Augmented_0_4965.jpeg,AloeVera,Anthracnose,Biotic,Abiotic,0.8197
+Augmented_0_5356.jpeg,RAW_DATA\09_AloeVera\biotic\Anthracnose\Augmented_0_5356.jpeg,AloeVera,Anthracnose,Biotic,Abiotic,0.8611
+Augmented_0_5369.jpeg,RAW_DATA\09_AloeVera\biotic\Anthracnose\Augmented_0_5369.jpeg,AloeVera,Anthracnose,Biotic,Abiotic,0.6115
+Augmented_0_5882.jpeg,RAW_DATA\09_AloeVera\biotic\Anthracnose\Augmented_0_5882.jpeg,AloeVera,Anthracnose,Biotic,Abiotic,0.9181
+Augmented_0_6364.jpeg,RAW_DATA\09_AloeVera\biotic\Anthracnose\Augmented_0_6364.jpeg,AloeVera,Anthracnose,Biotic,Abiotic,0.6282
+Augmented_0_6451.jpeg,RAW_DATA\09_AloeVera\biotic\Anthracnose\Augmented_0_6451.jpeg,AloeVera,Anthracnose,Biotic,Abiotic,0.9762
+Augmented_0_7653.jpeg,RAW_DATA\09_AloeVera\biotic\Anthracnose\Augmented_0_7653.jpeg,AloeVera,Anthracnose,Biotic,Abiotic,0.6549
+Augmented_0_7768.jpeg,RAW_DATA\09_AloeVera\biotic\Anthracnose\Augmented_0_7768.jpeg,AloeVera,Anthracnose,Biotic,Abiotic,0.9727
+Augmented_0_7867.jpeg,RAW_DATA\09_AloeVera\biotic\Anthracnose\Augmented_0_7867.jpeg,AloeVera,Anthracnose,Biotic,Abiotic,0.9948
+Augmented_0_8007.jpeg,RAW_DATA\09_AloeVera\biotic\Anthracnose\Augmented_0_8007.jpeg,AloeVera,Anthracnose,Biotic,Abiotic,0.8451
+Augmented_0_8904.jpeg,RAW_DATA\09_AloeVera\biotic\Anthracnose\Augmented_0_8904.jpeg,AloeVera,Anthracnose,Biotic,Abiotic,0.8246
+Augmented_0_906.jpeg,RAW_DATA\09_AloeVera\biotic\Anthracnose\Augmented_0_906.jpeg,AloeVera,Anthracnose,Biotic,Abiotic,0.7514
+Augmented_0_9351.jpeg,RAW_DATA\09_AloeVera\biotic\Anthracnose\Augmented_0_9351.jpeg,AloeVera,Anthracnose,Biotic,Abiotic,0.6904
+Augmented_0_9388.jpeg,RAW_DATA\09_AloeVera\biotic\Anthracnose\Augmented_0_9388.jpeg,AloeVera,Anthracnose,Biotic,Abiotic,0.9439
+Augmented_0_9799.jpeg,RAW_DATA\09_AloeVera\biotic\Anthracnose\Augmented_0_9799.jpeg,AloeVera,Anthracnose,Biotic,Abiotic,0.7429
+Augmented_0_1682.jpeg,RAW_DATA\09_AloeVera\biotic\Leaf Spot\Augmented_0_1682.jpeg,AloeVera,Leaf Spot,Biotic,Abiotic,0.9767
+Augmented_0_226.jpeg,RAW_DATA\09_AloeVera\biotic\Leaf Spot\Augmented_0_226.jpeg,AloeVera,Leaf Spot,Biotic,Abiotic,0.9221
+Augmented_0_2393.jpeg,RAW_DATA\09_AloeVera\biotic\Leaf Spot\Augmented_0_2393.jpeg,AloeVera,Leaf Spot,Biotic,Abiotic,0.5603
+Augmented_0_2423.jpeg,RAW_DATA\09_AloeVera\biotic\Leaf Spot\Augmented_0_2423.jpeg,AloeVera,Leaf Spot,Biotic,Abiotic,0.9525
+Augmented_0_247.jpeg,RAW_DATA\09_AloeVera\biotic\Leaf Spot\Augmented_0_247.jpeg,AloeVera,Leaf Spot,Biotic,Abiotic,0.5688
+Augmented_0_2774.jpeg,RAW_DATA\09_AloeVera\biotic\Leaf Spot\Augmented_0_2774.jpeg,AloeVera,Leaf Spot,Biotic,Abiotic,0.6761
+Augmented_0_2793.jpeg,RAW_DATA\09_AloeVera\biotic\Leaf Spot\Augmented_0_2793.jpeg,AloeVera,Leaf Spot,Biotic,Abiotic,0.8551
+Augmented_0_300.jpeg,RAW_DATA\09_AloeVera\biotic\Leaf Spot\Augmented_0_300.jpeg,AloeVera,Leaf Spot,Biotic,Abiotic,0.5413
+Augmented_0_3171.jpeg,RAW_DATA\09_AloeVera\biotic\Leaf Spot\Augmented_0_3171.jpeg,AloeVera,Leaf Spot,Biotic,Abiotic,0.8731
+Augmented_0_3200.jpeg,RAW_DATA\09_AloeVera\biotic\Leaf Spot\Augmented_0_3200.jpeg,AloeVera,Leaf Spot,Biotic,Abiotic,0.8465
+Augmented_0_3643.jpeg,RAW_DATA\09_AloeVera\biotic\Leaf Spot\Augmented_0_3643.jpeg,AloeVera,Leaf Spot,Biotic,Abiotic,0.9654
+Augmented_0_3758.jpeg,RAW_DATA\09_AloeVera\biotic\Leaf Spot\Augmented_0_3758.jpeg,AloeVera,Leaf Spot,Biotic,Abiotic,0.8876
+Augmented_0_3777.jpeg,RAW_DATA\09_AloeVera\biotic\Leaf Spot\Augmented_0_3777.jpeg,AloeVera,Leaf Spot,Biotic,Abiotic,0.9939
+Augmented_0_4035.jpeg,RAW_DATA\09_AloeVera\biotic\Leaf Spot\Augmented_0_4035.jpeg,AloeVera,Leaf Spot,Biotic,Abiotic,0.7645
+Augmented_0_4265.jpeg,RAW_DATA\09_AloeVera\biotic\Leaf Spot\Augmented_0_4265.jpeg,AloeVera,Leaf Spot,Biotic,Abiotic,0.9965
+Augmented_0_4343.jpeg,RAW_DATA\09_AloeVera\biotic\Leaf Spot\Augmented_0_4343.jpeg,AloeVera,Leaf Spot,Biotic,Abiotic,0.5090
+Augmented_0_4553.jpeg,RAW_DATA\09_AloeVera\biotic\Leaf Spot\Augmented_0_4553.jpeg,AloeVera,Leaf Spot,Biotic,Abiotic,0.8613
+Augmented_0_4813.jpeg,RAW_DATA\09_AloeVera\biotic\Leaf Spot\Augmented_0_4813.jpeg,AloeVera,Leaf Spot,Biotic,Abiotic,0.9562
+Augmented_0_4838.jpeg,RAW_DATA\09_AloeVera\biotic\Leaf Spot\Augmented_0_4838.jpeg,AloeVera,Leaf Spot,Biotic,Abiotic,0.7313
+Augmented_0_503.jpeg,RAW_DATA\09_AloeVera\biotic\Leaf Spot\Augmented_0_503.jpeg,AloeVera,Leaf Spot,Biotic,Abiotic,0.9846
+Augmented_0_5039.jpeg,RAW_DATA\09_AloeVera\biotic\Leaf Spot\Augmented_0_5039.jpeg,AloeVera,Leaf Spot,Biotic,Abiotic,0.7634
+Augmented_0_5088.jpeg,RAW_DATA\09_AloeVera\biotic\Leaf Spot\Augmented_0_5088.jpeg,AloeVera,Leaf Spot,Biotic,Abiotic,0.8388
+Augmented_0_5100.jpeg,RAW_DATA\09_AloeVera\biotic\Leaf Spot\Augmented_0_5100.jpeg,AloeVera,Leaf Spot,Biotic,Abiotic,0.6557
+Augmented_0_5388.jpeg,RAW_DATA\09_AloeVera\biotic\Leaf Spot\Augmented_0_5388.jpeg,AloeVera,Leaf Spot,Biotic,Abiotic,0.8752
+Augmented_0_5574.jpeg,RAW_DATA\09_AloeVera\biotic\Leaf Spot\Augmented_0_5574.jpeg,AloeVera,Leaf Spot,Biotic,Abiotic,0.8402
+Augmented_0_5811.jpeg,RAW_DATA\09_AloeVera\biotic\Leaf Spot\Augmented_0_5811.jpeg,AloeVera,Leaf Spot,Biotic,Abiotic,0.7360
+Augmented_0_5990.jpeg,RAW_DATA\09_AloeVera\biotic\Leaf Spot\Augmented_0_5990.jpeg,AloeVera,Leaf Spot,Biotic,Abiotic,0.9354
+Augmented_0_6038.jpeg,RAW_DATA\09_AloeVera\biotic\Leaf Spot\Augmented_0_6038.jpeg,AloeVera,Leaf Spot,Biotic,Abiotic,0.6549
+Augmented_0_6491.jpeg,RAW_DATA\09_AloeVera\biotic\Leaf Spot\Augmented_0_6491.jpeg,AloeVera,Leaf Spot,Biotic,Abiotic,0.7483
+Augmented_0_6725.jpeg,RAW_DATA\09_AloeVera\biotic\Leaf Spot\Augmented_0_6725.jpeg,AloeVera,Leaf Spot,Biotic,Abiotic,0.7136
+Augmented_0_6787.jpeg,RAW_DATA\09_AloeVera\biotic\Leaf Spot\Augmented_0_6787.jpeg,AloeVera,Leaf Spot,Biotic,Abiotic,0.9960
+Augmented_0_7382.jpeg,RAW_DATA\09_AloeVera\biotic\Leaf Spot\Augmented_0_7382.jpeg,AloeVera,Leaf Spot,Biotic,Abiotic,0.8050
+Augmented_0_7455.jpeg,RAW_DATA\09_AloeVera\biotic\Leaf Spot\Augmented_0_7455.jpeg,AloeVera,Leaf Spot,Biotic,Abiotic,0.6800
+Augmented_0_7589.jpeg,RAW_DATA\09_AloeVera\biotic\Leaf Spot\Augmented_0_7589.jpeg,AloeVera,Leaf Spot,Biotic,Abiotic,0.7899
+Augmented_0_8623.jpeg,RAW_DATA\09_AloeVera\biotic\Leaf Spot\Augmented_0_8623.jpeg,AloeVera,Leaf Spot,Biotic,Abiotic,0.9954
+Augmented_0_864.jpeg,RAW_DATA\09_AloeVera\biotic\Leaf Spot\Augmented_0_864.jpeg,AloeVera,Leaf Spot,Biotic,Abiotic,0.8176
+Augmented_0_8661.jpeg,RAW_DATA\09_AloeVera\biotic\Leaf Spot\Augmented_0_8661.jpeg,AloeVera,Leaf Spot,Biotic,Abiotic,0.7920
+Augmented_0_9351.jpeg,RAW_DATA\09_AloeVera\biotic\Leaf Spot\Augmented_0_9351.jpeg,AloeVera,Leaf Spot,Biotic,Abiotic,0.6249
+Augmented_0_9405.jpeg,RAW_DATA\09_AloeVera\biotic\Leaf Spot\Augmented_0_9405.jpeg,AloeVera,Leaf Spot,Biotic,Abiotic,0.6219
+Augmented_0_9444.jpeg,RAW_DATA\09_AloeVera\biotic\Leaf Spot\Augmented_0_9444.jpeg,AloeVera,Leaf Spot,Biotic,Abiotic,0.7960
+Augmented_0_9464.jpeg,RAW_DATA\09_AloeVera\biotic\Leaf Spot\Augmented_0_9464.jpeg,AloeVera,Leaf Spot,Biotic,Abiotic,0.5080
+Augmented_0_9521.jpeg,RAW_DATA\09_AloeVera\biotic\Leaf Spot\Augmented_0_9521.jpeg,AloeVera,Leaf Spot,Biotic,Abiotic,0.7845

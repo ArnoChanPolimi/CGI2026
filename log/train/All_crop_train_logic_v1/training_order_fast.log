@@ -1,0 +1,19 @@
+2026-02-03 19:27:12,062 - INFO - --- 🚀 开启【极限加速】模式 ---
+2026-02-03 19:27:12,062 - INFO - Batch Size: 128 | CSV: dataset_index_letterbox_NoHealthy_v1_NoAloeVera_order.csv
+2026-02-03 19:27:12,136 - INFO - ⚖️ 类别权重: [1.3729664087295532, 0.6270335912704468]
+2026-02-03 19:47:39,935 - INFO - Epoch 1 | Avg Loss: 0.1688
+2026-02-03 20:10:40,104 - INFO - Epoch 2 | Avg Loss: 0.0992
+2026-02-03 20:32:27,067 - INFO - Epoch 3 | Avg Loss: 0.0865
+2026-02-03 20:53:15,529 - INFO - Epoch 4 | Avg Loss: 0.0717
+2026-02-03 21:14:37,625 - INFO - Epoch 5 | Avg Loss: 0.0617
+2026-02-03 21:36:19,609 - INFO - Epoch 6 | Avg Loss: 0.0405
+2026-02-03 21:59:13,584 - INFO - Epoch 7 | Avg Loss: 0.0295
+2026-02-03 22:21:54,058 - INFO - Epoch 8 | Avg Loss: 0.0314
+2026-02-03 22:44:22,589 - INFO - Epoch 9 | Avg Loss: 0.0243
+2026-02-03 23:06:43,883 - INFO - Epoch 10 | Avg Loss: 0.0196
+2026-02-03 23:29:20,229 - INFO - Epoch 11 | Avg Loss: 0.0167
+2026-02-03 23:52:16,767 - INFO - Epoch 12 | Avg Loss: 0.0127
+2026-02-04 00:13:36,668 - INFO - Epoch 13 | Avg Loss: 0.0113
+2026-02-04 00:34:56,331 - INFO - Epoch 14 | Avg Loss: 0.0121
+2026-02-04 00:46:34,681 - INFO - Epoch 15 | Avg Loss: 0.0110
+2026-02-04 00:46:34,726 - INFO - --- 🚀 训练圆满完成！ ---

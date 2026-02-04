@@ -1,0 +1,12 @@
+                      precision    recall  f1-score   support
+
+      Bacterial_Spot       0.95      0.99      0.97       326
+Cercospora_Leaf_Spot       0.98      0.96      0.97       380
+          Curl_Virus       0.92      0.94      0.93       318
+        Healthy_Leaf       0.94      0.93      0.94       330
+Nutrition_Deficiency       0.98      0.94      0.96       242
+      Powdery_Mildew       0.99      0.99      0.99       170
+
+            accuracy                           0.96      1766
+           macro avg       0.96      0.96      0.96      1766
+        weighted avg       0.96      0.96      0.96      1766

@@ -1,0 +1,30 @@
+2026-01-28 06:08:58,856 - INFO - --- 🔍 开始 Logic_V1 全方位评估报告 (找回旧版数值标注) ---
+2026-01-28 06:08:59,916 - INFO - ✅ 带数值标注的趋势图已保存至: loss_trend_logic_v1_unknown_letterbox.png
+2026-01-28 06:11:41,037 - INFO - 
+==================== F1 / Precision / Recall 报告 ====================
+              precision    recall  f1-score   support
+
+     Abiotic       0.92      0.95      0.94      4303
+      Biotic       0.95      0.93      0.94      4780
+
+    accuracy                           0.94      9083
+   macro avg       0.94      0.94      0.94      9083
+weighted avg       0.94      0.94      0.94      9083
+
+2026-01-28 06:11:41,272 - INFO - ✅ 混淆矩阵图已保存至: confusion_matrix_logic_v1_unknown_letterbox.png
+2026-01-28 06:11:41,307 - INFO - ✅ 错题明细与作物诊断报告已存入: output\All_crop_train_logic_v1\error_analysis
+2026-01-28 06:11:41,311 - INFO - 
+--- 作物偏科概览 ---
+     Crop  Error_Count  Total_In_Test  Error_Rate (%)
+    Guava           12             89           13.48
+Carambola          163           1828            8.92
+ AloeVera          269           3265            8.24
+   cherry           13            214            6.07
+    Wheat           11            204            5.39
+   Tomato           77           1483            5.19
+Jackfruit            8            500            1.60
+    Mazie            8            773            1.03
+   Chilli            4            727            0.55
+2026-01-28 06:11:41,311 - INFO - --- 🚀 分析任务圆满完成！ ---
+2026-01-31 14:27:42,558 - INFO - --- 🚀 开始 Logic V1 训练结果分析任务 ---
+2026-01-31 14:27:42,785 - INFO - 🧪 正在回溯 12 轮 pth 成绩，准备合并双线图...

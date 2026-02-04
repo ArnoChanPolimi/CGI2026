@@ -1,0 +1,80 @@
+2026-02-04 01:32:08,126 - INFO - ==================================================
+2026-02-04 01:32:08,126 - INFO - 🏆 跨物种实战测试最终报告 (pth14)
+2026-02-04 01:32:08,126 - INFO - 模型路径: D:\Aa_Polimi\Polimi_Studying\Sem3\COMMUNICATION_IN_GREEN_INFRASTRUCTURES\CGI_project\output\All_crop_train_logic_v1\pth\checkpoint_epoch_order_14.pth
+2026-02-04 01:32:08,126 - INFO - 数据目录: D:\Aa_Polimi\Polimi_Studying\Sem3\COMMUNICATION_IN_GREEN_INFRASTRUCTURES\CGI_project\other
+2026-02-04 01:32:08,126 - INFO - ==================================================
+2026-02-04 01:32:08,777 - INFO - ✅ 模型权重加载成功
+2026-02-04 01:32:08,788 - INFO - 
+🌿 正在测试物种: 01_Lemon
+2026-02-04 01:34:39,880 - INFO - 📊 01_Lemon 汇总:
+2026-02-04 01:34:39,880 - INFO -    - Accuracy: 75.88%
+2026-02-04 01:34:39,880 - INFO -    - Biotic F1: 0.8554
+2026-02-04 01:34:39,880 - INFO -    - Precision: 0.7769
+2026-02-04 01:34:39,880 - INFO -    - Recall: 0.9517
+2026-02-04 01:34:39,880 - INFO - ⭐ 01_Lemon 结果: 准确率 75.88% | 总样本: 1600
+2026-02-04 01:34:40,607 - INFO - 📊 混淆矩阵已保存至: cm_01_Lemon_pth14_letterbox_NoHealthy_NoAloeVera_order.png
+2026-02-04 01:34:40,607 - INFO - 
+🌿 正在测试物种: 02_BDHogPlum
+2026-02-04 01:57:17,360 - INFO - 📊 02_BDHogPlum 汇总:
+2026-02-04 01:57:17,361 - INFO -    - Accuracy: 45.05%
+2026-02-04 01:57:17,361 - INFO -    - Biotic F1: 0.6164
+2026-02-04 01:57:17,363 - INFO -    - Precision: 0.4966
+2026-02-04 01:57:17,363 - INFO -    - Recall: 0.8123
+2026-02-04 01:57:17,365 - INFO - ⭐ 02_BDHogPlum 结果: 准确率 45.05% | 总样本: 5509
+2026-02-04 01:57:18,361 - INFO - 📊 混淆矩阵已保存至: cm_02_BDHogPlum_pth14_letterbox_NoHealthy_NoAloeVera_order.png
+2026-02-04 01:57:18,362 - INFO - 
+🌿 正在测试物种: 03_Lychee
+2026-02-04 02:28:15,190 - INFO - 📊 03_Lychee 汇总:
+2026-02-04 02:28:15,190 - INFO -    - Accuracy: 80.89%
+2026-02-04 02:28:15,190 - INFO -    - Biotic F1: 0.8732
+2026-02-04 02:28:15,191 - INFO -    - Precision: 0.8149
+2026-02-04 02:28:15,191 - INFO -    - Recall: 0.9404
+2026-02-04 02:28:15,191 - INFO - ⭐ 03_Lychee 结果: 准确率 80.89% | 总样本: 7536
+2026-02-04 02:28:15,360 - INFO - 📊 混淆矩阵已保存至: cm_03_Lychee_pth14_letterbox_NoHealthy_NoAloeVera_order.png
+2026-02-04 02:28:15,360 - INFO - 
+🌿 正在测试物种: 04_Lemon
+2026-02-04 02:34:37,961 - INFO - 📊 04_Lemon 汇总:
+2026-02-04 02:34:37,961 - INFO -    - Accuracy: 55.57%
+2026-02-04 02:34:37,961 - INFO -    - Biotic F1: 0.7093
+2026-02-04 02:34:37,961 - INFO -    - Precision: 0.5835
+2026-02-04 02:34:37,965 - INFO -    - Recall: 0.9043
+2026-02-04 02:34:37,966 - INFO - ⭐ 04_Lemon 结果: 准确率 55.57% | 总样本: 2476
+2026-02-04 02:34:38,528 - INFO - 📊 混淆矩阵已保存至: cm_04_Lemon_pth14_letterbox_NoHealthy_NoAloeVera_order.png
+2026-02-04 02:34:38,528 - INFO - 
+🌿 正在测试物种: 05_Chilli_02
+2026-02-04 02:55:14,202 - INFO - 📊 05_Chilli_02 汇总:
+2026-02-04 02:55:14,202 - INFO -    - Accuracy: 53.51%
+2026-02-04 02:55:14,202 - INFO -    - Biotic F1: 0.6358
+2026-02-04 02:55:14,202 - INFO -    - Precision: 0.8960
+2026-02-04 02:55:14,202 - INFO -    - Recall: 0.4926
+2026-02-04 02:55:14,202 - INFO - ⭐ 05_Chilli_02 结果: 准确率 53.51% | 总样本: 10325
+2026-02-04 02:55:14,444 - INFO - 📊 混淆矩阵已保存至: cm_05_Chilli_02_pth14_letterbox_NoHealthy_NoAloeVera_order.png
+2026-02-04 02:55:14,444 - INFO - 
+🌿 正在测试物种: 06_BottleGourd
+2026-02-04 03:00:19,884 - INFO - 📊 06_BottleGourd 汇总:
+2026-02-04 03:00:19,885 - INFO -    - Accuracy: 58.62%
+2026-02-04 03:00:19,885 - INFO -    - Biotic F1: 0.7312
+2026-02-04 03:00:19,885 - INFO -    - Precision: 0.5949
+2026-02-04 03:00:19,885 - INFO -    - Recall: 0.9485
+2026-02-04 03:00:19,886 - INFO - ⭐ 06_BottleGourd 结果: 准确率 58.62% | 总样本: 2552
+2026-02-04 03:00:20,208 - INFO - 📊 混淆矩阵已保存至: cm_06_BottleGourd_pth14_letterbox_NoHealthy_NoAloeVera_order.png
+2026-02-04 03:00:20,548 - INFO - 📊 混淆矩阵已保存至: cm_TOTAL_pth14_letterbox_NoHealthy_NoAloeVera_order.png
+2026-02-04 03:00:20,558 - INFO - 
+🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁
+2026-02-04 03:00:20,558 - INFO - 🏆 跨物种实战测试最终报告 (pth12)
+2026-02-04 03:00:20,558 - INFO - 📊 总评估样本量: 29998
+2026-02-04 03:00:20,558 - INFO - 🎯 全局平均准确率: 60.63%
+2026-02-04 03:00:20,558 - INFO - 🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁
+2026-02-04 03:00:20,560 - INFO - 
+==================================================
+2026-02-04 03:00:20,560 - INFO - 📋 跨物种得分明细：
+2026-02-04 03:00:20,567 - INFO - 
+       Species Accuracy  Sample_Size
+      01_Lemon   0.7588         1600
+  02_BDHogPlum   0.4505         5509
+     03_Lychee   0.8089         7536
+      04_Lemon   0.5557         2476
+  05_Chilli_02   0.5351        10325
+06_BottleGourd   0.5862         2552
+2026-02-04 03:00:20,568 - INFO - ==================================================
+2026-02-04 03:00:20,569 - INFO - ✅ 评估任务圆满完成！所有报告存放在: output\All_crop_train_logic_v1\cross_species_test\NohealthyNoAloeVera_order_test\pth14

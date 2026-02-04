@@ -1,0 +1,32 @@
+2026-01-28 22:10:40,475 - INFO - ==================================================
+2026-01-28 22:10:40,475 - INFO - 🚀 开始跨物种实战测试 (PTH12 版本)
+2026-01-28 22:10:40,475 - INFO - 模型路径: D:\Aa_Polimi\Polimi_Studying\Sem3\COMMUNICATION_IN_GREEN_INFRASTRUCTURES\CGI_project\output\All_crop_train_logic_v1\checkpoint_epoch_letterbox_12.pth
+2026-01-28 22:10:40,475 - INFO - 数据目录: D:\Aa_Polimi\Polimi_Studying\Sem3\COMMUNICATION_IN_GREEN_INFRASTRUCTURES\CGI_project\other
+2026-01-28 22:10:40,475 - INFO - ==================================================
+2026-01-28 22:10:41,138 - INFO - ✅ 模型权重加载成功
+2026-01-28 22:10:41,154 - INFO - 
+🌿 正在测试物种: 01_Lemon
+2026-01-28 22:13:12,912 - INFO - 📊 01_Lemon 汇总:
+2026-01-28 22:13:12,912 - INFO -    - Accuracy: 79.00%
+2026-01-28 22:13:12,912 - INFO -    - Biotic F1: 0.8588
+2026-01-28 22:13:12,912 - INFO -    - Precision: 0.8661
+2026-01-28 22:13:12,912 - INFO -    - Recall: 0.8517
+2026-01-28 22:13:12,912 - INFO - ⭐ 01_Lemon 结果: 准确率 79.00% | 总样本: 1600
+2026-01-28 22:13:13,205 - INFO - 📊 混淆矩阵已保存至: cm_01_Lemon_pth12_letterbox.png
+2026-01-28 22:13:13,205 - INFO - 
+🌿 正在测试物种: 02_BDHogPlum
+2026-01-28 22:25:24,891 - INFO - 📊 02_BDHogPlum 汇总:
+2026-01-28 22:25:24,891 - INFO -    - Accuracy: 51.15%
+2026-01-28 22:25:24,892 - INFO -    - Biotic F1: 0.5684
+2026-01-28 22:25:24,892 - INFO -    - Precision: 0.5467
+2026-01-28 22:25:24,892 - INFO -    - Recall: 0.5919
+2026-01-28 22:25:24,892 - INFO - ⭐ 02_BDHogPlum 结果: 准确率 51.15% | 总样本: 5509
+2026-01-28 22:25:25,010 - INFO - 📊 混淆矩阵已保存至: cm_02_BDHogPlum_pth12_letterbox.png
+2026-01-28 22:25:25,010 - INFO - 
+🌿 正在测试物种: 03_Lychee
+2026-02-01 12:23:08,099 - INFO - ==================================================
+2026-02-01 12:23:08,101 - INFO - 🚀 开始跨物种实战测试 (PTH12 版本)
+2026-02-01 12:23:08,101 - INFO - 模型路径: D:\Aa_Polimi\Polimi_Studying\Sem3\COMMUNICATION_IN_GREEN_INFRASTRUCTURES\CGI_project\output\All_crop_train_logic_v1\checkpoint_epoch_letterbox_12.pth
+2026-02-01 12:23:08,101 - INFO - 数据目录: D:\Aa_Polimi\Polimi_Studying\Sem3\COMMUNICATION_IN_GREEN_INFRASTRUCTURES\CGI_project\other
+2026-02-01 12:23:08,102 - INFO - ==================================================
+2026-02-01 12:23:08,215 - INFO - ✅ 模型权重加载成功

@@ -1,0 +1,29 @@
+2026-02-01 18:16:59,543 - INFO - ========================== NEW RUN =============================
+2026-02-01 18:16:59,543 - INFO - --- 🚀 开始 Logic V1 科学分析 (高性能存档版) ---
+2026-02-01 18:16:59,544 - INFO - 📂 发现已存在的测算记录: backtrack_metrics_logic_v1.csv，正在秒速读取数据...
+2026-02-01 18:16:59,546 - INFO - ✅ 4条核心曲线数据已全部从存档对齐。
+2026-02-01 18:16:59,929 - INFO - ✅ 曲线图已更新: loss_Acc_logic_v1_letterbox.png
+2026-02-01 18:18:58,446 - INFO - 
+==================== F1 / Precision / Recall 报告 ====================
+              precision    recall  f1-score   support
+
+     Abiotic       0.91      0.94      0.93      2092
+      Biotic       0.98      0.96      0.97      4779
+
+    accuracy                           0.96      6871
+   macro avg       0.94      0.95      0.95      6871
+weighted avg       0.96      0.96      0.96      6871
+
+2026-02-01 18:18:58,596 - INFO - ✅ 混淆矩阵图已保存至: confusion_matrix_logic_v1_pth12_letterbox.png
+2026-02-01 18:18:58,600 - INFO - ✅ 错题明细与作物诊断报告已存入: output\All_crop_train_logic_v1\error_analysis\pth12
+2026-02-01 18:18:58,606 - INFO - 
+--- 作物偏科概览 ---
+     Crop  Error_Count  Total_In_Test  Error_Rate (%)
+    Guava           11             79           13.92
+ AloeVera          162           2333            6.94
+Carambola           65           1363            4.77
+   Tomato           46           1136            4.05
+Jackfruit            9            300            3.00
+    Mazie            6            759            0.79
+   Chilli            3            583            0.51
+2026-02-01 18:18:58,606 - INFO - --- 🚀 分析任务圆满完成！ ---

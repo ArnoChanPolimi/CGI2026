@@ -1,0 +1,903 @@
+﻿FileName,Actual,Predicted,Confidence,SubCategory
+IMG20231029114524.jpg,Abiotic,Abiotic,1.0000,Healthy
+IMG20231029114543.jpg,Abiotic,Abiotic,1.0000,Healthy
+IMG20231029114614.jpg,Abiotic,Abiotic,1.0000,Healthy
+IMG20231029114632.jpg,Abiotic,Abiotic,1.0000,Healthy
+IMG20231029114639.jpg,Abiotic,Abiotic,0.9948,Healthy
+IMG20231029114703.jpg,Abiotic,Abiotic,0.9980,Healthy
+IMG20231029114712.jpg,Abiotic,Abiotic,0.8264,Healthy
+IMG20231029114726.jpg,Abiotic,Abiotic,1.0000,Healthy
+IMG20231029114737.jpg,Abiotic,Abiotic,1.0000,Healthy
+IMG20231029114742.jpg,Abiotic,Abiotic,1.0000,Healthy
+IMG20231029114753.jpg,Abiotic,Abiotic,1.0000,Healthy
+IMG20231029114837.jpg,Abiotic,Biotic,0.8995,Healthy
+IMG20231029114852.jpg,Abiotic,Abiotic,1.0000,Healthy
+IMG20231029114900.jpg,Abiotic,Abiotic,1.0000,Healthy
+IMG20231029114912.jpg,Abiotic,Abiotic,0.9791,Healthy
+IMG20231029114916.jpg,Abiotic,Biotic,0.9950,Healthy
+IMG20231029115021.jpg,Abiotic,Abiotic,1.0000,Healthy
+IMG20231029115029.jpg,Abiotic,Abiotic,1.0000,Healthy
+IMG20231029115057.jpg,Abiotic,Abiotic,1.0000,Healthy
+IMG20231029115103.jpg,Abiotic,Abiotic,1.0000,Healthy
+IMG20231029115107.jpg,Abiotic,Abiotic,0.9996,Healthy
+IMG20231029115119.jpg,Abiotic,Abiotic,1.0000,Healthy
+IMG20231029115140_BURST001_COVER.jpg,Abiotic,Abiotic,0.9656,Healthy
+IMG20231029115141.jpg,Abiotic,Abiotic,1.0000,Healthy
+IMG20231029115148.jpg,Abiotic,Abiotic,1.0000,Healthy
+IMG_20231027_061239 (1).jpg,Abiotic,Abiotic,1.0000,Healthy
+IMG_20231027_061239.jpg,Abiotic,Abiotic,1.0000,Healthy
+IMG_20231027_061253 (1).jpg,Abiotic,Abiotic,0.9996,Healthy
+IMG_20231027_061253.jpg,Abiotic,Biotic,0.9965,Healthy
+IMG_20231027_061315.jpg,Abiotic,Abiotic,1.0000,Healthy
+IMG_20231027_061416.jpg,Abiotic,Abiotic,1.0000,Healthy
+IMG_20231027_061444.jpg,Abiotic,Abiotic,1.0000,Healthy
+IMG_20231027_061449.jpg,Abiotic,Biotic,1.0000,Healthy
+IMG_20231027_061620.jpg,Abiotic,Biotic,0.9985,Healthy
+IMG_20231027_061633.jpg,Abiotic,Biotic,0.9997,Healthy
+IMG_20231027_062248.jpg,Abiotic,Abiotic,1.0000,Healthy
+IMG_20231027_062304.jpg,Abiotic,Abiotic,1.0000,Healthy
+IMG_20231027_062337.jpg,Abiotic,Abiotic,1.0000,Healthy
+IMG_20231027_062341.jpg,Abiotic,Abiotic,0.7914,Healthy
+IMG_20231027_062344.jpg,Abiotic,Abiotic,1.0000,Healthy
+IMG_20231027_062346.jpg,Abiotic,Abiotic,1.0000,Healthy
+IMG_20231027_062351.jpg,Abiotic,Abiotic,1.0000,Healthy
+IMG_20231027_062359.jpg,Abiotic,Abiotic,0.6078,Healthy
+IMG_20231027_0623591.jpg,Abiotic,Abiotic,1.0000,Healthy
+IMG_20231027_0623592.jpg,Abiotic,Abiotic,0.9997,Healthy
+IMG_20231027_0624013.jpg,Abiotic,Biotic,0.8547,Healthy
+IMG_20231027_062403.jpg,Abiotic,Abiotic,0.9995,Healthy
+IMG_20231027_0624134.jpg,Abiotic,Abiotic,1.0000,Healthy
+IMG_20231027_062414.jpg,Abiotic,Abiotic,1.0000,Healthy
+IMG_20231027_062416.jpg,Abiotic,Abiotic,1.0000,Healthy
+IMG_20231027_062420.jpg,Abiotic,Abiotic,1.0000,Healthy
+IMG_20231027_0624345.jpg,Abiotic,Abiotic,1.0000,Healthy
+20230819_130723.jpg,Abiotic,Biotic,0.9999,Nutritional Deficiency
+20230819_135223.jpg,Abiotic,Abiotic,0.7313,Nutritional Deficiency
+IMG-20230818-WA0087.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG-20230818-WA0088.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG-20230818-WA0091.jpg,Abiotic,Biotic,0.9998,Nutritional Deficiency
+IMG-20230818-WA0093.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG-20230818-WA0094.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG-20230818-WA0095.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG-20230818-WA0096.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG-20230818-WA0099.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG-20230818-WA0103.jpg,Abiotic,Biotic,0.9994,Nutritional Deficiency
+IMG-20230818-WA0104.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG-20230818-WA0105.jpg,Abiotic,Biotic,0.9996,Nutritional Deficiency
+IMG-20230818-WA0106.jpg,Abiotic,Abiotic,0.6551,Nutritional Deficiency
+IMG-20230818-WA0107.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG-20230818-WA0111.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG20230814100753.jpg,Abiotic,Biotic,0.7757,Nutritional Deficiency
+IMG20230817131234.jpg,Abiotic,Biotic,0.9997,Nutritional Deficiency
+IMG20230817131315.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG20230817131319.jpg,Abiotic,Biotic,0.9992,Nutritional Deficiency
+IMG20230817131408.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG20230817144654.jpg,Abiotic,Biotic,0.9858,Nutritional Deficiency
+IMG20230817144827.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG20230817144951.jpg,Abiotic,Biotic,0.9324,Nutritional Deficiency
+IMG20230817145000.jpg,Abiotic,Abiotic,0.9030,Nutritional Deficiency
+IMG20230817145014.jpg,Abiotic,Abiotic,0.8867,Nutritional Deficiency
+IMG20230817151915.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG20230817152012.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG20230817154316.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG20230817154356.jpg,Abiotic,Biotic,0.9990,Nutritional Deficiency
+IMG20230817154403.jpg,Abiotic,Biotic,0.9686,Nutritional Deficiency
+IMG20230817154428.jpg,Abiotic,Biotic,0.9998,Nutritional Deficiency
+IMG20230817154557.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG20230817154602.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG20230817154831.jpg,Abiotic,Biotic,0.8226,Nutritional Deficiency
+IMG20230817155037.jpg,Abiotic,Abiotic,1.0000,Nutritional Deficiency
+IMG20230817155059.jpg,Abiotic,Biotic,0.9988,Nutritional Deficiency
+IMG20230817155106.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG20230817155123.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG20230817155136.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG20230817155142.jpg,Abiotic,Biotic,0.9996,Nutritional Deficiency
+IMG20230817155457.jpg,Abiotic,Biotic,0.8194,Nutritional Deficiency
+IMG20230817155707.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG20230817155724.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG20230817160010.jpg,Abiotic,Biotic,0.9868,Nutritional Deficiency
+IMG20230817160050.jpg,Abiotic,Biotic,0.9900,Nutritional Deficiency
+IMG20230817160102.jpg,Abiotic,Biotic,0.9995,Nutritional Deficiency
+IMG20230817160122.jpg,Abiotic,Biotic,0.9870,Nutritional Deficiency
+IMG20230817160240.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG20230817160245.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG20230817161316.jpg,Abiotic,Abiotic,0.9991,Nutritional Deficiency
+IMG20230817161329.jpg,Abiotic,Biotic,0.9951,Nutritional Deficiency
+IMG20230817161458.jpg,Abiotic,Biotic,0.9972,Nutritional Deficiency
+IMG20230817161628.jpg,Abiotic,Biotic,0.7415,Nutritional Deficiency
+IMG20230817161712.jpg,Abiotic,Biotic,0.7210,Nutritional Deficiency
+IMG20230817161821.jpg,Abiotic,Biotic,0.9999,Nutritional Deficiency
+IMG20230817161948.jpg,Abiotic,Biotic,0.9991,Nutritional Deficiency
+IMG20230817161952.jpg,Abiotic,Abiotic,0.9607,Nutritional Deficiency
+IMG20230817162005.jpg,Abiotic,Abiotic,0.5092,Nutritional Deficiency
+IMG20230817162114.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG20230817162153.jpg,Abiotic,Abiotic,1.0000,Nutritional Deficiency
+IMG20230819134419.jpg,Abiotic,Biotic,0.9973,Nutritional Deficiency
+IMG20230819134432.jpg,Abiotic,Biotic,0.9227,Nutritional Deficiency
+IMG20230819134447_01.jpg,Abiotic,Biotic,0.9997,Nutritional Deficiency
+IMG20230819134508.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG20230819134513.jpg,Abiotic,Biotic,0.9999,Nutritional Deficiency
+IMG20230819134530.jpg,Abiotic,Biotic,0.9997,Nutritional Deficiency
+IMG20230819134539.jpg,Abiotic,Biotic,0.9954,Nutritional Deficiency
+IMG_20230817_130756.jpg,Abiotic,Biotic,0.9910,Nutritional Deficiency
+IMG_20230817_130759.jpg,Abiotic,Biotic,0.9920,Nutritional Deficiency
+IMG_20230817_130838.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG_20230817_130917.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG_20230817_131139.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG_20230817_131728.jpg,Abiotic,Biotic,0.5368,Nutritional Deficiency
+IMG_20230817_131739.jpg,Abiotic,Biotic,0.9845,Nutritional Deficiency
+IMG_20230817_131810.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG_20230817_132133.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG_20230817_132138.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG_20230817_144618.jpg,Abiotic,Biotic,0.9998,Nutritional Deficiency
+IMG_20230817_144650.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG_20230817_144808.jpg,Abiotic,Biotic,0.9980,Nutritional Deficiency
+IMG_20230817_144853.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG_20230817_144858.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG_20230817_144926.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG_20230817_151923.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG_20230817_152058.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG_20230817_154334_7.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG_20230817_154726_6.jpg,Abiotic,Biotic,0.9781,Nutritional Deficiency
+IMG_20230817_154729.jpg,Abiotic,Biotic,0.9993,Nutritional Deficiency
+IMG_20230817_154849.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG_20230817_154935.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG_20230817_154957.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG_20230817_155043_5.jpg,Abiotic,Biotic,0.9995,Nutritional Deficiency
+IMG_20230817_155228.jpg,Abiotic,Biotic,0.9996,Nutritional Deficiency
+IMG_20230817_155323_6.jpg,Abiotic,Biotic,0.9984,Nutritional Deficiency
+IMG_20230817_155328_8.jpg,Abiotic,Biotic,0.9970,Nutritional Deficiency
+IMG_20230817_155934_4.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG_20230817_160141_9.jpg,Abiotic,Biotic,0.9793,Nutritional Deficiency
+IMG_20230817_160242.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG_20230817_160304_2.jpg,Abiotic,Abiotic,0.8152,Nutritional Deficiency
+IMG_20230817_160325_7.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG_20230817_160839_7.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG_20230817_161209_1.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG_20230817_161359.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG_20230817_161401.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG_2482.jpg,Abiotic,Biotic,0.9992,Nutritional Deficiency
+IMG_2483.jpg,Abiotic,Biotic,0.9999,Nutritional Deficiency
+IMG_2487.jpg,Abiotic,Biotic,0.9993,Nutritional Deficiency
+IMG_2489.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG_2519.jpg,Abiotic,Biotic,0.9998,Nutritional Deficiency
+IMG_2552.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG_2563.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG_2564.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG_2566.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG_2567.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG_2571.jpg,Abiotic,Abiotic,0.5738,Nutritional Deficiency
+IMG_2575.jpg,Abiotic,Biotic,0.8472,Nutritional Deficiency
+IMG_2576.jpg,Abiotic,Biotic,0.9938,Nutritional Deficiency
+IMG_2579.jpg,Abiotic,Biotic,0.9958,Nutritional Deficiency
+IMG_2580.jpg,Abiotic,Biotic,0.9998,Nutritional Deficiency
+IMG_2581.jpg,Abiotic,Biotic,0.9963,Nutritional Deficiency
+IMG_2582.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG_2583.jpg,Abiotic,Biotic,0.9993,Nutritional Deficiency
+IMG_2589.jpg,Abiotic,Biotic,0.9999,Nutritional Deficiency
+IMG_2592.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG_2594.jpg,Abiotic,Abiotic,1.0000,Nutritional Deficiency
+IMG_2595.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG_2600.jpg,Abiotic,Biotic,0.9997,Nutritional Deficiency
+IMG_2603.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG_2604.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG_2605.jpg,Abiotic,Biotic,0.9317,Nutritional Deficiency
+IMG_2606.jpg,Abiotic,Biotic,0.9983,Nutritional Deficiency
+IMG_2607.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG_2608.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG_2618.jpg,Abiotic,Biotic,0.9999,Nutritional Deficiency
+IMG_2623.jpg,Abiotic,Abiotic,0.9547,Nutritional Deficiency
+IMG_2658.jpg,Abiotic,Biotic,0.9998,Nutritional Deficiency
+IMG_2659.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG_2660.jpg,Abiotic,Biotic,0.9997,Nutritional Deficiency
+IMG_2661.jpg,Abiotic,Abiotic,0.8720,Nutritional Deficiency
+IMG_2665.jpg,Abiotic,Biotic,0.9845,Nutritional Deficiency
+IMG_2666.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG20231029114524.jpg,Abiotic,Abiotic,1.0000,Healthy
+IMG20231029114543.jpg,Abiotic,Abiotic,1.0000,Healthy
+IMG20231029114614.jpg,Abiotic,Abiotic,1.0000,Healthy
+IMG20231029114632.jpg,Abiotic,Abiotic,1.0000,Healthy
+IMG20231029114639.jpg,Abiotic,Abiotic,0.9948,Healthy
+IMG20231029114703.jpg,Abiotic,Abiotic,0.9980,Healthy
+IMG20231029114712.jpg,Abiotic,Abiotic,0.8264,Healthy
+IMG20231029114726.jpg,Abiotic,Abiotic,1.0000,Healthy
+IMG20231029114737.jpg,Abiotic,Abiotic,1.0000,Healthy
+IMG20231029114742.jpg,Abiotic,Abiotic,1.0000,Healthy
+IMG20231029114753.jpg,Abiotic,Abiotic,1.0000,Healthy
+IMG20231029114837.jpg,Abiotic,Biotic,0.8995,Healthy
+IMG20231029114852.jpg,Abiotic,Abiotic,1.0000,Healthy
+IMG20231029114900.jpg,Abiotic,Abiotic,1.0000,Healthy
+IMG20231029114912.jpg,Abiotic,Abiotic,0.9791,Healthy
+IMG20231029114916.jpg,Abiotic,Biotic,0.9950,Healthy
+IMG20231029115021.jpg,Abiotic,Abiotic,1.0000,Healthy
+IMG20231029115029.jpg,Abiotic,Abiotic,1.0000,Healthy
+IMG20231029115057.jpg,Abiotic,Abiotic,1.0000,Healthy
+IMG20231029115103.jpg,Abiotic,Abiotic,1.0000,Healthy
+IMG20231029115107.jpg,Abiotic,Abiotic,0.9996,Healthy
+IMG20231029115119.jpg,Abiotic,Abiotic,1.0000,Healthy
+IMG20231029115140_BURST001_COVER.jpg,Abiotic,Abiotic,0.9656,Healthy
+IMG20231029115141.jpg,Abiotic,Abiotic,1.0000,Healthy
+IMG20231029115148.jpg,Abiotic,Abiotic,1.0000,Healthy
+IMG_20231027_061239 (1).jpg,Abiotic,Abiotic,1.0000,Healthy
+IMG_20231027_061239.jpg,Abiotic,Abiotic,1.0000,Healthy
+IMG_20231027_061253 (1).jpg,Abiotic,Abiotic,0.9996,Healthy
+IMG_20231027_061253.jpg,Abiotic,Biotic,0.9965,Healthy
+IMG_20231027_061315.jpg,Abiotic,Abiotic,1.0000,Healthy
+IMG_20231027_061416.jpg,Abiotic,Abiotic,1.0000,Healthy
+IMG_20231027_061444.jpg,Abiotic,Abiotic,1.0000,Healthy
+IMG_20231027_061449.jpg,Abiotic,Biotic,1.0000,Healthy
+IMG_20231027_061620.jpg,Abiotic,Biotic,0.9985,Healthy
+IMG_20231027_061633.jpg,Abiotic,Biotic,0.9997,Healthy
+IMG_20231027_062248.jpg,Abiotic,Abiotic,1.0000,Healthy
+IMG_20231027_062304.jpg,Abiotic,Abiotic,1.0000,Healthy
+IMG_20231027_062337.jpg,Abiotic,Abiotic,1.0000,Healthy
+IMG_20231027_062341.jpg,Abiotic,Abiotic,0.7914,Healthy
+IMG_20231027_062344.jpg,Abiotic,Abiotic,1.0000,Healthy
+IMG_20231027_062346.jpg,Abiotic,Abiotic,1.0000,Healthy
+IMG_20231027_062351.jpg,Abiotic,Abiotic,1.0000,Healthy
+IMG_20231027_062359.jpg,Abiotic,Abiotic,0.6078,Healthy
+IMG_20231027_0623591.jpg,Abiotic,Abiotic,1.0000,Healthy
+IMG_20231027_0623592.jpg,Abiotic,Abiotic,0.9997,Healthy
+IMG_20231027_0624013.jpg,Abiotic,Biotic,0.8547,Healthy
+IMG_20231027_062403.jpg,Abiotic,Abiotic,0.9995,Healthy
+IMG_20231027_0624134.jpg,Abiotic,Abiotic,1.0000,Healthy
+IMG_20231027_062414.jpg,Abiotic,Abiotic,1.0000,Healthy
+IMG_20231027_062416.jpg,Abiotic,Abiotic,1.0000,Healthy
+IMG_20231027_062420.jpg,Abiotic,Abiotic,1.0000,Healthy
+IMG_20231027_0624345.jpg,Abiotic,Abiotic,1.0000,Healthy
+20230819_130723.jpg,Abiotic,Biotic,0.9999,Nutritional Deficiency
+20230819_135223.jpg,Abiotic,Abiotic,0.7313,Nutritional Deficiency
+IMG-20230818-WA0087.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG-20230818-WA0088.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG-20230818-WA0091.jpg,Abiotic,Biotic,0.9998,Nutritional Deficiency
+IMG-20230818-WA0093.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG-20230818-WA0094.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG-20230818-WA0095.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG-20230818-WA0096.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG-20230818-WA0099.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG-20230818-WA0103.jpg,Abiotic,Biotic,0.9994,Nutritional Deficiency
+IMG-20230818-WA0104.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG-20230818-WA0105.jpg,Abiotic,Biotic,0.9996,Nutritional Deficiency
+IMG-20230818-WA0106.jpg,Abiotic,Abiotic,0.6551,Nutritional Deficiency
+IMG-20230818-WA0107.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG-20230818-WA0111.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG20230814100753.jpg,Abiotic,Biotic,0.7757,Nutritional Deficiency
+IMG20230817131234.jpg,Abiotic,Biotic,0.9997,Nutritional Deficiency
+IMG20230817131315.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG20230817131319.jpg,Abiotic,Biotic,0.9992,Nutritional Deficiency
+IMG20230817131408.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG20230817144654.jpg,Abiotic,Biotic,0.9858,Nutritional Deficiency
+IMG20230817144827.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG20230817144951.jpg,Abiotic,Biotic,0.9324,Nutritional Deficiency
+IMG20230817145000.jpg,Abiotic,Abiotic,0.9030,Nutritional Deficiency
+IMG20230817145014.jpg,Abiotic,Abiotic,0.8867,Nutritional Deficiency
+IMG20230817151915.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG20230817152012.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG20230817154316.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG20230817154356.jpg,Abiotic,Biotic,0.9990,Nutritional Deficiency
+IMG20230817154403.jpg,Abiotic,Biotic,0.9686,Nutritional Deficiency
+IMG20230817154428.jpg,Abiotic,Biotic,0.9998,Nutritional Deficiency
+IMG20230817154557.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG20230817154602.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG20230817154831.jpg,Abiotic,Biotic,0.8226,Nutritional Deficiency
+IMG20230817155037.jpg,Abiotic,Abiotic,1.0000,Nutritional Deficiency
+IMG20230817155059.jpg,Abiotic,Biotic,0.9988,Nutritional Deficiency
+IMG20230817155106.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG20230817155123.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG20230817155136.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG20230817155142.jpg,Abiotic,Biotic,0.9996,Nutritional Deficiency
+IMG20230817155457.jpg,Abiotic,Biotic,0.8194,Nutritional Deficiency
+IMG20230817155707.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG20230817155724.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG20230817160010.jpg,Abiotic,Biotic,0.9868,Nutritional Deficiency
+IMG20230817160050.jpg,Abiotic,Biotic,0.9900,Nutritional Deficiency
+IMG20230817160102.jpg,Abiotic,Biotic,0.9995,Nutritional Deficiency
+IMG20230817160122.jpg,Abiotic,Biotic,0.9870,Nutritional Deficiency
+IMG20230817160240.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG20230817160245.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG20230817161316.jpg,Abiotic,Abiotic,0.9991,Nutritional Deficiency
+IMG20230817161329.jpg,Abiotic,Biotic,0.9951,Nutritional Deficiency
+IMG20230817161458.jpg,Abiotic,Biotic,0.9972,Nutritional Deficiency
+IMG20230817161628.jpg,Abiotic,Biotic,0.7415,Nutritional Deficiency
+IMG20230817161712.jpg,Abiotic,Biotic,0.7210,Nutritional Deficiency
+IMG20230817161821.jpg,Abiotic,Biotic,0.9999,Nutritional Deficiency
+IMG20230817161948.jpg,Abiotic,Biotic,0.9991,Nutritional Deficiency
+IMG20230817161952.jpg,Abiotic,Abiotic,0.9607,Nutritional Deficiency
+IMG20230817162005.jpg,Abiotic,Abiotic,0.5092,Nutritional Deficiency
+IMG20230817162114.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG20230817162153.jpg,Abiotic,Abiotic,1.0000,Nutritional Deficiency
+IMG20230819134419.jpg,Abiotic,Biotic,0.9973,Nutritional Deficiency
+IMG20230819134432.jpg,Abiotic,Biotic,0.9227,Nutritional Deficiency
+IMG20230819134447_01.jpg,Abiotic,Biotic,0.9997,Nutritional Deficiency
+IMG20230819134508.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG20230819134513.jpg,Abiotic,Biotic,0.9999,Nutritional Deficiency
+IMG20230819134530.jpg,Abiotic,Biotic,0.9997,Nutritional Deficiency
+IMG20230819134539.jpg,Abiotic,Biotic,0.9954,Nutritional Deficiency
+IMG_20230817_130756.jpg,Abiotic,Biotic,0.9910,Nutritional Deficiency
+IMG_20230817_130759.jpg,Abiotic,Biotic,0.9920,Nutritional Deficiency
+IMG_20230817_130838.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG_20230817_130917.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG_20230817_131139.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG_20230817_131728.jpg,Abiotic,Biotic,0.5368,Nutritional Deficiency
+IMG_20230817_131739.jpg,Abiotic,Biotic,0.9845,Nutritional Deficiency
+IMG_20230817_131810.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG_20230817_132133.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG_20230817_132138.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG_20230817_144618.jpg,Abiotic,Biotic,0.9998,Nutritional Deficiency
+IMG_20230817_144650.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG_20230817_144808.jpg,Abiotic,Biotic,0.9980,Nutritional Deficiency
+IMG_20230817_144853.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG_20230817_144858.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG_20230817_144926.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG_20230817_151923.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG_20230817_152058.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG_20230817_154334_7.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG_20230817_154726_6.jpg,Abiotic,Biotic,0.9781,Nutritional Deficiency
+IMG_20230817_154729.jpg,Abiotic,Biotic,0.9993,Nutritional Deficiency
+IMG_20230817_154849.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG_20230817_154935.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG_20230817_154957.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG_20230817_155043_5.jpg,Abiotic,Biotic,0.9995,Nutritional Deficiency
+IMG_20230817_155228.jpg,Abiotic,Biotic,0.9996,Nutritional Deficiency
+IMG_20230817_155323_6.jpg,Abiotic,Biotic,0.9984,Nutritional Deficiency
+IMG_20230817_155328_8.jpg,Abiotic,Biotic,0.9970,Nutritional Deficiency
+IMG_20230817_155934_4.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG_20230817_160141_9.jpg,Abiotic,Biotic,0.9793,Nutritional Deficiency
+IMG_20230817_160242.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG_20230817_160304_2.jpg,Abiotic,Abiotic,0.8152,Nutritional Deficiency
+IMG_20230817_160325_7.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG_20230817_160839_7.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG_20230817_161209_1.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG_20230817_161359.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG_20230817_161401.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG_2482.jpg,Abiotic,Biotic,0.9992,Nutritional Deficiency
+IMG_2483.jpg,Abiotic,Biotic,0.9999,Nutritional Deficiency
+IMG_2487.jpg,Abiotic,Biotic,0.9993,Nutritional Deficiency
+IMG_2489.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG_2519.jpg,Abiotic,Biotic,0.9998,Nutritional Deficiency
+IMG_2552.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG_2563.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG_2564.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG_2566.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG_2567.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG_2571.jpg,Abiotic,Abiotic,0.5738,Nutritional Deficiency
+IMG_2575.jpg,Abiotic,Biotic,0.8472,Nutritional Deficiency
+IMG_2576.jpg,Abiotic,Biotic,0.9938,Nutritional Deficiency
+IMG_2579.jpg,Abiotic,Biotic,0.9958,Nutritional Deficiency
+IMG_2580.jpg,Abiotic,Biotic,0.9998,Nutritional Deficiency
+IMG_2581.jpg,Abiotic,Biotic,0.9963,Nutritional Deficiency
+IMG_2582.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG_2583.jpg,Abiotic,Biotic,0.9993,Nutritional Deficiency
+IMG_2589.jpg,Abiotic,Biotic,0.9999,Nutritional Deficiency
+IMG_2592.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG_2594.jpg,Abiotic,Abiotic,1.0000,Nutritional Deficiency
+IMG_2595.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG_2600.jpg,Abiotic,Biotic,0.9997,Nutritional Deficiency
+IMG_2603.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG_2604.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG_2605.jpg,Abiotic,Biotic,0.9317,Nutritional Deficiency
+IMG_2606.jpg,Abiotic,Biotic,0.9983,Nutritional Deficiency
+IMG_2607.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG_2608.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG_2618.jpg,Abiotic,Biotic,0.9999,Nutritional Deficiency
+IMG_2623.jpg,Abiotic,Abiotic,0.9547,Nutritional Deficiency
+IMG_2658.jpg,Abiotic,Biotic,0.9998,Nutritional Deficiency
+IMG_2659.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG_2660.jpg,Abiotic,Biotic,0.9997,Nutritional Deficiency
+IMG_2661.jpg,Abiotic,Abiotic,0.8720,Nutritional Deficiency
+IMG_2665.jpg,Abiotic,Biotic,0.9845,Nutritional Deficiency
+IMG_2666.jpg,Abiotic,Biotic,1.0000,Nutritional Deficiency
+IMG-20230815-WA0003.jpg,Biotic,Abiotic,0.7918,Canker
+IMG-20230815-WA0004.jpg,Biotic,Biotic,1.0000,Canker
+IMG-20230815-WA0007.jpg,Biotic,Biotic,0.8705,Canker
+IMG-20230815-WA0022.jpg,Biotic,Biotic,1.0000,Canker
+IMG-20230815-WA0028.jpg,Biotic,Biotic,1.0000,Canker
+IMG20230814095846.jpg,Biotic,Biotic,1.0000,Canker
+IMG20230814095907.jpg,Biotic,Biotic,0.9998,Canker
+IMG202308140959088.jpg,Biotic,Biotic,1.0000,Canker
+IMG20230814095953.jpg,Biotic,Abiotic,0.9935,Canker
+IMG20230814100014.jpg,Biotic,Biotic,1.0000,Canker
+IMG20230814100048.jpg,Biotic,Biotic,1.0000,Canker
+IMG20230814100200.jpg,Biotic,Abiotic,0.7334,Canker
+IMG20230814100218.jpg,Biotic,Abiotic,0.9894,Canker
+IMG20230817130757.jpg,Biotic,Biotic,1.0000,Canker
+IMG20230817130814.jpg,Biotic,Biotic,1.0000,Canker
+IMG20230817130859.jpg,Biotic,Biotic,1.0000,Canker
+IMG20230817131716.jpg,Biotic,Biotic,1.0000,Canker
+IMG_20230817_132033.jpg,Biotic,Biotic,0.9620,Canker
+IMG_20230817_155217_9.jpg,Biotic,Biotic,1.0000,Canker
+IMG_20230817_161539.jpg,Biotic,Biotic,0.9934,Canker
+IMG_20230817_161638.jpg,Biotic,Biotic,1.0000,Canker
+IMG_20230817_162027.jpg,Biotic,Biotic,0.9978,Canker
+IMG_20230817_162035.jpg,Biotic,Biotic,0.9999,Canker
+IMG_20230817_162048.jpg,Biotic,Biotic,0.9999,Canker
+IMG_20230817_162328_0.jpg,Biotic,Abiotic,1.0000,Canker
+IMG_2467.jpg,Biotic,Biotic,1.0000,Canker
+IMG_2469.jpg,Biotic,Abiotic,0.7609,Canker
+IMG_2481.jpg,Biotic,Biotic,1.0000,Canker
+IMG_2561.jpg,Biotic,Biotic,1.0000,Canker
+IMG_2562.jpg,Biotic,Biotic,0.9999,Canker
+IMG_2570.jpg,Biotic,Biotic,1.0000,Canker
+IMG_2572.jpg,Biotic,Biotic,1.0000,Canker
+IMG_2611.jpg,Biotic,Biotic,1.0000,Canker
+IMG_2622.jpg,Biotic,Biotic,1.0000,Canker
+IMG_2653.jpg,Biotic,Biotic,1.0000,Canker
+IMG_2655.jpg,Biotic,Biotic,0.9604,Canker
+IMG_2664.jpg,Biotic,Abiotic,0.9816,Canker
+20230819_135133.jpg,Biotic,Biotic,1.0000,Curling
+20230819_135240.jpg,Biotic,Biotic,0.7634,Curling
+IMG-20230815-WA0025.jpg,Biotic,Biotic,0.7893,Curling
+IMG20230817154332.jpg,Biotic,Biotic,1.0000,Curling
+IMG20230817154450.jpg,Biotic,Biotic,1.0000,Curling
+IMG20230817154524.jpg,Biotic,Biotic,1.0000,Curling
+IMG20230817154627.jpg,Biotic,Biotic,0.9936,Curling
+IMG20230817154959.jpg,Biotic,Abiotic,0.9833,Curling
+IMG20230817155009.jpg,Biotic,Biotic,0.8881,Curling
+IMG20230817155017.jpg,Biotic,Biotic,0.9996,Curling
+IMG20230817155257.jpg,Biotic,Abiotic,0.6204,Curling
+IMG20230817155313.jpg,Biotic,Biotic,1.0000,Curling
+IMG20230817155317.jpg,Biotic,Biotic,1.0000,Curling
+IMG20230817155834.jpg,Biotic,Biotic,0.9156,Curling
+IMG20230817160207.jpg,Biotic,Biotic,0.9996,Curling
+IMG20230817160556.jpg,Biotic,Biotic,1.0000,Curling
+IMG20230817160616.jpg,Biotic,Biotic,1.0000,Curling
+IMG20230817160631.jpg,Biotic,Biotic,1.0000,Curling
+IMG20230817160813.jpg,Biotic,Biotic,1.0000,Curling
+IMG20230817160823.jpg,Biotic,Biotic,1.0000,Curling
+IMG20230817161139.jpg,Biotic,Biotic,0.9999,Curling
+IMG20230817161156.jpg,Biotic,Biotic,0.9999,Curling
+IMG20230817161200.jpg,Biotic,Biotic,1.0000,Curling
+IMG20230817161512.jpg,Biotic,Biotic,1.0000,Curling
+IMG20230817161608.jpg,Biotic,Biotic,0.9999,Curling
+IMG20230817161842.jpg,Biotic,Biotic,0.5161,Curling
+IMG20230817161911.jpg,Biotic,Abiotic,0.9814,Curling
+IMG20230817162143.jpg,Biotic,Biotic,0.9992,Curling
+IMG20230817162302.jpg,Biotic,Abiotic,0.8838,Curling
+IMG20230817162306.jpg,Biotic,Abiotic,1.0000,Curling
+IMG20230817162315.jpg,Biotic,Abiotic,0.9948,Curling
+IMG20230817162427.jpg,Biotic,Biotic,0.9984,Curling
+IMG20230817162708.jpg,Biotic,Biotic,0.9997,Curling
+IMG20230817162713.jpg,Biotic,Biotic,0.9998,Curling
+IMG20230817162823.jpg,Biotic,Abiotic,0.9999,Curling
+IMG20230819151434.jpg,Biotic,Biotic,0.9998,Curling
+IMG20230819151810.jpg,Biotic,Biotic,1.0000,Curling
+IMG20230819151826.jpg,Biotic,Biotic,1.0000,Curling
+IMG20230819152311.jpg,Biotic,Biotic,1.0000,Curling
+IMG20230819152322.jpg,Biotic,Biotic,0.9801,Curling
+IMG20230819152331.jpg,Biotic,Biotic,0.9461,Curling
+IMG_20230817_144931.jpg,Biotic,Biotic,1.0000,Curling
+IMG_20230817_151940_Burst01.jpg,Biotic,Biotic,0.9429,Curling
+IMG_20230817_152011.jpg,Biotic,Biotic,0.9992,Curling
+IMG_20230817_154507_0.jpg,Biotic,Biotic,1.0000,Curling
+IMG_20230817_155119.jpg,Biotic,Biotic,1.0000,Curling
+IMG_20230817_155346_4.jpg,Biotic,Biotic,1.0000,Curling
+IMG_20230817_155454_8.jpg,Biotic,Biotic,0.5993,Curling
+IMG_20230817_155722_1.jpg,Biotic,Biotic,0.9845,Curling
+IMG_20230817_155738_9.jpg,Biotic,Biotic,0.9450,Curling
+IMG_20230817_160202.jpg,Biotic,Abiotic,0.9617,Curling
+IMG_20230817_161634.jpg,Biotic,Biotic,0.9951,Curling
+IMG_20230817_162056_7.jpg,Biotic,Biotic,0.8964,Curling
+IMG_20230817_162100_1.jpg,Biotic,Biotic,0.9393,Curling
+IMG_20230817_162121_6.jpg,Biotic,Biotic,1.0000,Curling
+IMG_20230817_162239_5.jpg,Biotic,Abiotic,0.9401,Curling
+IMG_2465.jpg,Biotic,Abiotic,0.9909,Curling
+IMG_2473.jpg,Biotic,Abiotic,0.9978,Curling
+IMG_2591.jpg,Biotic,Biotic,0.5325,Curling
+IMG_2596.jpg,Biotic,Biotic,1.0000,Curling
+IMG_2597.jpg,Biotic,Biotic,1.0000,Curling
+IMG_2598.jpg,Biotic,Biotic,0.9999,Curling
+IMG_2599.jpg,Biotic,Biotic,1.0000,Curling
+IMG_2602.jpg,Biotic,Biotic,1.0000,Curling
+IMG_2657.jpg,Biotic,Abiotic,0.9999,Curling
+IMG_2667.jpg,Biotic,Abiotic,1.0000,Curling
+IMG_2668.jpg,Biotic,Biotic,1.0000,Curling
+20230819_130630.jpg,Biotic,Biotic,0.9629,Leaf Spot
+20230819_130646.jpg,Biotic,Biotic,1.0000,Leaf Spot
+20230819_130709.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG-20230815-WA0014.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG-20230815-WA0021.jpg,Biotic,Biotic,0.7331,Leaf Spot
+IMG-20230816-WA0000.jpg,Biotic,Abiotic,0.9999,Leaf Spot
+IMG-20230816-WA0001.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG-20230818-WA0097.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG-20230818-WA0100.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG-20230818-WA0109.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG-20230818-WA0110.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG-20230818-WA0115.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG-20230818-WA0116.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG20230814095609.jpg,Biotic,Biotic,0.8277,Leaf Spot
+IMG20230814095613.jpg,Biotic,Abiotic,0.9536,Leaf Spot
+IMG20230814095627.jpg,Biotic,Biotic,0.9913,Leaf Spot
+IMG20230817130832.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG20230817131142.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG20230817131628.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG20230817131702.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG20230817131857.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG20230817131908.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG20230817144617.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG20230817155530.jpg,Biotic,Biotic,0.9993,Leaf Spot
+IMG20230817155626.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG20230817155637.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG20230817155908.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG20230817155929.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG20230817155934.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG20230817160435.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG20230817161516.jpg,Biotic,Biotic,0.9999,Leaf Spot
+IMG20230817162018.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG20230817162042.jpg,Biotic,Abiotic,0.9997,Leaf Spot
+IMG20230817162123.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG20230817162138.jpg,Biotic,Biotic,0.9981,Leaf Spot
+IMG20230817162236.jpg,Biotic,Biotic,0.8286,Leaf Spot
+IMG20230817162241.jpg,Biotic,Abiotic,0.9887,Leaf Spot
+IMG20230817162249.jpg,Biotic,Biotic,0.6398,Leaf Spot
+IMG20230819151736.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG20230819151747.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG20230819151859.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG20230819152245.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG_20230817_130612.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG_20230817_130619.jpg,Biotic,Biotic,0.9997,Leaf Spot
+IMG_20230817_130736.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG_20230817_130820.jpg,Biotic,Abiotic,0.9798,Leaf Spot
+IMG_20230817_130850.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG_20230817_131124.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG_20230817_131340.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG_20230817_131530.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG_20230817_131547.jpg,Biotic,Biotic,0.8308,Leaf Spot
+IMG_20230817_144825.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG_20230817_154228.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG_20230817_154238.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG_20230817_154244.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG_20230817_154311.jpg,Biotic,Biotic,0.9999,Leaf Spot
+IMG_20230817_154316.jpg,Biotic,Biotic,0.9999,Leaf Spot
+IMG_20230817_154441.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG_20230817_154555_9.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG_20230817_154756.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG_20230817_154759.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG_20230817_154852_1.jpg,Biotic,Biotic,0.9955,Leaf Spot
+IMG_20230817_161031_4.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG_20230817_161553.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG_20230817_161556.jpg,Biotic,Abiotic,0.9189,Leaf Spot
+IMG_20230817_161558.jpg,Biotic,Biotic,0.8320,Leaf Spot
+IMG_20230817_161606.jpg,Biotic,Biotic,0.9992,Leaf Spot
+IMG_20230817_161629.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG_20230817_161642.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG_20230817_161900.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG_20230817_161908.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG_20230817_161915.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG_20230817_161930.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG_20230817_162043_9.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG_20230817_162421.jpg,Biotic,Biotic,0.8500,Leaf Spot
+IMG_2466.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG_2475.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG_2476.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG_2480.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG_2485.jpg,Biotic,Biotic,0.9998,Leaf Spot
+IMG_2486.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG_2584.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG_2593.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG_2617.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG_2620.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG_2662.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG20230819134422.jpg,Biotic,Biotic,1.0000,Powdery Mildew
+IMG20230819134718.jpg,Biotic,Biotic,0.9965,Powdery Mildew
+IMG20230819134740.jpg,Biotic,Biotic,0.9953,Powdery Mildew
+IMG20230819152220.jpg,Biotic,Biotic,0.9260,Powdery Mildew
+IMG20230819152501.jpg,Biotic,Abiotic,0.9996,Powdery Mildew
+IMG20230819152534.jpg,Biotic,Abiotic,0.9919,Powdery Mildew
+IMG20230819152547.jpg,Biotic,Abiotic,1.0000,Powdery Mildew
+IMG_20230817_162145_7.jpg,Biotic,Abiotic,0.9767,Powdery Mildew
+IMG_20231027_061212 (1).jpg,Biotic,Biotic,0.9995,Powdery Mildew
+IMG_20231027_061212.jpg,Biotic,Biotic,0.9974,Powdery Mildew
+IMG_20231027_061225 (1).jpg,Biotic,Abiotic,1.0000,Powdery Mildew
+IMG_20231027_061225.jpg,Biotic,Abiotic,1.0000,Powdery Mildew
+IMG_20231027_061550.jpg,Biotic,Biotic,1.0000,Powdery Mildew
+IMG_2573.jpg,Biotic,Biotic,0.9955,Powdery Mildew
+IMG-20230818-WA0101.jpg,Biotic,Biotic,1.0000,Rust
+IMG20230817145741.jpg,Biotic,Biotic,1.0000,Rust
+IMG20230817145799.jpg,Biotic,Biotic,1.0000,Rust
+IMG20230817152032.jpg,Biotic,Biotic,1.0000,Rust
+IMG20230817152044.jpg,Biotic,Biotic,1.0000,Rust
+IMG20230817152100.jpg,Biotic,Abiotic,0.9993,Rust
+IMG20230817152107.jpg,Biotic,Abiotic,0.9995,Rust
+IMG20230817154544.jpg,Biotic,Abiotic,0.9858,Rust
+IMG20230817155212.jpg,Biotic,Biotic,1.0000,Rust
+IMG20230817155218.jpg,Biotic,Biotic,1.0000,Rust
+IMG20230817155234.jpg,Biotic,Biotic,0.9997,Rust
+IMG20230817155248.jpg,Biotic,Biotic,1.0000,Rust
+IMG20230817155516.jpg,Biotic,Biotic,1.0000,Rust
+IMG20230817155526.jpg,Biotic,Abiotic,0.9999,Rust
+IMG20230817155541.jpg,Biotic,Biotic,1.0000,Rust
+IMG20230817160109.jpg,Biotic,Biotic,1.0000,Rust
+IMG20230817161812.jpg,Biotic,Biotic,1.0000,Rust
+IMG_20230817_154346.jpg,Biotic,Biotic,1.0000,Rust
+IMG_20230817_154704.jpg,Biotic,Biotic,1.0000,Rust
+IMG_20230817_154711.jpg,Biotic,Biotic,1.0000,Rust
+IMG_20230817_154716.jpg,Biotic,Biotic,1.0000,Rust
+IMG_20230817_154739.jpg,Biotic,Biotic,1.0000,Rust
+IMG_20230817_155006_5.jpg,Biotic,Biotic,0.7772,Rust
+IMG_20230817_155025_8.jpg,Biotic,Biotic,0.9959,Rust
+IMG_20230817_155100.jpg,Biotic,Biotic,1.0000,Rust
+IMG_20230817_160122.jpg,Biotic,Biotic,1.0000,Rust
+IMG_20230817_160126.jpg,Biotic,Abiotic,1.0000,Rust
+IMG_20230817_161858.jpg,Biotic,Biotic,0.9982,Rust
+IMG_20230817_161904.jpg,Biotic,Abiotic,0.5050,Rust
+IMG_20230817_161927.jpg,Biotic,Biotic,1.0000,Rust
+IMG_20230819_102754.jpg,Biotic,Biotic,0.6416,Rust
+IMG_20231027_061023.jpg,Biotic,Abiotic,0.6724,Rust
+IMG_20231027_061031.jpg,Biotic,Biotic,0.9999,Rust
+IMG_20231027_061044 (1).jpg,Biotic,Biotic,1.0000,Rust
+IMG_20231027_061044.jpg,Biotic,Biotic,0.9999,Rust
+IMG_20231027_061111 (1).jpg,Biotic,Abiotic,1.0000,Rust
+IMG_20231027_061111(1).jpg,Biotic,Abiotic,1.0000,Rust
+IMG_20231027_061111.jpg,Biotic,Abiotic,1.0000,Rust
+IMG_20231027_061121 (1).jpg,Biotic,Abiotic,0.7893,Rust
+IMG_20231027_061121.jpg,Biotic,Abiotic,0.9998,Rust
+IMG_20231027_061341.jpg,Biotic,Abiotic,0.7302,Rust
+IMG_20231027_061344.jpg,Biotic,Biotic,0.9994,Rust
+IMG_20231027_061404.jpg,Biotic,Biotic,1.0000,Rust
+IMG_2472.jpg,Biotic,Biotic,1.0000,Rust
+IMG_2517.jpg,Biotic,Biotic,1.0000,Rust
+IMG_2518.jpg,Biotic,Abiotic,0.9907,Rust
+IMG_2520.jpg,Biotic,Biotic,1.0000,Rust
+IMG_2521.jpg,Biotic,Biotic,1.0000,Rust
+IMG_2522.jpg,Biotic,Biotic,1.0000,Rust
+IMG_2523.jpg,Biotic,Abiotic,0.8408,Rust
+IMG_2553.jpg,Biotic,Abiotic,0.6671,Rust
+IMG_2554.jpg,Biotic,Biotic,0.9956,Rust
+IMG_2654.jpg,Biotic,Biotic,0.9993,Rust
+IMG-20230815-WA0003.jpg,Biotic,Abiotic,0.7918,Canker
+IMG-20230815-WA0004.jpg,Biotic,Biotic,1.0000,Canker
+IMG-20230815-WA0007.jpg,Biotic,Biotic,0.8705,Canker
+IMG-20230815-WA0022.jpg,Biotic,Biotic,1.0000,Canker
+IMG-20230815-WA0028.jpg,Biotic,Biotic,1.0000,Canker
+IMG20230814095846.jpg,Biotic,Biotic,1.0000,Canker
+IMG20230814095907.jpg,Biotic,Biotic,0.9998,Canker
+IMG202308140959088.jpg,Biotic,Biotic,1.0000,Canker
+IMG20230814095953.jpg,Biotic,Abiotic,0.9935,Canker
+IMG20230814100014.jpg,Biotic,Biotic,1.0000,Canker
+IMG20230814100048.jpg,Biotic,Biotic,1.0000,Canker
+IMG20230814100200.jpg,Biotic,Abiotic,0.7334,Canker
+IMG20230814100218.jpg,Biotic,Abiotic,0.9894,Canker
+IMG20230817130757.jpg,Biotic,Biotic,1.0000,Canker
+IMG20230817130814.jpg,Biotic,Biotic,1.0000,Canker
+IMG20230817130859.jpg,Biotic,Biotic,1.0000,Canker
+IMG20230817131716.jpg,Biotic,Biotic,1.0000,Canker
+IMG_20230817_132033.jpg,Biotic,Biotic,0.9620,Canker
+IMG_20230817_155217_9.jpg,Biotic,Biotic,1.0000,Canker
+IMG_20230817_161539.jpg,Biotic,Biotic,0.9934,Canker
+IMG_20230817_161638.jpg,Biotic,Biotic,1.0000,Canker
+IMG_20230817_162027.jpg,Biotic,Biotic,0.9978,Canker
+IMG_20230817_162035.jpg,Biotic,Biotic,0.9999,Canker
+IMG_20230817_162048.jpg,Biotic,Biotic,0.9999,Canker
+IMG_20230817_162328_0.jpg,Biotic,Abiotic,1.0000,Canker
+IMG_2467.jpg,Biotic,Biotic,1.0000,Canker
+IMG_2469.jpg,Biotic,Abiotic,0.7609,Canker
+IMG_2481.jpg,Biotic,Biotic,1.0000,Canker
+IMG_2561.jpg,Biotic,Biotic,1.0000,Canker
+IMG_2562.jpg,Biotic,Biotic,0.9999,Canker
+IMG_2570.jpg,Biotic,Biotic,1.0000,Canker
+IMG_2572.jpg,Biotic,Biotic,1.0000,Canker
+IMG_2611.jpg,Biotic,Biotic,1.0000,Canker
+IMG_2622.jpg,Biotic,Biotic,1.0000,Canker
+IMG_2653.jpg,Biotic,Biotic,1.0000,Canker
+IMG_2655.jpg,Biotic,Biotic,0.9604,Canker
+IMG_2664.jpg,Biotic,Abiotic,0.9816,Canker
+20230819_135133.jpg,Biotic,Biotic,1.0000,Curling
+20230819_135240.jpg,Biotic,Biotic,0.7634,Curling
+IMG-20230815-WA0025.jpg,Biotic,Biotic,0.7893,Curling
+IMG20230817154332.jpg,Biotic,Biotic,1.0000,Curling
+IMG20230817154450.jpg,Biotic,Biotic,1.0000,Curling
+IMG20230817154524.jpg,Biotic,Biotic,1.0000,Curling
+IMG20230817154627.jpg,Biotic,Biotic,0.9936,Curling
+IMG20230817154959.jpg,Biotic,Abiotic,0.9833,Curling
+IMG20230817155009.jpg,Biotic,Biotic,0.8881,Curling
+IMG20230817155017.jpg,Biotic,Biotic,0.9996,Curling
+IMG20230817155257.jpg,Biotic,Abiotic,0.6204,Curling
+IMG20230817155313.jpg,Biotic,Biotic,1.0000,Curling
+IMG20230817155317.jpg,Biotic,Biotic,1.0000,Curling
+IMG20230817155834.jpg,Biotic,Biotic,0.9156,Curling
+IMG20230817160207.jpg,Biotic,Biotic,0.9996,Curling
+IMG20230817160556.jpg,Biotic,Biotic,1.0000,Curling
+IMG20230817160616.jpg,Biotic,Biotic,1.0000,Curling
+IMG20230817160631.jpg,Biotic,Biotic,1.0000,Curling
+IMG20230817160813.jpg,Biotic,Biotic,1.0000,Curling
+IMG20230817160823.jpg,Biotic,Biotic,1.0000,Curling
+IMG20230817161139.jpg,Biotic,Biotic,0.9999,Curling
+IMG20230817161156.jpg,Biotic,Biotic,0.9999,Curling
+IMG20230817161200.jpg,Biotic,Biotic,1.0000,Curling
+IMG20230817161512.jpg,Biotic,Biotic,1.0000,Curling
+IMG20230817161608.jpg,Biotic,Biotic,0.9999,Curling
+IMG20230817161842.jpg,Biotic,Biotic,0.5161,Curling
+IMG20230817161911.jpg,Biotic,Abiotic,0.9814,Curling
+IMG20230817162143.jpg,Biotic,Biotic,0.9992,Curling
+IMG20230817162302.jpg,Biotic,Abiotic,0.8838,Curling
+IMG20230817162306.jpg,Biotic,Abiotic,1.0000,Curling
+IMG20230817162315.jpg,Biotic,Abiotic,0.9948,Curling
+IMG20230817162427.jpg,Biotic,Biotic,0.9984,Curling
+IMG20230817162708.jpg,Biotic,Biotic,0.9997,Curling
+IMG20230817162713.jpg,Biotic,Biotic,0.9998,Curling
+IMG20230817162823.jpg,Biotic,Abiotic,0.9999,Curling
+IMG20230819151434.jpg,Biotic,Biotic,0.9998,Curling
+IMG20230819151810.jpg,Biotic,Biotic,1.0000,Curling
+IMG20230819151826.jpg,Biotic,Biotic,1.0000,Curling
+IMG20230819152311.jpg,Biotic,Biotic,1.0000,Curling
+IMG20230819152322.jpg,Biotic,Biotic,0.9801,Curling
+IMG20230819152331.jpg,Biotic,Biotic,0.9461,Curling
+IMG_20230817_144931.jpg,Biotic,Biotic,1.0000,Curling
+IMG_20230817_151940_Burst01.jpg,Biotic,Biotic,0.9429,Curling
+IMG_20230817_152011.jpg,Biotic,Biotic,0.9992,Curling
+IMG_20230817_154507_0.jpg,Biotic,Biotic,1.0000,Curling
+IMG_20230817_155119.jpg,Biotic,Biotic,1.0000,Curling
+IMG_20230817_155346_4.jpg,Biotic,Biotic,1.0000,Curling
+IMG_20230817_155454_8.jpg,Biotic,Biotic,0.5993,Curling
+IMG_20230817_155722_1.jpg,Biotic,Biotic,0.9845,Curling
+IMG_20230817_155738_9.jpg,Biotic,Biotic,0.9450,Curling
+IMG_20230817_160202.jpg,Biotic,Abiotic,0.9617,Curling
+IMG_20230817_161634.jpg,Biotic,Biotic,0.9951,Curling
+IMG_20230817_162056_7.jpg,Biotic,Biotic,0.8964,Curling
+IMG_20230817_162100_1.jpg,Biotic,Biotic,0.9393,Curling
+IMG_20230817_162121_6.jpg,Biotic,Biotic,1.0000,Curling
+IMG_20230817_162239_5.jpg,Biotic,Abiotic,0.9401,Curling
+IMG_2465.jpg,Biotic,Abiotic,0.9909,Curling
+IMG_2473.jpg,Biotic,Abiotic,0.9978,Curling
+IMG_2591.jpg,Biotic,Biotic,0.5325,Curling
+IMG_2596.jpg,Biotic,Biotic,1.0000,Curling
+IMG_2597.jpg,Biotic,Biotic,1.0000,Curling
+IMG_2598.jpg,Biotic,Biotic,0.9999,Curling
+IMG_2599.jpg,Biotic,Biotic,1.0000,Curling
+IMG_2602.jpg,Biotic,Biotic,1.0000,Curling
+IMG_2657.jpg,Biotic,Abiotic,0.9999,Curling
+IMG_2667.jpg,Biotic,Abiotic,1.0000,Curling
+IMG_2668.jpg,Biotic,Biotic,1.0000,Curling
+20230819_130630.jpg,Biotic,Biotic,0.9629,Leaf Spot
+20230819_130646.jpg,Biotic,Biotic,1.0000,Leaf Spot
+20230819_130709.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG-20230815-WA0014.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG-20230815-WA0021.jpg,Biotic,Biotic,0.7331,Leaf Spot
+IMG-20230816-WA0000.jpg,Biotic,Abiotic,0.9999,Leaf Spot
+IMG-20230816-WA0001.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG-20230818-WA0097.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG-20230818-WA0100.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG-20230818-WA0109.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG-20230818-WA0110.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG-20230818-WA0115.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG-20230818-WA0116.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG20230814095609.jpg,Biotic,Biotic,0.8277,Leaf Spot
+IMG20230814095613.jpg,Biotic,Abiotic,0.9536,Leaf Spot
+IMG20230814095627.jpg,Biotic,Biotic,0.9913,Leaf Spot
+IMG20230817130832.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG20230817131142.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG20230817131628.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG20230817131702.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG20230817131857.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG20230817131908.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG20230817144617.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG20230817155530.jpg,Biotic,Biotic,0.9993,Leaf Spot
+IMG20230817155626.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG20230817155637.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG20230817155908.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG20230817155929.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG20230817155934.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG20230817160435.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG20230817161516.jpg,Biotic,Biotic,0.9999,Leaf Spot
+IMG20230817162018.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG20230817162042.jpg,Biotic,Abiotic,0.9997,Leaf Spot
+IMG20230817162123.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG20230817162138.jpg,Biotic,Biotic,0.9981,Leaf Spot
+IMG20230817162236.jpg,Biotic,Biotic,0.8286,Leaf Spot
+IMG20230817162241.jpg,Biotic,Abiotic,0.9887,Leaf Spot
+IMG20230817162249.jpg,Biotic,Biotic,0.6398,Leaf Spot
+IMG20230819151736.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG20230819151747.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG20230819151859.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG20230819152245.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG_20230817_130612.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG_20230817_130619.jpg,Biotic,Biotic,0.9997,Leaf Spot
+IMG_20230817_130736.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG_20230817_130820.jpg,Biotic,Abiotic,0.9798,Leaf Spot
+IMG_20230817_130850.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG_20230817_131124.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG_20230817_131340.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG_20230817_131530.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG_20230817_131547.jpg,Biotic,Biotic,0.8308,Leaf Spot
+IMG_20230817_144825.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG_20230817_154228.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG_20230817_154238.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG_20230817_154244.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG_20230817_154311.jpg,Biotic,Biotic,0.9999,Leaf Spot
+IMG_20230817_154316.jpg,Biotic,Biotic,0.9999,Leaf Spot
+IMG_20230817_154441.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG_20230817_154555_9.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG_20230817_154756.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG_20230817_154759.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG_20230817_154852_1.jpg,Biotic,Biotic,0.9955,Leaf Spot
+IMG_20230817_161031_4.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG_20230817_161553.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG_20230817_161556.jpg,Biotic,Abiotic,0.9189,Leaf Spot
+IMG_20230817_161558.jpg,Biotic,Biotic,0.8320,Leaf Spot
+IMG_20230817_161606.jpg,Biotic,Biotic,0.9992,Leaf Spot
+IMG_20230817_161629.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG_20230817_161642.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG_20230817_161900.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG_20230817_161908.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG_20230817_161915.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG_20230817_161930.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG_20230817_162043_9.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG_20230817_162421.jpg,Biotic,Biotic,0.8500,Leaf Spot
+IMG_2466.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG_2475.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG_2476.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG_2480.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG_2485.jpg,Biotic,Biotic,0.9998,Leaf Spot
+IMG_2486.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG_2584.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG_2593.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG_2617.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG_2620.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG_2662.jpg,Biotic,Biotic,1.0000,Leaf Spot
+IMG20230819134422.jpg,Biotic,Biotic,1.0000,Powdery Mildew
+IMG20230819134718.jpg,Biotic,Biotic,0.9965,Powdery Mildew
+IMG20230819134740.jpg,Biotic,Biotic,0.9953,Powdery Mildew
+IMG20230819152220.jpg,Biotic,Biotic,0.9260,Powdery Mildew
+IMG20230819152501.jpg,Biotic,Abiotic,0.9996,Powdery Mildew
+IMG20230819152534.jpg,Biotic,Abiotic,0.9919,Powdery Mildew
+IMG20230819152547.jpg,Biotic,Abiotic,1.0000,Powdery Mildew
+IMG_20230817_162145_7.jpg,Biotic,Abiotic,0.9767,Powdery Mildew
+IMG_20231027_061212 (1).jpg,Biotic,Biotic,0.9995,Powdery Mildew
+IMG_20231027_061212.jpg,Biotic,Biotic,0.9974,Powdery Mildew
+IMG_20231027_061225 (1).jpg,Biotic,Abiotic,1.0000,Powdery Mildew
+IMG_20231027_061225.jpg,Biotic,Abiotic,1.0000,Powdery Mildew
+IMG_20231027_061550.jpg,Biotic,Biotic,1.0000,Powdery Mildew
+IMG_2573.jpg,Biotic,Biotic,0.9955,Powdery Mildew
+IMG-20230818-WA0101.jpg,Biotic,Biotic,1.0000,Rust
+IMG20230817145741.jpg,Biotic,Biotic,1.0000,Rust
+IMG20230817145799.jpg,Biotic,Biotic,1.0000,Rust
+IMG20230817152032.jpg,Biotic,Biotic,1.0000,Rust
+IMG20230817152044.jpg,Biotic,Biotic,1.0000,Rust
+IMG20230817152100.jpg,Biotic,Abiotic,0.9993,Rust
+IMG20230817152107.jpg,Biotic,Abiotic,0.9995,Rust
+IMG20230817154544.jpg,Biotic,Abiotic,0.9858,Rust
+IMG20230817155212.jpg,Biotic,Biotic,1.0000,Rust
+IMG20230817155218.jpg,Biotic,Biotic,1.0000,Rust
+IMG20230817155234.jpg,Biotic,Biotic,0.9997,Rust
+IMG20230817155248.jpg,Biotic,Biotic,1.0000,Rust
+IMG20230817155516.jpg,Biotic,Biotic,1.0000,Rust
+IMG20230817155526.jpg,Biotic,Abiotic,0.9999,Rust
+IMG20230817155541.jpg,Biotic,Biotic,1.0000,Rust
+IMG20230817160109.jpg,Biotic,Biotic,1.0000,Rust
+IMG20230817161812.jpg,Biotic,Biotic,1.0000,Rust
+IMG_20230817_154346.jpg,Biotic,Biotic,1.0000,Rust
+IMG_20230817_154704.jpg,Biotic,Biotic,1.0000,Rust
+IMG_20230817_154711.jpg,Biotic,Biotic,1.0000,Rust
+IMG_20230817_154716.jpg,Biotic,Biotic,1.0000,Rust
+IMG_20230817_154739.jpg,Biotic,Biotic,1.0000,Rust
+IMG_20230817_155006_5.jpg,Biotic,Biotic,0.7772,Rust
+IMG_20230817_155025_8.jpg,Biotic,Biotic,0.9959,Rust
+IMG_20230817_155100.jpg,Biotic,Biotic,1.0000,Rust
+IMG_20230817_160122.jpg,Biotic,Biotic,1.0000,Rust
+IMG_20230817_160126.jpg,Biotic,Abiotic,1.0000,Rust
+IMG_20230817_161858.jpg,Biotic,Biotic,0.9982,Rust
+IMG_20230817_161904.jpg,Biotic,Abiotic,0.5050,Rust
+IMG_20230817_161927.jpg,Biotic,Biotic,1.0000,Rust
+IMG_20230819_102754.jpg,Biotic,Biotic,0.6416,Rust
+IMG_20231027_061023.jpg,Biotic,Abiotic,0.6724,Rust
+IMG_20231027_061031.jpg,Biotic,Biotic,0.9999,Rust
+IMG_20231027_061044 (1).jpg,Biotic,Biotic,1.0000,Rust
+IMG_20231027_061044.jpg,Biotic,Biotic,0.9999,Rust
+IMG_20231027_061111 (1).jpg,Biotic,Abiotic,1.0000,Rust
+IMG_20231027_061111(1).jpg,Biotic,Abiotic,1.0000,Rust
+IMG_20231027_061111.jpg,Biotic,Abiotic,1.0000,Rust
+IMG_20231027_061121 (1).jpg,Biotic,Abiotic,0.7893,Rust
+IMG_20231027_061121.jpg,Biotic,Abiotic,0.9998,Rust
+IMG_20231027_061341.jpg,Biotic,Abiotic,0.7302,Rust
+IMG_20231027_061344.jpg,Biotic,Biotic,0.9994,Rust
+IMG_20231027_061404.jpg,Biotic,Biotic,1.0000,Rust
+IMG_2472.jpg,Biotic,Biotic,1.0000,Rust
+IMG_2517.jpg,Biotic,Biotic,1.0000,Rust
+IMG_2518.jpg,Biotic,Abiotic,0.9907,Rust
+IMG_2520.jpg,Biotic,Biotic,1.0000,Rust
+IMG_2521.jpg,Biotic,Biotic,1.0000,Rust
+IMG_2522.jpg,Biotic,Biotic,1.0000,Rust
+IMG_2523.jpg,Biotic,Abiotic,0.8408,Rust
+IMG_2553.jpg,Biotic,Abiotic,0.6671,Rust
+IMG_2554.jpg,Biotic,Biotic,0.9956,Rust
+IMG_2654.jpg,Biotic,Biotic,0.9993,Rust

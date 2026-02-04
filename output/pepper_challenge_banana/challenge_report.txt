@@ -1,0 +1,9 @@
+=== Pepper-to-Banana Transfer Test Report ===
+              precision    recall  f1-score   support
+
+     abiotic       0.38      0.36      0.37      1530
+      biotic       0.81      0.82      0.82      5170
+
+    accuracy                           0.72      6700
+   macro avg       0.59      0.59      0.59      6700
+weighted avg       0.71      0.72      0.72      6700

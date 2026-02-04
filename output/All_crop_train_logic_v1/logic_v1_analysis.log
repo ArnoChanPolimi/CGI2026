@@ -1,0 +1,78 @@
+2026-01-23 22:10:23,354 - INFO - --- 🔍 开始 Logic_V1 全方位评估报告 ---
+2026-01-23 22:10:23,675 - INFO - ✅ 趋势图已保存至: loss_trend_logic_v1.png
+2026-01-23 22:12:29,739 - INFO - 
+==================== F1 / Precision / Recall 报告 ====================
+              precision    recall  f1-score   support
+
+     Abiotic       0.95      0.97      0.96      4549
+      Biotic       0.97      0.96      0.97      5591
+
+    accuracy                           0.96     10140
+   macro avg       0.96      0.96      0.96     10140
+weighted avg       0.96      0.96      0.96     10140
+
+2026-01-23 22:12:29,876 - INFO - ✅ 混淆矩阵图已保存至: confusion_matrix_logic_v1.png
+2026-01-23 22:12:29,877 - INFO - ✅ 错题明细与作物诊断报告已存入: output\All_crop_train_logic_v1\error_analysis
+2026-01-23 22:12:29,891 - INFO - 
+--- 作物偏科概览 ---
+     Crop  Error_Count  Total_In_Test  Error_Rate (%)
+ AloeVera          214           3264            6.56
+   Tomato           66           1328            4.97
+Carambola           86           1828            4.70
+    Wheat            2            204            0.98
+   Chilli           15           1852            0.81
+   cherry            1            214            0.47
+    Mazie            1            703            0.14
+2026-01-23 22:12:29,892 - INFO - --- 🚀 分析任务圆满完成！ ---
+2026-01-23 23:08:18,546 - INFO - --- 🔍 开始 Logic_V1 全方位评估报告 (找回旧版数值标注) ---
+2026-01-23 23:08:18,831 - INFO - ✅ 带数值标注的趋势图已保存至: loss_trend_logic_v1.png
+2026-01-23 23:11:02,367 - INFO - 
+==================== F1 / Precision / Recall 报告 ====================
+              precision    recall  f1-score   support
+
+     Abiotic       0.95      0.97      0.96      4549
+      Biotic       0.97      0.96      0.97      5591
+
+    accuracy                           0.96     10140
+   macro avg       0.96      0.96      0.96     10140
+weighted avg       0.96      0.96      0.96     10140
+
+2026-01-23 23:11:02,505 - INFO - ✅ 混淆矩阵图已保存至: confusion_matrix_logic_v1.png
+2026-01-23 23:11:02,505 - INFO - ✅ 错题明细与作物诊断报告已存入: output\All_crop_train_logic_v1\error_analysis
+2026-01-23 23:11:02,505 - INFO - 
+--- 作物偏科概览 ---
+     Crop  Error_Count  Total_In_Test  Error_Rate (%)
+ AloeVera          214           3264            6.56
+   Tomato           66           1328            4.97
+Carambola           86           1828            4.70
+    Wheat            2            204            0.98
+   Chilli           15           1852            0.81
+   cherry            1            214            0.47
+    Mazie            1            703            0.14
+2026-01-23 23:11:02,519 - INFO - --- 🚀 分析任务圆满完成！ ---
+2026-01-23 23:25:04,609 - INFO - --- 🔍 开始 Logic_V1 全方位评估报告 (找回旧版数值标注) ---
+2026-01-23 23:25:06,743 - INFO - ✅ 带数值标注的趋势图已保存至: loss_trend_logic_v1.png
+2026-01-23 23:34:13,021 - INFO - 
+==================== F1 / Precision / Recall 报告 ====================
+              precision    recall  f1-score   support
+
+     Abiotic       0.95      0.97      0.96      4549
+      Biotic       0.97      0.96      0.97      5591
+
+    accuracy                           0.96     10140
+   macro avg       0.96      0.96      0.96     10140
+weighted avg       0.96      0.96      0.96     10140
+
+2026-01-23 23:34:13,697 - INFO - ✅ 混淆矩阵图已保存至: confusion_matrix_logic_v1.png
+2026-01-23 23:34:13,746 - INFO - ✅ 错题明细与作物诊断报告已存入: output\All_crop_train_logic_v1\error_analysis
+2026-01-23 23:34:13,760 - INFO - 
+--- 作物偏科概览 ---
+     Crop  Error_Count  Total_In_Test  Error_Rate (%)
+ AloeVera          214           3264            6.56
+   Tomato           66           1328            4.97
+Carambola           86           1828            4.70
+    Wheat            2            204            0.98
+   Chilli           15           1852            0.81
+   cherry            1            214            0.47
+    Mazie            1            703            0.14
+2026-01-23 23:34:13,761 - INFO - --- 🚀 分析任务圆满完成！ ---

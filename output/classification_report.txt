@@ -1,0 +1,8 @@
+              precision    recall  f1-score   support
+
+     abiotic       0.98      0.88      0.93       242
+      biotic       0.98      1.00      0.99      1194
+
+    accuracy                           0.98      1436
+   macro avg       0.98      0.94      0.96      1436
+weighted avg       0.98      0.98      0.98      1436

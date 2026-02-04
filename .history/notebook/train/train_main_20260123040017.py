@@ -1,0 +1,108 @@
+# notebook/train/train_main.py
+import torch
+import torch.nn as nn
+import torch.optim as optim
+from torch.utils.data import DataLoader
+from pathlib import Path
+import pandas as pd
+import sys
+
+from dataset import PlantDataset, get_transforms
+from model import get_plant_model
+
+# 处理路径和日志工具
+current_file = Path(__file__).resolve()
+ROOT_DIR = current_file.parent.parent.parent
+sys.path.append(str(ROOT_DIR))
+from notebook.tools.logger_utils import get_logger
+
+# ================= 针对 11GB 数据 & CPU 的硬核配置 =================
+CSV_PATH = ROOT_DIR / "output" / "dataset_index" / "dataset_index.csv"
+SAVE_DIR = ROOT_DIR / "output" / "All_crop_train"
+SAVE_DIR.mkdir(parents=True, exist_ok=True)
+
+# 调用你的 logger 脚本，存放在 output/All_crop_train，文件名自定义
+logger = get_logger(log_dir=str(SAVE_DIR), log_filename="cpu_training_v1.log")
+
+BATCH_SIZE = 16  # 利用 32G 内存，提高 CPU 利用率
+EPOCHS = 5  # 11GB 数据量大，先跑 5 轮查看效果
+LR = 0.0005  # 较小的学习率保证在不平衡数据下的稳定性
+DEVICE = torch.device("cpu")
+# =================================================================
+
+
+def train():
+    logger.info("--- 开始训练任务 (针对 11GB 数据的优化版) ---")
+
+    # 1. 计算权重，对抗“数据量不平衡”
+    df = pd.read_csv(CSV_PATH)
+    train_df = df[df["split"] == "train"]
+    counts = train_df["label"].value_counts().sort_index().values
+
+    # 逻辑：样本越少，权重越高。防止模型只学 AloeVera。
+    weights = 1.0 / torch.tensor(counts, dtype=torch.float)
+    weights = weights / weights.sum() * 2.0  # 归一化并平衡
+    class_weights = weights.to(DEVICE)
+
+    logger.info(f"类别统计: Abiotic={counts[0]}, Biotic={counts[1]}")
+    logger.info(f"损失函数补偿权重: {class_weights}")
+
+    # 2. 准备数据加载
+    train_tf, test_tf = get_transforms()
+    train_ds = PlantDataset(CSV_PATH, ROOT_DIR, split="train", transform=train_tf)
+    # Windows CPU 建议 num_workers 为 0 或较小值，防止死锁
+    train_loader = DataLoader(
+        train_ds, batch_size=BATCH_SIZE, shuffle=True, num_workers=0
+    )
+
+    # 3. 初始化
+    model = get_plant_model(num_classes=2).to(DEVICE)
+    # 【新增：权重扫描与加载逻辑】
+    checkpoint_path = SAVE_DIR / "checkpoint_epoch_5.pth"  # 假设你想加载第5轮的结果
+
+    if checkpoint_path.exists():
+        logger.info(f"🔍 发现已存在的权重文件: {checkpoint_path}，正在加载...")
+        # map_location='cpu' 确保在没 GPU 的电脑上也能顺利读取
+        state_dict = torch.load(checkpoint_path, map_location=DEVICE)
+        model.load_state_dict(state_dict)
+        logger.info("✅ 权重加载成功！将在现有基础上继续训练/测试。")
+    else:
+        logger.info("🆕 未发现预存权重，将从官方预训练大脑开始训练。")
+
+    criterion = nn.CrossEntropyLoss(weight=class_weights)  # 应用补偿权重
+    optimizer = optim.Adam(model.parameters(), lr=LR)
+
+    # 4. 训练
+    for epoch in range(EPOCHS):
+        model.train()
+        running_loss = 0.0
+        for i, (images, labels) in enumerate(train_loader):
+            images, labels = images.to(DEVICE), labels.to(DEVICE)
+
+            optimizer.zero_grad()
+            outputs = model(images)
+            loss = criterion(outputs, labels)
+            loss.backward()
+            optimizer.step()
+
+            running_loss += loss.item()
+
+            # 每 100 步打印一次，因为 CPU 慢，进度反馈很重要
+            if (i + 1) % 100 == 0:
+                msg = f"Epoch [{epoch+1}/{EPOCHS}], Step [{i+1}/{len(train_loader)}], Loss: {loss.item():.4f}"
+                print(msg)
+                # 定期写入日志文件（追加模式）
+                if (i + 1) % 500 == 0:
+                    logger.info(msg)
+
+        avg_loss = running_loss / len(train_loader)
+        logger.info(f"===> Epoch {epoch+1} 完成，平均 Loss: {avg_loss:.4f}")
+
+        # 每一轮保存一个模型，防止断电
+        torch.save(model.state_dict(), SAVE_DIR / f"checkpoint_epoch_{epoch+1}.pth")
+
+    logger.info("--- 训练结束，准备后续分析 ---")
+
+
+if __name__ == "__main__":
+    train()
